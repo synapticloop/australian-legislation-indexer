@@ -1,3 +1,4 @@
 # Australian Legislation Indexer and Search engine
 
-Based on Synapticloop Panl
+Powered by Synapticloop Panl
+

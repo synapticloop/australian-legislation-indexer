@@ -1,0 +1,2769 @@
+<?xml version="1.0"?>
+<!DOCTYPE exdoc PUBLIC "-//NSWPCO//DTD Ldds Exchange XML//EN" "exchangeXML.dtd">
+
+
+<exdoc
+id="act-1991-072"
+title="Dividing Fences Act 1991"
+year="1991"
+number="72"
+enact.or.made.date="1991-12-17"
+first.valid.date="2018-07-01"
+source="NSW Parliamentary Counsel"
+doc.class="other"
+source.dtd="-//NSWPCO//DTD Ldds Act//EN"
+>
+
+<metadata class="act">
+<metacontent class="year.passed">1991</metacontent>
+<metacontent class="year.assent">1991</metacontent>
+<metacontent class="publication.date">2023-02-27</metacontent>
+<metacontent class="type">act</metacontent>
+<metacontent class="act.type">publicgeneral</metacontent>
+<metacontent class="print.type">act.reprint</metacontent>
+<metacontent class="last.consol.amend.id">act-2017-017</metacontent>
+<metacontent class="in.force">allinforce</metacontent>
+<metacontent class="id">act-1991-072</metacontent>
+<metacontent
+class="version.desc.id">d35fee44-1784-43b4-9d5a-41ca7b8286f5</metacontent>
+<metacontent
+class="version.series.id">b44b27ab-9674-4388-83ae-333004b85daf</metacontent>
+<metacontent class="amending">none</metacontent></metadata>
+
+<parentattributes>
+<attrib name="title" value="Dividing Fences Act 1991"></attrib>
+<attrib name="year.passed" value="1991"></attrib>
+<attrib name="year.assent" value="1991"></attrib>
+<attrib name="no" value="72"></attrib>
+<attrib name="publication.date" value="2023-02-27"></attrib>
+<attrib name="type" value="act"></attrib>
+<attrib name="act.type" value="publicgeneral"></attrib>
+<attrib name="print.type" value="act.reprint"></attrib>
+<attrib name="last.consol.amend.id" value="act-2017-017"></attrib>
+<attrib name="first.valid.date" value="2018-07-01"></attrib>
+<attrib name="in.force" value="allinforce"></attrib>
+<attrib name="assent.date" value="1991-12-17"></attrib>
+<attrib name="id" value="act-1991-072"></attrib>
+<attrib name="version.desc.id"
+value="d35fee44-1784-43b4-9d5a-41ca7b8286f5"></attrib>
+<attrib name="version.series.id"
+value="b44b27ab-9674-4388-83ae-333004b85daf"></attrib>
+<attrib name="amending" value="none"></attrib></parentattributes>
+
+
+<content type="coverdata"></content>
+
+
+<content type="front">
+
+<tier type="longtitle" id="frnt-lt">
+<parentattributes>
+<attrib name="guid" value="_ee21838a-46e1-4aec-97a8-8fb7bb6b59ad"></attrib>
+<attrib name="id" value="frnt-lt"></attrib></parentattributes>
+
+<block><txt break.before="1">An Act to provide for the apportionment of the
+cost of dividing fences; to repeal the <legref jurisd="NSW" type="act"
+check="unknown"><name emphasis="yes"><i>Dividing Fences Act
+1951</i></name></legref>; and to amend certain other
+Acts.</txt></block></tier>
+</content>
+
+
+<content type="body">
+
+<level type="part" id="pt.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="guid" value="_3922f60d-4e82-433c-ac8b-d5e0c3fe0472"></attrib>
+<attrib name="id" value="pt.1"></attrib></parentattributes>
+
+<head>
+<no><b>Part 1</b></no><heading guid="_0e8060a6-2899-43b2-8b0e-c17d0f1529fe"
+id="pt.1-he"><b>Preliminary</b></heading></head>
+
+<level type="clause" id="sec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_1b553e98-aa88-4425-b7bf-b72a5f030897"></attrib>
+<attrib name="id" value="sec.1"></attrib></parentattributes>
+
+<head>
+<no>1</no><heading guid="_48382245-31c1-4c8a-ac01-de140df8e65e"
+id="sec.1-he"><b>Name of Act</b></heading></head>
+<block><txt break.before="1">This Act may be cited as the <legref jurisd="NSW"
+type="act" check="unknown" refid="act-1991-072"><name
+emphasis="yes"><i>Dividing Fences Act
+1991</i></name></legref>.</txt></block></level>
+
+
+<level type="clause" id="sec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_26449840-e2ba-468d-accf-e7f8472539cc"></attrib>
+<attrib name="id" value="sec.2"></attrib></parentattributes>
+
+<head>
+<no>2</no><heading guid="_4f29927e-465f-48b4-a5e9-960e139e5b06"
+id="sec.2-he"><b>Commencement</b></heading></head>
+<block><txt break.before="1">This Act commences on a day or days to be
+appointed by proclamation.</txt></block></level>
+
+
+<level type="clause" id="sec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_893de6d3-e016-4afc-9312-a84c25fb0ed7"></attrib>
+<attrib name="id" value="sec.3"></attrib></parentattributes>
+
+<head>
+<no>3</no><heading guid="_f9550775-d5f5-4757-9771-685af0f7e995"
+id="sec.3-he"><b>Definitions</b></heading></head>
+<block><txt break.before="1">In this Act:</txt>
+<deflist>
+<block><txt break.before="1"><defterm type="definition"
+guid="_2f3d0e10-aaa8-44f6-b438-2a2fac9a4544"
+id="def.adjoiningowners"><b><i>adjoining owners</i></b></defterm> means the
+owners of land on either side of a common boundary.</txt></block>
+<block><txt break.before="1"><defterm type="definition"
+guid="_c846bf5f-bfe5-42af-b4bc-6769e7958cad"
+id="def.dividingfence"><b><i>dividing fence</i></b></defterm> means a fence
+separating the land of adjoining owners, whether on the common boundary of
+adjoining lands or on a line other than the common boundary.</txt></block>
+<block><txt break.before="1"><defterm type="definition"
+guid="_3b64385a-e441-4bec-8a58-58a7be4cb0ea"
+id="def.fence"><b><i>fence</i></b></defterm> means a structure, ditch or
+embankment, or a hedge or similar vegetative barrier, enclosing or bounding
+land, whether or not continuous or extending along the whole of the boundary
+separating the land of adjoining owners, and includes:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_3e985255-ee2c-4daf-855a-a3225b61135e" id="sec.3-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">any gate, cattlegrid or apparatus necessary for
+the operation of the fence, and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_8e484f3f-f080-413f-a4cd-bba57ec00908" id="sec.3-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">any natural or artificial watercourse which
+separates the land of adjoining owners, and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_7d00f4f5-3424-4631-9fd6-a2a3e39a46f8" id="sec.3-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">any foundation or support necessary for the
+support and maintenance of the fence,</txt></block></li></list>
+
+<txt break.before="1">but does not include a retaining wall (except as
+provided by paragraph (c)) or a wall which is part of a house, garage or other
+building.</txt></block>
+<block><txt break.before="1"><defterm type="definition"
+guid="_66cd2556-ccc5-467c-b639-d3a4f7a78fb7"
+id="def.fencingwork"><b><i>fencing work</i></b></defterm> means:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_f52c8161-758f-46da-b817-290deb7ae12e" id="sec.3-para1.a-oc.2">
+<no>(a)</no>
+<block><txt break.before="1">the design, construction, replacement, repair or
+maintenance of the whole or part of a dividing fence, and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_7068f070-1d82-4159-b732-1d6385316972" id="sec.3-para1.b-oc.2">
+<no>(b)</no>
+<block><txt break.before="1">the surveying or preparation of land (including
+the trimming, lopping or removal of vegetation) along or on either side of the
+common boundary of adjoining lands for such a
+purpose,</txt></block></li></list>
+
+<txt break.before="1">and includes:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_7c92dda1-ddfd-448d-910d-973b1b736053" id="sec.3-para1.c-oc.2">
+<no>(c)</no>
+<block><txt break.before="1">the planting, replanting and maintenance of a
+hedge or similar vegetative barrier, and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_e0770186-93c6-4553-891b-22ddbc5cc3f3" id="sec.3-para1.d">
+<no>(d)</no>
+<block><txt break.before="1">the cleaning, deepening, enlargement or
+alteration of a ditch, embankment or watercourse that serves as a dividing
+fence.</txt></block></li></list>
+</block>
+<block><txt break.before="1"><defterm type="definition"
+guid="_9ddf9c99-c392-4f8d-8278-ef2757ffd1af"
+id="def.lease"><b><i>lease</i></b></defterm> includes a sublease and an
+agreement for a lease.</txt></block>
+<block><txt break.before="1"><defterm type="definition"
+guid="_43063378-c1ee-473f-9326-975fbfb8c2cf"
+id="def.owner"><b><i>owner</i></b></defterm> includes:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_a5b91f7e-69d5-4546-9214-dbef58cf4978" id="sec.3-para1.a-oc.3">
+<no>(a)</no>
+<block><txt break.before="1">any person who jointly or severally (whether at
+law or in equity) is entitled to land for any estate of freehold in possession
+or who receives or is entitled to receive any rents and profits of the land,
+whether as beneficial owner, trustee, mortgagee in possession or otherwise,
+and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_b0dd4ecc-7c2c-47f1-a837-b71da0c8c76e" id="sec.3-para1.b-oc.3">
+<no>(b)</no>
+<block><txt break.before="1">any person who is the holder of a lease (the
+unexpired term of which is not less than 5 years) when a notice to carry out
+fencing work in accordance with this Act is given by, or served on, that
+person, and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_6b807e69-178a-435d-8e00-89c214e88622" id="sec.3-para1.c-oc.3">
+<no>(c)</no>
+<block><txt break.before="1">any Crown land manager of Crown managed land
+(within the meaning of the <legref jurisd="NSW" type="act" check="unknown"
+refid="act-2016-058"><name emphasis="yes"><i>Crown Land Management Act
+2016</i></name></legref>).</txt></block></li></list>
+</block></deflist>
+</block>
+
+<content type="historynote"><txt break.before="1"><b>s 3:</b> Am 2008 No 72,
+Sch 1 [1] [2]; 2009 No 9, Sch 3.4 [1]; 2013 No 95, Sch 8.9 [1]; 2017 No 17,
+Sch 4.21 [1].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.4">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_a4916e0a-cc55-482e-94df-c0c828cddcaf"></attrib>
+<attrib name="id" value="sec.4"></attrib></parentattributes>
+
+<head>
+<no>4</no><heading guid="_931939f0-e0ad-4985-8ed9-1ab8a2c47ec3"
+id="sec.4-he"><b>Determination as to &#8220;sufficient dividing
+fence&#8221;</b></heading></head>
+<block><txt break.before="1">In any proceedings under this Act, the Local
+Court or the Civil and Administrative Tribunal is to consider all the
+circumstances of the case when determining the standard for a sufficient
+dividing fence for the purposes of this Act, including the following:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_7311f975-a32e-4384-bd1e-e6a881763d23" id="sec.4-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">the existing dividing fence (if
+any),</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_80f43655-f2ba-4e1e-bf35-d9af850f85ed" id="sec.4-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">the purposes for which the adjoining lands are
+used or intended to be used,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_6f00b6db-1647-4517-a8a2-b801ee4b5c91" id="sec.4-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">the privacy or other concerns of the adjoining
+land owners,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_22469c65-4e86-4f17-84fa-eca793c5edbe" id="sec.4-para1.d">
+<no>(d)</no>
+<block><txt break.before="1">the kind of dividing fence usual in the
+locality,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_1bc707fd-6b8c-4ac8-a553-8d815366f711" id="sec.4-para1.e">
+<no>(e)</no>
+<block><txt break.before="1">any policy or code relating to dividing fences
+adopted by the council of the local government area in which the adjoining
+lands are situated,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_03bbb23b-c300-45df-aef7-084b2a893013" id="sec.4-para1.f">
+<no>(f)</no>
+<block><txt break.before="1">any relevant environmental planning instrument
+relating to the adjoining lands or to the locality in which they are
+situated,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_1c580a12-dddb-47cc-b164-b9152d6fc1e8" id="sec.4-para1.g">
+<no>(g)</no>
+<block><txt break.before="1">in the case of a dividing fence affecting land
+the subject of a lease under the <legref jurisd="NSW" type="act"
+check="unknown" refid="act-1901-070"><name emphasis="yes"><i>Western Lands Act
+1901</i></name></legref>, any order in force under section 18A of that Act
+immediately before the repeal of that Act.</txt></block></li></list>
+</block>
+
+<content type="historynote"><txt break.before="1"><b>s 4:</b> Am 2007 No 94,
+Sch 1.31 [1]; 2009 No 9, Sch 3.4 [2]; 2013 No 95, Sch 8.9 [2]; 2017 No 17, Sch
+4.21 [2].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.5">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_326edb44-caa6-419b-93f1-e56ddf9f540a"></attrib>
+<attrib name="id" value="sec.5"></attrib></parentattributes>
+
+<head>
+<no>5</no><heading guid="_d3ed7dc1-594d-481b-99ee-5fb193f5a387"
+id="sec.5-he"><b>Adjoining owners&#8212;land separated by road or
+watercourse</b></heading></head>
+
+<tier type="subclause" id="sec.5-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_7183a173-65e8-4be6-9bd2-8a8f8e0ec9a8"></attrib>
+<attrib name="id" value="sec.5-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">The intervention of a road or watercourse between
+2 parcels of land does not prevent:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_85492201-4911-45cd-af8c-7a741d6653db" id="sec.5-ssec.1-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">the owners of those parcels of land from being
+taken to be adjoining owners for the purposes of this Act,
+or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_ed6771f5-394c-4847-a34d-0c5d71c09592" id="sec.5-ssec.1-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">a claim for contribution for fencing work being
+brought in respect of a fence on either side of the road or
+watercourse.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.5-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_acc12144-5e2c-44eb-8b8a-b8d4ca468bb1"></attrib>
+<attrib name="id" value="sec.5-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">This section applies only if the fence has been
+used or, in the opinion of the Local Court or the Civil and Administrative
+Tribunal could reasonably be used, as a dividing fence by the owners of the
+land on either side of it.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 5:</b> Am 2007 No 94,
+Sch 1.31 [1]; 2013 No 95, Sch 8.9 [3].</txt></content>
+</level>
+</level>
+
+
+<level type="part" id="pt.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="guid" value="_262887df-a4c1-44c7-ae00-2ba87fe1f616"></attrib>
+<attrib name="id" value="pt.2"></attrib></parentattributes>
+
+<head>
+<no><b>Part 2</b></no><heading guid="_d511c253-79fa-48fd-83db-3ea90a7d4f86"
+id="pt.2-he"><b>Liability for fencing work</b></heading></head>
+
+<level type="clause" id="sec.6">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_ae64331a-aa6b-40b1-b43f-e7ad74b4d07d"></attrib>
+<attrib name="id" value="sec.6"></attrib></parentattributes>
+
+<head>
+<no>6</no><heading guid="_d9ae2f4e-e39c-4ff9-8065-e2d95f9401e3"
+id="sec.6-he"><b>General principle&#8212;liability for fencing
+work</b></heading></head>
+
+<tier type="subclause" id="sec.6-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_f50ab457-c398-4f3d-a1b3-76b8adbecb1e"></attrib>
+<attrib name="id" value="sec.6-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">An adjoining owner is liable, in respect of
+adjoining lands where there is no sufficient dividing fence, to contribute to
+the carrying out of fencing work that results or would result in the provision
+of a dividing fence of a standard not greater than the standard for a
+sufficient dividing fence.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.6-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_d2c7ad35-a907-48ee-8167-9b2abba2b37d"></attrib>
+<attrib name="id" value="sec.6-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">This section applies whether or not a dividing
+fence already separates the adjoining lands.</txt></block></tier>
+</level>
+
+
+<level type="clause" id="sec.7">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_a33eb85d-d5c0-45e7-951c-a09b56f00973"></attrib>
+<attrib name="id" value="sec.7"></attrib></parentattributes>
+
+<head>
+<no>7</no><heading guid="_5b18818d-f282-4cc1-9726-9299dedcdfca"
+id="sec.7-he"><b>Contribution as between adjoining
+owners&#8212;generally</b></heading></head>
+
+<tier type="subclause" id="sec.7-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_db0bcb13-a5e1-461c-b442-bab6cd2785b2"></attrib>
+<attrib name="id" value="sec.7-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">Adjoining owners are liable to contribute in
+equal proportions to the carrying out of fencing work in respect of a dividing
+fence of a standard not greater than the standard for a sufficient dividing
+fence.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.7-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_a867b25a-d4da-4698-a6f5-eacaba53e5af"></attrib>
+<attrib name="id" value="sec.7-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">An adjoining owner who desires to carry out
+fencing work involving a dividing fence of a standard greater than the
+standard for a sufficient dividing fence is liable for the fencing work to the
+extent to which it exceeds the standard for a sufficient dividing
+fence.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.7-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_40dd4782-902a-43c1-91c7-55ef10ea9d58"></attrib>
+<attrib name="id" value="sec.7-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">An adjoining owner who desires to carry out the
+trimming, lopping or removal of vegetation (as referred to in paragraph (b) of
+the definition of <defterm type="definition"
+guid="_28264f61-e9ac-4746-9535-76cc38534ff3"
+id="sec.7-def.fencingwork"><b><i>fencing work</i></b></defterm> in section 3)
+for a purpose other than the provision of a sufficient dividing fence is
+liable for the expenses of carrying out the work to the extent to which those
+expenses are attributable to work done for that other
+purpose.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 7:</b> Am 2008 No 72,
+Sch 1 [3].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.8">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_fc627738-fd72-4910-a60c-8cf554235361"></attrib>
+<attrib name="id" value="sec.8"></attrib></parentattributes>
+
+<head>
+<no>8</no><heading guid="_ef35a58f-d8c9-4ac2-b08c-2dac0ba1dbcd"
+id="sec.8-he"><b>Contribution where negligent or deliberate
+act</b></heading></head>
+
+<tier type="subclause" id="sec.8-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_cdda7833-966d-4850-acd1-f17dba76ed08"></attrib>
+<attrib name="id" value="sec.8-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">Despite section 7, an adjoining owner is liable
+for up to the whole cost of the fencing work required to restore a dividing
+fence that has been damaged or destroyed by a negligent or deliberate act of
+the owner or of a person who has entered the land concerned with the express
+or implied consent of the owner.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.8-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_d3f2796b-3034-4116-a398-b6668b051939"></attrib>
+<attrib name="id" value="sec.8-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">Any such dividing fence is to be restored to a
+reasonable standard, having regard to its state before the damage or
+destruction.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.8-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_4f998c58-3a2a-4880-b172-de2ecbbb4652"></attrib>
+<attrib name="id" value="sec.8-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">In determining an adjoining owner&#8217;s
+liability under this section, it does not matter if the negligent or
+deliberate act concerned took place before the commencement of this
+section.</txt></block></tier>
+</level>
+
+
+<level type="clause" id="sec.9">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_f264e8e7-829a-43fc-8073-d24cad8f6443"></attrib>
+<attrib name="id" value="sec.9"></attrib></parentattributes>
+
+<head>
+<no>9</no><heading guid="_a17bce6d-9e8a-4f12-a9df-a3be0e721221"
+id="sec.9-he"><b>Contribution when urgent fencing work is
+required</b></heading></head>
+
+<pre type="auto-inserted">
+
+<tier type="subclause" id="sec.9-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_849f04f3-6d28-4a7c-b308-19efef6ebef7"></attrib>
+<attrib name="id" value="sec.9-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">This section applies to a dividing fence that has
+been damaged or destroyed (in whole or in part) and in the circumstances
+requires urgent fencing work.</txt></block></tier>
+</pre>
+
+
+<tier type="subclause" id="sec.9-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_cfd57851-4814-4cef-9bb0-5288e093c661"></attrib>
+<attrib name="id" value="sec.9-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">If it is impracticable to serve a notice under
+section 11 in respect of a dividing fence to which this section applies, an
+adjoining owner may, without serving such a notice, carry out the urgent
+fencing work required to restore the dividing fence.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.9-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_8ef7b2e0-1f6a-4c0a-b890-79d9f02a9fa7"></attrib>
+<attrib name="id" value="sec.9-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">The other adjoining owner is liable for half the
+cost (or a greater proportion if section 8 applies) of the urgent fencing
+work.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.9-ssec.4">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_0a86d8bc-de07-49aa-82da-e26d52b65737"></attrib>
+<attrib name="id" value="sec.9-ssec.4"></attrib></parentattributes>
+
+<head>
+<no>(4)</no></head>
+<block><txt break.before="1">Any such liability may be reviewed by the Local
+Court or the Civil and Administrative Tribunal on the application by that
+owner to the Court or the Tribunal within 1 month after the work has been
+completed (or within such later period as the Court or the Tribunal may
+allow).</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 9:</b> Am 2007 No 94,
+Sch 1.31 [1]; 2013 No 95, Sch 8.9 [4].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.10">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_2157c8d0-275c-4a67-9cfb-aa6edf0b009e"></attrib>
+<attrib name="id" value="sec.10"></attrib></parentattributes>
+
+<head>
+<no>10</no><heading guid="_c07dcad4-d4cd-4374-a31f-43a50bbbc12c"
+id="sec.10-he"><b>Fencing easements etc extinguished</b></heading></head>
+<block><txt break.before="1">No obligation to perform fencing work arises or
+is taken to arise by prescription or implication under the common
+law.</txt></block></level>
+</level>
+
+
+<level type="part" id="pt.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="guid" value="_b04d5216-491f-4222-8351-4069529fa74d"></attrib>
+<attrib name="id" value="pt.3"></attrib></parentattributes>
+
+<head>
+<no><b>Part 3</b></no><heading guid="_8d013dbd-0fce-4ab6-9bd2-d32c99e65a05"
+id="pt.3-he"><b>Procedure and implementation</b></heading></head>
+
+<level type="clause" id="sec.11">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_219add19-2cc2-432b-bb73-2a5a1103206f"></attrib>
+<attrib name="id" value="sec.11"></attrib></parentattributes>
+
+<head>
+<no>11</no><heading guid="_5ece9827-38ba-4f41-8ce2-8699eab66e51"
+id="sec.11-he"><b>Notice to carry out fencing work</b></heading></head>
+
+<pre type="auto-inserted">
+
+<tier type="subclause" id="sec.11-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_ec0dca18-ebce-4cf5-82b2-3a29e3915b03"></attrib>
+<attrib name="id" value="sec.11-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">An adjoining owner may require the other
+adjoining owner to contribute, under this Act, to the carrying out of fencing
+work by serving a notice in writing to that effect on the other
+owner.</txt></block></tier>
+</pre>
+
+
+<tier type="subclause" id="sec.11-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_afa60fa4-6781-4d6c-bd99-37817d017eda"></attrib>
+<attrib name="id" value="sec.11-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">The notice is to specify the following:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_1bf8e41e-2161-4531-a793-9e33aec551c5" id="sec.11-ssec.2-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">the boundary line on which the fencing work is
+proposed to be carried out or, if it is impracticable to carry out fencing
+work on the common boundary of the adjoining lands, the line on which it is
+proposed to carry out the work,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_300e02bc-6d49-46be-93aa-0f9e3ee5848c" id="sec.11-ssec.2-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">the type of fencing work proposed to be carried
+out,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_be5c250f-907a-4c27-bd25-95d45ffa1d8b" id="sec.11-ssec.2-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">the estimated cost of the fencing
+work.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.11-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_735e2bf1-7962-44f5-ab64-fb0ddd53a80d"></attrib>
+<attrib name="id" value="sec.11-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">The owner serving the notice may propose that the
+cost of the fencing work is to be borne otherwise than in equal proportions.
+In such a case, the notice is to state the proposed
+proportions.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.11-ssec.4">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_dd0c7602-829b-4e40-ae90-1dea623f794f"></attrib>
+<attrib name="id" value="sec.11-ssec.4"></attrib></parentattributes>
+
+<head>
+<no>(4)</no></head>
+<block><txt break.before="1">The description of land in a notice need not
+particularly define the land if it allows no reasonable doubt as to what land
+is referred to in the notice.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.11-ssec.5">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_ab4aa12a-0f41-45cb-9fa1-28455d0d519d"></attrib>
+<attrib name="id" value="sec.11-ssec.5"></attrib></parentattributes>
+
+<head>
+<no>(5)</no></head>
+<block><txt break.before="1">An adjoining owner is not liable to contribute to
+the cost of any fencing work in respect of a dividing fence:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_27cf2cb5-11bd-4baf-b370-75dec285db74" id="sec.11-ssec.5-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">carried out before a notice under this section is
+served on the adjoining owner (unless section 9 applies or the notice is
+served in accordance with section 22), or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_aae5950b-142f-40ac-a98f-567b550d38e9" id="sec.11-ssec.5-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">carried out after the service of the notice on
+the adjoining owner and before agreement is reached by the adjoining owners
+concerning the fencing work (including the contributions to be made in respect
+of the work) or before the matter has been determined by the Local Court or
+the Civil and Administrative Tribunal.</txt></block></li></list>
+</block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 11:</b> Am 2007 No 94,
+Sch 1.31 [1]; 2013 No 95, Sch 8.9 [5].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.12">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_52e71227-f4f3-465a-a671-f8fb1b8908b9"></attrib>
+<attrib name="id" value="sec.12"></attrib></parentattributes>
+
+<head>
+<no>12</no><heading guid="_fb85b0d4-7856-4390-8494-4c4c411a8082"
+id="sec.12-he"><b>Procedure when agreement not reached</b></heading></head>
+
+<tier type="subclause" id="sec.12-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_97ca304d-0062-425f-bde8-7b70253336af"></attrib>
+<attrib name="id" value="sec.12-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">Adjoining owners may attend a Community Justice
+Centre in an attempt to reach an agreement concerning the carrying out of
+fencing work (including the contributions to be made in respect of the
+work).</txt></block></tier>
+
+
+<tier type="subclause" id="sec.12-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_48c23663-4e3a-4a90-8367-543c1909fc5a"></attrib>
+<attrib name="id" value="sec.12-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">If adjoining owners do not agree (within 1 month
+after one of them has served a notice under section 11) as to the fencing work
+to be carried out, either owner may apply to the Local Court or the Civil and
+Administrative Tribunal for an order determining the manner in which the
+fencing work (if any) is to be carried out.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 12:</b> Am 2007 No 94,
+Sch 2; 2013 No 95, Sch 8.9 [6].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.13">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_2dd7d98c-0da1-4314-8a97-5bc2c0462e45"></attrib>
+<attrib name="id" value="sec.13"></attrib></parentattributes>
+
+<head>
+<no>13</no><heading guid="_9a93332e-2f63-47a0-9410-2b13ec2513b8"
+id="sec.13-he"><b>Jurisdiction of Local Court or Civil and Administrative
+Tribunal</b></heading></head>
+
+<pre type="auto-inserted">
+
+<tier type="subclause" id="sec.13-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_0ad51be0-fd51-4af7-9123-db1aa9b208f0"></attrib>
+<attrib name="id" value="sec.13-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">The Local Court or the Civil and Administrative
+Tribunal has jurisdiction to hear and determine any matter arising under this
+Act.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.13-ssec.1A">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_6eabd081-b1ef-4f53-a332-e69ea358ae83"></attrib>
+<attrib name="id" value="sec.13-ssec.1A"></attrib></parentattributes>
+
+<head>
+<no>(1A)</no></head>
+<block><txt break.before="1">Despite subsection (1), only the Civil and
+Administrative Tribunal has jurisdiction to hear and determine matters
+affecting land the subject of a Western lands lease within the meaning of
+Schedule 3 to the <legref jurisd="NSW" type="act" check="unknown"
+refid="act-2016-058"><name emphasis="yes"><i>Crown Land Management Act
+2016</i></name></legref>.</txt></block></tier>
+</pre>
+
+
+<tier type="subclause" id="sec.13-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_345fdfe9-8296-4b5d-8982-7429b643e78c"></attrib>
+<attrib name="id" value="sec.13-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">An application under this Act that is pending in
+the Local Court or in the Civil and Administrative Tribunal may be transferred
+from the Court to the Tribunal, or from the Tribunal to a Court, if it appears
+to the tribunal to which the application was made that, having regard to the
+subject-matter of the application and the composition and nature of the other
+tribunal, it is more appropriate for the application to be determined by that
+other tribunal.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.13-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_0df2f894-46d1-4642-8583-fd20f6962b8d"></attrib>
+<attrib name="id" value="sec.13-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">The Local Court or the Civil and Administrative
+Tribunal which has an application transferred to it under subsection (2) is to
+determine the application.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.13-ssec.4" status="repealed">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_8dd1bc07-6775-4581-b6af-a24ae5a2bc1d"></attrib>
+<attrib name="id" value="sec.13-ssec.4"></attrib>
+<attrib name="status" value="repealed"></attrib></parentattributes>
+
+<head>
+<no>(4)</no></head>
+<repealed><repealedtxt></repealedtxt></repealed>
+</tier>
+
+
+<tier type="subclause" id="sec.13-ssec.5">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_d6a119d5-d842-4b6e-8abb-7b3b719c5cc4"></attrib>
+<attrib name="id" value="sec.13-ssec.5"></attrib></parentattributes>
+
+<head>
+<no>(5)</no></head>
+<block><txt break.before="1">The Local Court may refer the parties to
+proceedings under this Act to an arbitrator within the meaning of Part 5 of
+the <legref jurisd="NSW" type="act" check="unknown" refid="act-2005-028"><name
+emphasis="yes"><i>Civil Procedure Act 2005</i></name></legref>, but only to
+the extent to which that Act provides for such proceedings to be so
+referred.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 13:</b> Am 1994 No 32,
+Sch 1; 2005 No 28, Sch 5.14; 2007 No 94, Schs 1.31 [1] [2], 2, 3; 2009 No 9,
+Sch 3.4 [3]; 2013 No 95, Sch 8.9 [7]&#8211;[9]; 2017 No 17, Sch 4.21
+[3].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.13A">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_e234e56d-bbc3-4063-896d-b44031d1d1d3"></attrib>
+<attrib name="id" value="sec.13A"></attrib></parentattributes>
+
+<head>
+<no>13A</no><heading guid="_061d0589-17c5-4423-9114-9cc5fcf07e84"
+id="sec.13A-he"><b>Jurisdiction of Land and Environment
+Court</b></heading></head>
+
+<pre type="auto-inserted">
+
+<tier type="subclause" id="sec.13A-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_042701a8-3ff7-40e9-874e-7fb53ab0284a"></attrib>
+<attrib name="id" value="sec.13A-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">The Land and Environment Court has jurisdiction
+to hear and determine matters arising under this Act in proceedings to which
+this section applies.</txt></block></tier>
+</pre>
+
+
+<tier type="subclause" id="sec.13A-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_6ffbf6ba-b23d-447a-9973-781e4ca772d9"></attrib>
+<attrib name="id" value="sec.13A-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">This section only applies if:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_0c2944e9-5d8a-4b6d-ae2b-3cbeeb74a99a" id="sec.13A-ssec.2-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">application for the exercise of the jurisdiction
+is made in relation to proceedings under section 7 of the <legref jurisd="NSW"
+type="act" check="unknown" refid="act-2006-126"><name emphasis="yes"><i>Trees
+(Disputes Between Neighbours) Act 2006</i></name></legref> that have been
+commenced but not determined, and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_78f73cb2-b660-460f-beac-a1da8ffd6ff9" id="sec.13A-ssec.2-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">the tree that is the subject of those
+proceedings:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_45ffd0e8-38a2-4f63-94e2-719da46fe94b"
+id="sec.13A-ssec.2-para1.b-para2.i">
+<no>(i)</no>
+<block><txt break.before="1">has caused, is causing, or is likely in the near
+future to cause damage to a dividing fence, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_14c42ecd-f1b0-480c-833e-8fc836678569"
+id="sec.13A-ssec.2-para1.b-para2.ii">
+<no>(ii)</no>
+<block><txt break.before="1">is part of a dividing fence and has caused, is
+causing, or is likely in the near future to cause damage to the
+applicant&#8217;s property or is likely to cause injury to any
+person.</txt></block></li></list>
+</block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.13A-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_4d37628a-4d65-4f5f-911d-17d5ae729dce"></attrib>
+<attrib name="id" value="sec.13A-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">The Land and Environment Court may, of its own
+motion or on an application by a party to an application under this Act that
+is before the Local Court or the Civil and Administrative Tribunal, transfer
+the application that is pending in the Local Court or in the Civil and
+Administrative Tribunal to the Land and Environment Court if:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_72ede054-3c62-443e-9346-65275fd59dd4" id="sec.13A-ssec.3-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">the application is relevant to proceedings under
+section 7 of the <legref jurisd="NSW" type="act" check="unknown"
+refid="act-2006-126"><name emphasis="yes"><i>Trees (Disputes Between
+Neighbours) Act 2006</i></name></legref> that have been commenced in the Land
+and Environment Court but have not been determined, and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_3c5acde9-f98e-49e2-abbe-784ac6ccacc7" id="sec.13A-ssec.3-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">the tree that is the subject of those
+proceedings:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_94d2fa9a-9b88-4c0e-b435-6be91ddf16cb"
+id="sec.13A-ssec.3-para1.b-para2.i">
+<no>(i)</no>
+<block><txt break.before="1">has caused, is causing, or is likely in the near
+future to cause damage to a dividing fence, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_cdd48673-d7a8-481e-bbf6-86fa9e47ab6f"
+id="sec.13A-ssec.3-para1.b-para2.ii">
+<no>(ii)</no>
+<block><txt break.before="1">is part of a dividing fence and has caused, is
+causing, or is likely in the near future to cause damage to the
+applicant&#8217;s property or is likely to cause injury to any person,
+and</txt></block></li></list>
+</block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_9819b806-8035-43a5-99e4-37c65a70fba2" id="sec.13A-ssec.3-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">the Land and Environment Court is satisfied that
+there is sufficient reason for the application under this Act to be heard and
+determined by the Land and Environment Court.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.13A-ssec.4">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_eff7eeac-ad54-404c-b523-ea271efb4528"></attrib>
+<attrib name="id" value="sec.13A-ssec.4"></attrib></parentattributes>
+
+<head>
+<no>(4)</no></head>
+<block><txt break.before="1">An application that is transferred to the Land
+and Environment Court under subsection (3) is to be continued in the Land and
+Environment Court and determined by the Land and Environment Court as part of
+the related proceedings under section 7 of the <legref jurisd="NSW" type="act"
+check="unknown" refid="act-2006-126"><name emphasis="yes"><i>Trees (Disputes
+Between Neighbours) Act 2006</i></name></legref>.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.13A-ssec.5">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_ceb046bb-1362-4a7f-b1c5-72d32e2a6e8d"></attrib>
+<attrib name="id" value="sec.13A-ssec.5"></attrib></parentattributes>
+
+<head>
+<no>(5)</no></head>
+<block><txt break.before="1">For the purposes of any proceedings to which this
+section applies, a reference to the Local Court in this Act (except sections
+13 (2), (3) and (4) and 19 (2) and (3)) is taken to include a reference to the
+Land and Environment Court.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 13A:</b> Ins 2010 No
+27, Sch 2.1. Am 2013 No 95, Sch 8.9 [10].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.14">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_952dbda4-4f73-42c0-a000-114bbeee8e75"></attrib>
+<attrib name="id" value="sec.14"></attrib></parentattributes>
+
+<head>
+<no>14</no><heading guid="_f0c6c480-de1b-4cbb-917a-39cfc0b396d1"
+id="sec.14-he"><b>Orders as to fencing work</b></heading></head>
+
+<tier type="subclause" id="sec.14-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_56d193b7-4e60-4aa7-824b-d25eaac811be"></attrib>
+<attrib name="id" value="sec.14-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">The Local Court or the Civil and Administrative
+Tribunal may, in respect of an application under this Act, make an order
+determining any one or more of the following:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_26a7f79e-dca8-4621-9929-0219018e5c3e" id="sec.14-ssec.1-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">the boundary or line on which the fencing work is
+to be carried out, whether or not that boundary or line is on the common
+boundary of the adjoining lands,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_b6b06ca7-a003-4b57-bed9-457d3c75ac66" id="sec.14-ssec.1-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">the fencing work to be carried out (including the
+kind of dividing fence involved),</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_10e8c732-53ff-48a6-a422-4013736f325c" id="sec.14-ssec.1-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">the manner in which contributions for the fencing
+work are to be apportioned or re-apportioned or the amount that each adjoining
+owner is liable to pay for that work,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_a106bd30-7858-475b-88e5-ed632fc7af77" id="sec.14-ssec.1-para1.d">
+<no>(d)</no>
+<block><txt break.before="1">which portion of the dividing fence is to be
+constructed or repaired by either owner,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_c5ba4190-1292-497a-b0a8-66f5faa618b4" id="sec.14-ssec.1-para1.e">
+<no>(e)</no>
+<block><txt break.before="1">the time within which the fencing work is to be
+carried out,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_d3b857e5-dbd4-472a-b85e-b861ffcb3ef2" id="sec.14-ssec.1-para1.f">
+<no>(f)</no>
+<block><txt break.before="1">the amount of any compensation (in the form of an
+annual payment to either of the adjoining owners) in consideration of loss of
+occupation of any land,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_5ec6c919-9b25-4fc1-ba25-59fa6baa0591" id="sec.14-ssec.1-para1.g">
+<no>(g)</no>
+<block><txt break.before="1">that, in the circumstances, no dividing fence is
+required in respect of all or part of the boundary of the adjoining
+lands.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.14-ssec.1A">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_ecfc8832-69e7-4c4d-83bf-14a32c54b8bc"></attrib>
+<attrib name="id" value="sec.14-ssec.1A"></attrib></parentattributes>
+
+<head>
+<no>(1A)</no></head>
+<block><txt break.before="1">Despite subsection (1), no order may be made for
+the carrying out of fencing work on a declared area of outstanding
+biodiversity value under the <legref jurisd="NSW" type="act" check="unknown"
+refid="act-2016-063"><name emphasis="yes"><i>Biodiversity Conservation Act
+2016</i></name></legref> without the consent of the Environment Agency Head
+(within the meaning of that Act).</txt></block></tier>
+
+
+<tier type="subclause" id="sec.14-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_5b55c036-b995-49d3-b01f-679a8846f8ea"></attrib>
+<attrib name="id" value="sec.14-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">The occupation of land on either side of a
+dividing fence, as a result of an order determining that fencing work is to be
+carried out otherwise than on the common boundary of the adjoining lands, is
+not taken to be adverse possession as against the owner or to affect the title
+to or possession of the land, except for the purposes of this
+Act.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 14:</b> Am 1995 No 101,
+Sch 6; 2007 No 94, Sch 1.31 [2]; 2008 No 72, Sch 1 [4]; 2013 No 95, Sch 8.9
+[11]; 2018 No 25, Sch 3.5.</txt></content>
+</level>
+
+
+<level type="clause" id="sec.15">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_8cc4a912-6764-4072-b1b9-3b1f482ec635"></attrib>
+<attrib name="id" value="sec.15"></attrib></parentattributes>
+
+<head>
+<no>15</no><heading guid="_924cbe1a-2a37-4e4a-b037-5edefb5d8bc4"
+id="sec.15-he"><b>Enforcement of agreements and orders</b></heading></head>
+
+<tier type="subclause" id="sec.15-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_5456b956-a9b6-47bb-b516-cb2ea6dedf01"></attrib>
+<attrib name="id" value="sec.15-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">If an agreement is reached by adjoining owners or
+an order is made by the Local Court or the Civil and Administrative Tribunal
+and an adjoining owner bound by the agreement or order fails within the
+required time to perform his or her part of the agreement or to comply with
+the order, the other adjoining owner:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_2039c82f-d856-433b-a15c-2eb4132edcba" id="sec.15-ssec.1-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">may carry out the fencing work as agreed on or as
+determined by the order, and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_6a7fe64f-5486-4e48-822b-aec97a17ed7c" id="sec.15-ssec.1-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">may recover from the defaulting adjoining owner
+the amount agreed or ordered to be paid by that adjoining owner or (if the
+agreement or order does not specify the amount to be paid) half the cost of
+the fencing work carried out.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.15-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_e46dbdd0-82c2-45be-9344-453321d8590d"></attrib>
+<attrib name="id" value="sec.15-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">The <defterm type="definition"
+guid="_d91b538c-3809-4391-989c-fedaa1f700d6"
+id="sec.15-def.requiredtime"><b><i>required time</i></b></defterm> is the time
+specified in the agreement or order or, if no time is specified, within 3
+months after the making of the agreement or order.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 15:</b> Am 2007 No 94,
+Sch 1.31 [1]; 2013 No 95, Sch 8.9 [12].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.16">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_6b0d0a12-5a8f-48dc-b1d6-901c9126dcee"></attrib>
+<attrib name="id" value="sec.16"></attrib></parentattributes>
+
+<head>
+<no>16</no><heading guid="_a840ef86-7adf-44bd-b31e-159183b3eee1"
+id="sec.16-he"><b>Substantial compliance sufficient</b></heading></head>
+
+<tier type="subclause" id="sec.16-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_6e51125e-3c2c-4ecd-8333-946f0148c2bd"></attrib>
+<attrib name="id" value="sec.16-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">Substantial compliance with the terms of any
+agreement or order referred to in section 15 is sufficient for the purposes of
+this Act.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.16-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_5581626b-559a-4d58-9e69-a9cc17d28773"></attrib>
+<attrib name="id" value="sec.16-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">However, the adjoining owner who carries out the
+fencing work is liable to the other adjoining owner for any defect or omission
+in the fencing work.</txt></block></tier>
+</level>
+
+
+<level type="clause" id="sec.17">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_c42ee9fe-7705-497a-adba-dd6f4d3e18e1"></attrib>
+<attrib name="id" value="sec.17"></attrib></parentattributes>
+
+<head>
+<no>17</no><heading guid="_144cb5b2-cb05-45fb-b617-ea16e72b185b"
+id="sec.17-he"><b>Application for order in absence of an adjoining
+owner</b></heading></head>
+
+<pre type="auto-inserted">
+
+<tier type="subclause" id="sec.17-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_383f57cb-7998-419d-8f9b-007f7064803a"></attrib>
+<attrib name="id" value="sec.17-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">An adjoining owner may apply to the Local Court
+or the Civil and Administrative Tribunal for an order, in the absence of the
+other adjoining owner, authorising the carrying out of such fencing work as is
+specified in the order (including the manner in which contributions for the
+work are to be apportioned).</txt></block></tier>
+</pre>
+
+
+<tier type="subclause" id="sec.17-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_657e96cb-6e65-4f84-b9c8-402995ebf5a7"></attrib>
+<attrib name="id" value="sec.17-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">Such an order may only be made if the Court or
+the Tribunal is satisfied that the adjoining owner making the application has
+made reasonable inquiries but has been unable to ascertain the whereabouts of
+the other adjoining owner for the purposes of serving a notice under section
+11.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.17-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_6623e650-71e7-48a6-aac4-66d8ad7c3dbb"></attrib>
+<attrib name="id" value="sec.17-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">An adjoining owner who carries out the fencing
+work authorised by the order and who later ascertains the whereabouts of the
+other adjoining owner:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_432bb460-eb4c-4b5d-8d05-67778bf271c4" id="sec.17-ssec.3-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">may serve a copy of the order on the other owner,
+and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_7e226ff5-73a6-417f-a428-6ac0013dc6a7" id="sec.17-ssec.3-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">is entitled, after 1 month from the date of
+service, to recover from the other owner the proportion of that owner&#8217;s
+contribution as specified in the order.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.17-ssec.4">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_74aa018c-f153-4b2b-a8f3-8a2dfd0fc2e4"></attrib>
+<attrib name="id" value="sec.17-ssec.4"></attrib></parentattributes>
+
+<head>
+<no>(4)</no></head>
+<block><txt break.before="1">The adjoining owner served with a copy of an
+order under subsection (3) may, within 1 month after being served, apply to
+the Local Court or the Civil and Administrative Tribunal for a variation of
+the order and the Court or the Tribunal may vary the order in such manner as
+it thinks fit.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 17:</b> Am 2007 No 94,
+Sch 1.31 [1]; 2013 No 95, Sch 8.9 [13] [14].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.18">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_beb21aab-7d77-449d-a77b-70addc8908dc"></attrib>
+<attrib name="id" value="sec.18"></attrib></parentattributes>
+
+<head>
+<no>18</no><heading guid="_1aa1649b-4c7b-4e9f-b1dd-f27bde375c51"
+id="sec.18-he"><b>Procedure for defining boundary line</b></heading></head>
+
+<pre type="auto-inserted">
+
+<tier type="subclause" id="sec.18-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_1a436a5d-8c45-49c3-ad1e-2138b52823c2"></attrib>
+<attrib name="id" value="sec.18-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">An adjoining owner may give notice in writing to
+the other adjoining owner of his or her intention to have the common boundary
+line defined by a registered surveyor if the owners do not agree on the
+position of the common boundary line for the purposes of carrying out fencing
+work.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.18-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_a4463c1e-55bd-4734-bd64-a209490b18af"></attrib>
+<attrib name="id" value="sec.18-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">The owner receiving the notice may, within 7 days
+after service of the notice:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_04d9d8db-1ad8-4412-bcff-d430319019e6" id="sec.18-ssec.2-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">define the position of the common boundary line
+by pegs if satisfied as to its position, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_6ffc2719-afe5-435e-9597-7609cb2ac7f8" id="sec.18-ssec.2-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">employ a registered surveyor to define the common
+boundary line,</txt></block></li></list>
+
+<txt break.before="1">and in either case is to inform the other adjoining
+owner in writing of what has been done.</txt></block></tier>
+</pre>
+
+
+<tier type="subclause" id="sec.18-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_0f41fd64-3e6e-4682-b8eb-281024ad80aa"></attrib>
+<attrib name="id" value="sec.18-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">The owner giving the notice may have the common
+boundary line defined by a registered surveyor if the owner to whom the notice
+is given has, within 1 month after service of the notice, defined the common
+boundary line by pegs or failed to have the common boundary defined by a
+registered surveyor.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.18-ssec.4">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_06557d85-4273-4a3f-b027-0d1cd618a74e"></attrib>
+<attrib name="id" value="sec.18-ssec.4"></attrib></parentattributes>
+
+<head>
+<no>(4)</no></head>
+<block><txt break.before="1">If the common boundary line as defined by a
+registered surveyor is ascertained to be in the same position defined by pegs
+placed there by the owner receiving the notice, that owner is entitled to
+recover from the owner giving the notice any costs
+incurred.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.18-ssec.5">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_3b02f270-0f75-4303-ae49-21c53a10843c"></attrib>
+<attrib name="id" value="sec.18-ssec.5"></attrib></parentattributes>
+
+<head>
+<no>(5)</no></head>
+<block><txt break.before="1">In any other case when a registered surveyor has
+been employed, all reasonable expenses are to be paid in equal shares by the
+adjoining owners.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.18-ssec.6">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_baf2260b-e3ae-475b-8c90-7d758dffb891"></attrib>
+<attrib name="id" value="sec.18-ssec.6"></attrib></parentattributes>
+
+<head>
+<no>(6)</no></head>
+<block><txt break.before="1">In this section, <defterm type="definition"
+guid="_53ae4c21-fa8e-4cd9-9fcc-c6d34b6b0869"
+id="sec.18-def.registeredsurveyor"><b><i>registered
+surveyor</i></b></defterm> means a person registered under the <legref
+jurisd="NSW" type="act" check="unknown" refid="act-2002-083"><name
+emphasis="yes"><i>Surveying and Spatial Information Act
+2002</i></name></legref> as a surveyor.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 18:</b> Am 2002 No 83,
+Sch 2.6; 2009 No 119, Sch 2.8.</txt></content>
+</level>
+
+
+<level type="clause" id="sec.19" status="repealed">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_5faf9760-b4bf-4733-a80f-49da30992bc8"></attrib>
+<attrib name="id" value="sec.19"></attrib>
+<attrib name="status" value="repealed"></attrib></parentattributes>
+
+<head>
+<no>19</no></head>
+<repealed><repealedtxt></repealedtxt></repealed>
+
+
+<content type="historynote"><txt break.before="1"><b>s 19:</b> Am 2007 No 94,
+Schs 1.31 [1], 2. Rep 2013 No 95, Sch 8.9 [15].</txt></content>
+</level>
+</level>
+
+
+<level type="part" id="pt.4">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="guid" value="_6cd6dba2-d2cd-4b69-8136-6d79e157896a"></attrib>
+<attrib name="id" value="pt.4"></attrib></parentattributes>
+
+<head>
+<no><b>Part 4</b></no><heading guid="_be952aa0-2994-4894-87e6-24c541f9e15b"
+id="pt.4-he"><b>Miscellaneous</b></heading></head>
+
+<level type="clause" id="sec.20">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_cc20da6c-a972-4410-a561-afcb580acea2"></attrib>
+<attrib name="id" value="sec.20"></attrib></parentattributes>
+
+<head>
+<no>20</no><heading guid="_47dc317d-3d8b-46db-9aa0-f80e033a2d3e"
+id="sec.20-he"><b>Right to enter adjoining land</b></heading></head>
+<block><txt break.before="1">An adjoining owner who carries out fencing work
+under this Act (including the owner&#8217;s employees or agents) may, at any
+reasonable time, enter on the land adjoining the dividing fence for the
+purpose of carrying out the work.</txt></block></level>
+
+
+<level type="clause" id="sec.21">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_627d88b7-3148-49a5-a6f7-08d28a5c9f9d"></attrib>
+<attrib name="id" value="sec.21"></attrib></parentattributes>
+
+<head>
+<no>21</no><heading guid="_0b63eb51-24fb-48aa-a101-133ef815900c"
+id="sec.21-he"><b>Service of notices</b></heading></head>
+<block><txt break.before="1">A notice under this Act is to be served on an
+adjoining owner by delivering it personally or sending it by post to the
+owner&#8217;s usual or last known residential or business
+address.</txt></block></level>
+
+
+<level type="clause" id="sec.22">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_0038791d-15df-432e-94fa-e93fb43799ed"></attrib>
+<attrib name="id" value="sec.22"></attrib></parentattributes>
+
+<head>
+<no>22</no><heading guid="_04122cf4-966d-4b07-8fb6-8ab68cb5777b"
+id="sec.22-he"><b>Time for service of notices&#8212;special
+provision</b></heading></head>
+
+<tier type="subclause" id="sec.22-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_f26716e8-5c36-40e2-9dd8-ece08e7c6f3c"></attrib>
+<attrib name="id" value="sec.22-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">The Local Court or the Civil and Administrative
+Tribunal may grant leave to serve a notice demanding contribution under this
+Act on an adjoining owner from whom contribution is sought up to 12 months
+after the fencing work concerned has been carried out.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.22-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_0c89be75-6f3a-4da4-8d68-9d104287e2a8"></attrib>
+<attrib name="id" value="sec.22-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">Leave may be granted only if:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_ee37c346-af3f-4f3b-9c85-ba815332f0ed" id="sec.22-ssec.2-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">the Court or the Tribunal is satisfied that the
+owner seeking to serve notice has mistakenly taken action in respect of the
+dividing fence under some other Act, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_f2547b89-9c28-4cb3-960d-187e3d393b94" id="sec.22-ssec.2-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">the Court or the Tribunal considers it to be just
+or equitable in the circumstances for leave to be
+granted.</txt></block></li></list>
+</block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 22:</b> Am 2007 No 94,
+Sch 1.31 [2]; 2013 No 95, Sch 8.9 [16] [17].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.23">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_0c324f00-fb37-4ac2-be7b-05eb23f458e5"></attrib>
+<attrib name="id" value="sec.23"></attrib></parentattributes>
+
+<head>
+<no>23</no><heading guid="_996530d9-6f24-496c-9744-524fe061684c"
+id="sec.23-he"><b>Costs</b></heading></head>
+<block><txt break.before="1">In any proceedings under this Act, the Local
+Court or the Civil and Administrative Tribunal may award costs against either
+party.</txt></block>
+
+<content type="historynote"><txt break.before="1"><b>s 23:</b> Am 2007 No 94,
+Sch 1.31 [1]; 2013 No 95, Sch 8.9 [18].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.24">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_acdc1ff4-1cb7-4eeb-b0dc-5ee80be463e6"></attrib>
+<attrib name="id" value="sec.24"></attrib></parentattributes>
+
+<head>
+<no>24</no><heading guid="_0cfbb5d3-ff99-41f1-bfab-624b3d7a44eb"
+id="sec.24-he"><b>Recovery of money payable</b></heading></head>
+
+<pre type="auto-inserted">
+
+<tier type="subclause" id="sec.24-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_e9feaa66-2cda-4bd1-95c9-a93bf789b46e"></attrib>
+<attrib name="id" value="sec.24-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">Any money which an adjoining owner is required or
+liable to pay under this Act may be recovered as a debt in a court of
+competent jurisdiction.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.24-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_676cdfe6-c6ae-4a3a-80a1-9a5c6e57e09f"></attrib>
+<attrib name="id" value="sec.24-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">In any proceedings for the recovery of money, the
+certificate of the Local Court or the Civil and Administrative Tribunal as to
+the making and contents of any order under section 14 or 17 is evidence of the
+matters set out in the certificate.</txt></block></tier>
+</pre>
+
+
+<tier type="subclause" id="sec.24-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_4d3dc67f-e91f-475c-ab34-ee9dd6e480d7"></attrib>
+<attrib name="id" value="sec.24-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">The Tribunal may, on the application of an
+adjoining owner, make an order determining an amount that the other adjoining
+owner is required or liable to pay under this Act (other than an amount the
+subject of an order by the Local Court under this Act).</txt></block></tier>
+
+
+<tier type="subclause" id="sec.24-ssec.4">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_47c71a65-8b95-408f-aa68-a6b704d3d9f2"></attrib>
+<attrib name="id" value="sec.24-ssec.4"></attrib></parentattributes>
+
+<head>
+<no>(4)</no></head>
+<block><txt break.before="1">The amount (including any costs awarded against
+the other adjoining owner under section 23) may be certified by the principal
+registrar of the Civil and Administrative Tribunal.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.24-ssec.5">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_924110cc-1d6c-451f-b68d-c4a62db5485f"></attrib>
+<attrib name="id" value="sec.24-ssec.5"></attrib></parentattributes>
+
+<head>
+<no>(5)</no></head>
+<block><txt break.before="1">A certificate given under subsection (4) must
+identify the person liable to pay the certified amount.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.24-ssec.6">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_3a18f1b7-9b3e-4aab-a8b1-ec3288db0e3f"></attrib>
+<attrib name="id" value="sec.24-ssec.6"></attrib></parentattributes>
+
+<head>
+<no>(6)</no></head>
+<block><txt break.before="1">If a certificate given under subsection (4) is
+filed in the registry of a court having jurisdiction to give judgment for a
+debt of the same amount as the amount stated in the certificate, the
+certificate operates as such a judgment.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 24:</b> Am 2008 No 72,
+Sch 1 [5]; 2013 No 95, Sch 8.9 [19]&#8211;[21].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.25">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_a45b4d3a-6f6d-4b08-9e3d-2352c3b4ffcc"></attrib>
+<attrib name="id" value="sec.25"></attrib></parentattributes>
+
+<head>
+<no>25</no><heading guid="_01a4c65b-6950-44a1-a46c-d7851d0ab84e"
+id="sec.25-he"><b>Application of Act to Crown and local authorities
+etc</b></heading></head>
+
+<tier type="subclause" id="sec.25-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_7074e32c-ca11-4372-adc9-8eb72c5d0f1a"></attrib>
+<attrib name="id" value="sec.25-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">This Act does not operate to impose any
+liability, or to confer any rights, with respect to dividing fences on:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_e2c59444-962d-4c5b-a43e-2d3ba4ab7213" id="sec.25-ssec.1-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">the Crown, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_c77d19f0-33ae-47b2-896d-ba63ac33e70c" id="sec.25-ssec.1-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">a council of a local government area, or any
+trustee or other person or body, in respect of land vested in (or under the
+care, control and management of) the council, trustee, person or body for the
+purposes of a public reserve, public park or such other public purposes as may
+be prescribed, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_40940a59-3837-4e4b-81fb-ceb1196c2cae" id="sec.25-ssec.1-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">a roads authority (within the meaning of the
+<legref jurisd="NSW" type="act" check="unknown" refid="act-1993-033"><name
+emphasis="yes"><i>Roads Act 1993</i></name></legref>) with respect to any
+public road, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_fa3e3e43-f6dd-4bb1-928c-c11242632a1c" id="sec.25-ssec.1-para1.d">
+<no>(d)</no>
+<block><txt break.before="1">an irrigation corporation within the meaning of
+the <legref jurisd="NSW" type="act" check="unknown" refid="act-2000-092"><name
+emphasis="yes"><i>Water Management Act 2000</i></name></legref>,
+or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_1cfb6c48-8776-4cc3-86bf-a1a4cfb6ba90" id="sec.25-ssec.1-para1.e">
+<no>(e)</no>
+<block><txt break.before="1">an Aboriginal Land Council with respect to land
+reserved under Part 4A of the <legref jurisd="NSW" type="act" check="unknown"
+refid="act-1974-080"><name emphasis="yes"><i>National Parks and Wildlife Act
+1974</i></name></legref>, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_18617854-af00-491e-99a5-175b9ae28a22" id="sec.25-ssec.1-para1.f">
+<no>(f)</no>
+<block><txt break.before="1">Water NSW, but only with respect to the exercise
+of its functions in the Sydney catchment area (within the meaning of the
+<legref jurisd="NSW" type="act" check="unknown" refid="act-2014-074"><name
+emphasis="yes"><i>Water NSW Act
+2014</i></name></legref>).</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.25-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_3d282576-d76b-4f93-aece-ed1bb612aab3"></attrib>
+<attrib name="id" value="sec.25-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">However, nothing in this Act prevents the Crown
+or any such council, trustee, person or body from entering into arrangements
+(other than those arising under this Act) to contribute to fencing work in
+respect of dividing fences.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.25-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_7fcc8fc5-53d5-4d9a-9022-b160a97bff92"></attrib>
+<attrib name="id" value="sec.25-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">In this section, <defterm type="definition"
+guid="_5cd87a19-60b9-4989-849c-8e0e9bdd6ac1"
+id="sec.25-def.Crown"><b><i>Crown</i></b></defterm> includes a statutory body
+representing the Crown.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 25:</b> Am 1993 No 33,
+Sch 1; 1994 No 41, Sch 3; 2008 No 73, Sch 7.1; 2010 No 38, Sch 3.1; 2014 No
+74, Sch 3.6.</txt></content>
+</level>
+
+
+<level type="clause" id="sec.26">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_2eedd008-9d5f-4ef6-a33a-06935157bbe4"></attrib>
+<attrib name="id" value="sec.26"></attrib></parentattributes>
+
+<head>
+<no>26</no><heading guid="_bfbdea68-75f8-4bbf-a88a-4be3c943f84e"
+id="sec.26-he"><b>Act not to affect agreements etc, retaining walls or other
+Acts</b></heading></head>
+<block><txt break.before="1">Nothing in this Act affects:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_67c85c61-b662-4989-976a-d615463bbb29" id="sec.26-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">any covenant or any contract or agreement (other
+than an agreement arising under this Act) made between adjoining owners in
+respect of a dividing fence before or after the commencement of this Act,
+or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_9372d43c-e468-47b5-bd86-e4df15327e7a" id="sec.26-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">any law relating to retaining walls, easements of
+support or other rights of support in relation to land, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_48a621f5-1eb5-4b6a-ba4d-c5fddd11e58d" id="sec.26-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">provisions relating to fences or fencing work
+made by or under any other Act.</txt></block></li></list>
+</block>
+
+<content type="historynote"><txt break.before="1"><b>s 26:</b> Am 2008 No 72,
+Sch 1 [6].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.27">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_86058f24-48c1-4da9-9eaf-69a08f6bbe80"></attrib>
+<attrib name="id" value="sec.27"></attrib></parentattributes>
+
+<head>
+<no>27</no><heading guid="_2c46c13b-7e4e-4de9-a55e-72aee3e3ac2f"
+id="sec.27-he"><b>Regulations</b></heading></head>
+<block><txt break.before="1">The Governor may make regulations, not
+inconsistent with this Act, for or with respect to any matter that by this Act
+is required or permitted to be prescribed or that is necessary or convenient
+to be prescribed for carrying out or giving effect to this
+Act.</txt></block></level>
+
+
+<level type="clause" id="sec.28">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_c3b8049d-f2f8-4a19-9552-33aa05cc092c"></attrib>
+<attrib name="id" value="sec.28"></attrib></parentattributes>
+
+<head>
+<no>28</no><heading guid="_6325fc9f-d949-44d3-be97-36910e644451"
+id="sec.28-he"><b>Repeal of <legref jurisd="NSW" type="act"
+check="unknown"><name emphasis="yes"><i>Dividing Fences Act 1951</i></name> No
+8</legref> etc</b></heading></head>
+
+<tier type="subclause" id="sec.28-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_04132399-2350-41e1-ab84-8bcf8ee71426"></attrib>
+<attrib name="id" value="sec.28-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">The <legref jurisd="NSW" type="act"
+check="unknown"><name emphasis="yes"><i>Dividing Fences Act
+1951</i></name></legref> is repealed.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.28-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_4afa9d64-295a-4ec6-b8a2-1e991e98fb55"></attrib>
+<attrib name="id" value="sec.28-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">The <legref jurisd="NSW" type="subordleg"
+check="unknown"><name emphasis="yes"><i>Dividing Fences Regulations
+1957</i></name></legref> (and any other regulations under that Act) are
+repealed.</txt></block></tier>
+</level>
+
+
+<level type="clause" id="sec.29">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_343d515e-96b9-478d-907c-c2b001caf26b"></attrib>
+<attrib name="id" value="sec.29"></attrib></parentattributes>
+
+<head>
+<no>29</no><heading guid="_076443b0-182c-4239-9c77-32eaf57a2365"
+id="sec.29-he"><b>Savings, transitional and other
+provisions</b></heading></head>
+<block><txt break.before="1">Schedule 1 has effect.</txt></block></level>
+
+
+<level type="clause" id="sec.30" status="repealed">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_76cb52c3-b018-4176-84b3-1532b6bef08d"></attrib>
+<attrib name="id" value="sec.30"></attrib>
+<attrib name="status" value="repealed"></attrib></parentattributes>
+
+<head>
+<no>30</no></head>
+<repealed><repealedtxt></repealedtxt></repealed>
+
+
+<content type="historynote"><txt break.before="1"><b>s 30:</b> Rep 1999 No 85,
+Sch 4.</txt></content>
+</level>
+</level>
+</content>
+
+
+<content type="schedules">
+
+<level type="schedule" id="sch.1">
+<parentattributes>
+<attrib name="type" value="schedule"></attrib>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_a81b0a69-02e7-4f52-a0d7-c742fc7dc9fd"></attrib>
+<attrib name="id" value="sch.1"></attrib></parentattributes>
+
+<head>
+<no><b>Schedule 1</b></no><heading
+guid="_fe712151-6e80-4917-8b44-f4b92711aaa5" id="sch.1-he"><b>Savings,
+transitional and other provisions</b></heading></head>
+
+<pre type="auto-inserted">
+<block align="right" type="sourceref"><txt>(Section 29)</txt></block></pre>
+
+
+<level type="part" id="sch.1-pt.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="guid" value="_55540083-ad2e-4a93-b844-818c4173b802"></attrib>
+<attrib name="id" value="sch.1-pt.1"></attrib></parentattributes>
+
+<head>
+<no><b>Part 1</b></no><heading guid="_bbc3fa58-949f-4a23-b550-b0e1ec57dafa"
+id="sch.1-pt.1-he"><b>Preliminary</b></heading></head>
+
+<level type="clause" id="sch.1-sec.1A">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_20f12981-a8ad-4519-b174-246dd4280789"></attrib>
+<attrib name="id" value="sch.1-sec.1A"></attrib></parentattributes>
+
+<head>
+<no>1A</no><heading guid="_6215a3bd-efc8-4c00-9341-1ac810296c26"
+id="sch.1-sec.1A-he"><b>Regulations</b></heading></head>
+
+<tier type="subclause" id="sch.1-sec.1A-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_cbc544b8-0877-4c0f-a071-171ad930104d"></attrib>
+<attrib name="id" value="sch.1-sec.1A-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">The regulations may contain provisions of a
+savings or transitional nature consequent on the enactment of the following
+Acts:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_4eaf99dd-0977-4d5a-b28d-db79b61c8510" id="sch.1-sec.1A-ssec.1-para1">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-2008-072"><name emphasis="yes"><i>Dividing Fences and Other
+Legislation Amendment Act 2008</i></name></legref></txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sch.1-sec.1A-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_94a4bf9e-839c-4002-b6dd-91f5cc5e4600"></attrib>
+<attrib name="id" value="sch.1-sec.1A-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">Any such provision may, if the regulations so
+provide, take effect from the date of assent to the Act concerned or a later
+date.</txt></block></tier>
+
+
+<tier type="subclause" id="sch.1-sec.1A-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_9d00d06c-1a0c-4eec-af50-df18b7613d32"></attrib>
+<attrib name="id" value="sch.1-sec.1A-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">To the extent to which any such provision takes
+effect from a date that is earlier than the date of its publication in the
+Gazette, the provision does not operate so as:</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_9842d73f-89a0-41c9-a066-1bc8ab87205b"
+id="sch.1-sec.1A-ssec.3-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">to affect, in a manner prejudicial to any person
+(other than the State or an authority of the State), the rights of that person
+existing before the date of its publication, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_ac15e617-6cfa-4e96-8b28-a4515457d945"
+id="sch.1-sec.1A-ssec.3-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">to impose liabilities on any person (other than
+the State or an authority of the State) in respect of anything done or omitted
+to be done before the date of its publication.</txt></block></li></list>
+</block></tier>
+</level>
+</level>
+
+
+<level type="part" id="sch.1-pt.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="guid" value="_a00d3f49-d886-4787-8f6c-54ef0881d877"></attrib>
+<attrib name="id" value="sch.1-pt.2"></attrib></parentattributes>
+
+<head>
+<no><b>Part 2</b></no><heading guid="_f1a50f78-51c0-42f7-ba48-0ab466658028"
+id="sch.1-pt.2-he"><b>Provisions consequent on enactment of this
+Act</b></heading></head>
+
+<level type="clause" id="sch.1-sec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_c1e0ee0d-f46d-4cca-aa8f-d0719d0d2e77"></attrib>
+<attrib name="id" value="sch.1-sec.1"></attrib></parentattributes>
+
+<head>
+<no>1</no><heading guid="_7ff6a8e7-67e3-4ce2-8fc9-bb03d2cefa2c"
+id="sch.1-sec.1-he"><b>Savings as to proceedings etc</b></heading></head>
+
+<tier type="subclause" id="sch.1-sec.1-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_752573a6-e411-4e0e-a536-25c936a6c3f9"></attrib>
+<attrib name="id" value="sch.1-sec.1-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">The <legref jurisd="NSW" type="act"
+check="unknown"><name emphasis="yes"><i>Dividing Fences Act
+1951</i></name></legref> continues to operate in respect of any matter pending
+as a result of a notice served under that Act, an order made under section 11
+of that Act or work completed under section 14 (2) (b) of that Act as if that
+Act had not been repealed by this Act.</txt></block></tier>
+
+
+<tier type="subclause" id="sch.1-sec.1-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_909df2c8-4abd-46f6-ac7f-5d6f1f2dc69e"></attrib>
+<attrib name="id" value="sch.1-sec.1-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">Otherwise, this Act applies to and in respect of
+fencing work whether carried out before or after the commencement of section
+28.</txt></block></tier>
+</level>
+
+
+<level type="clause" id="sch.1-sec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_d8593cad-96c0-40f3-a73c-b8af41a7e3be"></attrib>
+<attrib name="id" value="sch.1-sec.2"></attrib></parentattributes>
+
+<head>
+<no>2</no><heading guid="_ccc46a76-b584-480c-8f4c-7fb3a43a1f0f"
+id="sch.1-sec.2-he"><b>Construction of references</b></heading></head>
+<block><txt break.before="1">A reference in any other Act or in an instrument
+made under an Act or in any document to the <legref jurisd="NSW" type="act"
+check="unknown"><name emphasis="yes"><i>Dividing Fences Act
+1951</i></name></legref> is to be read as a reference to this Act, except as
+provided by clause 1 (1).</txt></block></level>
+</level>
+
+
+<level type="part" id="sch.1-pt.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="guid" value="_d861b44f-eb01-4d78-9196-3afc054b9256"></attrib>
+<attrib name="id" value="sch.1-pt.3"></attrib></parentattributes>
+
+<head>
+<no><b>Part 3</b></no><heading guid="_854d9fe3-a4f6-4ec6-a23f-8a5bf7931cf2"
+id="sch.1-pt.3-he"><b>Provision consequent on enactment of <legref
+jurisd="NSW" type="act" check="unknown" refid="act-2008-072"><name
+emphasis="yes"><i>Dividing Fences and Other Legislation Amendment Act
+2008</i></name></legref></b></heading></head>
+
+<level type="clause" id="sch.1-sec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_08fcc366-484b-4dda-87a9-4f5fa357293b"></attrib>
+<attrib name="id" value="sch.1-sec.3"></attrib></parentattributes>
+
+<head>
+<no>3</no><heading guid="_c176ace0-294a-4564-a77f-b3ec3cb3bb7e"
+id="sch.1-sec.3-he"><b>Order under section 14 specifying amount to be
+paid</b></heading></head>
+<block><txt break.before="1">The amendment made to section 14 (1) (c) by the
+<legref jurisd="NSW" type="act" check="unknown" refid="act-2008-072"><name
+emphasis="yes"><i>Dividing Fences and Other Legislation Amendment Act
+2008</i></name></legref> extends to proceedings begun before the commencement
+of that amendment, but not so as to affect any determination of a Local Court
+or local land board before that commencement.</txt></block></level>
+</level>
+
+
+<content type="historynote"><txt break.before="1"><b>sch 1:</b> Am 2008 No 72,
+Sch 1 [7] [8].</txt></content>
+</level>
+
+
+<level type="schedule" id="sch.2" status="repealed">
+<parentattributes>
+<attrib name="type" value="schedule"></attrib>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_fddedbd4-bacc-4d46-9220-8cbe9e807995"></attrib>
+<attrib name="id" value="sch.2"></attrib>
+<attrib name="status" value="repealed"></attrib></parentattributes>
+
+<head>
+<no><b>Schedule 2</b></no></head>
+<repealed><repealedtxt></repealedtxt></repealed>
+
+
+<content type="historynote"><txt break.before="1"><b>sch 2:</b> Rep 1999 No
+85, Sch 4.</txt></content>
+</level>
+</content>
+
+
+<content type="editorial">
+
+<level type="historicalnotes">
+<head><heading guid="_a878ccc4-4e04-42ca-95c1-90ec7e8756ac"
+id="ed-he"><b>Historical notes</b></heading></head>
+
+<level type="tableleg">
+<head><heading guid="_4e68b253-87a7-4f34-899b-e082daa137d0"
+id="ed-he-oc.2"><b>Table of amending instruments</b></heading></head>
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-1991-072"><name emphasis="yes"><i>Dividing Fences Act
+1991</i></name> No 72</legref>. Assented to 17.12.1991. Date of commencement,
+1.2.1992, sec 2 and GG No 7 of 17.1.1992, p 243. This Act has been amended as
+follows:</txt>
+
+<table frame="none" orient="port" heading.align="left" font.size="12.pt"
+guid="_f16307d8-b9c2-4860-8136-b632243d92fd" id="ed-tbl">
+
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec colnum="1" colname="1" align="left" colwidth="2pi"></colspec>
+<colspec colnum="2" colname="2" align="left" colwidth="3.5pi"></colspec>
+<colspec colnum="3" colname="3" align="left" colwidth="24.5pi"></colspec>
+
+<tbody>
+
+<row guid="_9e5cabcb-830b-46b9-bba4-64c5c9935d07" id="ed-tbl-tblr">
+<entry colname="1" guid="_8fe47969-9076-42cb-8e13-82048616afad"
+id="ed-tbl-tblr-tble1"><txt break.before="1"><b>1993</b></txt></entry>
+<entry colname="2" guid="_830b5935-44ce-4d4b-96f7-12506e851ea4"
+id="ed-tbl-tblr-tble2"><txt break.before="1">No 33</txt></entry>
+<entry colname="3" guid="_84c95d15-4183-4a72-ba91-7fee4b86feb6"
+id="ed-tbl-tblr-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-1993-033"><name emphasis="yes"><i>Roads Act
+1993</i></name></legref>. Assented to 8.6.1993.</txt>
+<txt break.before="1">Date of commencement, 1.7.1993, sec 2 and GG No 73 of
+1.7.1993, p 3343.</txt></block></entry></row>
+
+
+<row guid="_3e8ada01-cc48-498c-84e0-84d596c17751" id="ed-tbl-tblr-oc.2">
+<entry colname="1" guid="_38f5a889-d180-4c71-ad9a-29f9ab2dfd0c"
+id="ed-tbl-tblr-oc.2-tble1"><txt break.before="1"><b>1994</b></txt></entry>
+<entry colname="2" guid="_6bdee43f-47d0-4b41-9dbb-4675cfb5fb4f"
+id="ed-tbl-tblr-oc.2-tble2"><txt break.before="1">No 32</txt></entry>
+<entry colname="3" guid="_76c1941a-779b-4ccd-8d43-8555f98ed70a"
+id="ed-tbl-tblr-oc.2-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act"
+check="unknown"><name emphasis="yes"><i>Statute Law (Miscellaneous Provisions)
+Act 1994</i></name></legref>. Assented to 2.6.1994.</txt>
+<txt break.before="1">Date of commencement of the provision of Sch 1 relating
+to the <legref jurisd="NSW" type="act" check="unknown"
+refid="act-1991-072"><name emphasis="yes"><i>Dividing Fences Act
+1991</i></name></legref>, assent, Sch 1.</txt></block></entry></row>
+
+
+<row guid="_8c62b156-2596-4a99-81d0-416a021f5e13" id="ed-tbl-tblr-oc.3">
+<entry colname="1" guid="_345eaca0-955c-4d88-83c5-4ec05ba14cf3"
+id="ed-tbl-tblr-oc.3-tble1"></entry>
+<entry colname="2" guid="_e199fea1-2bc5-441c-a5e8-4e3667e0aada"
+id="ed-tbl-tblr-oc.3-tble2"><txt break.before="1">No 41</txt></entry>
+<entry colname="3" guid="_e5eefa07-bc4a-4dd2-99a7-3b6fb2069167"
+id="ed-tbl-tblr-oc.3-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act"
+check="unknown"><name emphasis="yes"><i>Irrigation Corporations Act
+1994</i></name></legref>. Assented to 2.6.1994.</txt>
+<txt break.before="1">Date of commencement of the provision of Sch 3 relating
+to the <legref jurisd="NSW" type="act" check="unknown"
+refid="act-1991-072"><name emphasis="yes"><i>Dividing Fences Act
+1991</i></name></legref>, 3.2.1995, sec 2 (1) and GG No 11 of 3.2.1995, p
+581.</txt></block></entry></row>
+
+
+<row guid="_984f3042-6eb0-4617-b689-7d00f49e1954" id="ed-tbl-tblr-oc.4">
+<entry colname="1" guid="_99624236-d941-40a0-8291-f0f378aa0ae7"
+id="ed-tbl-tblr-oc.4-tble1"><txt break.before="1"><b>1995</b></txt></entry>
+<entry colname="2" guid="_2a0f6b6e-6881-40d4-a30a-6552a7960c1c"
+id="ed-tbl-tblr-oc.4-tble2"><txt break.before="1">No 101</txt></entry>
+<entry colname="3" guid="_18a88581-9189-49f7-81b9-ddb31cb84e93"
+id="ed-tbl-tblr-oc.4-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-1995-101"><name emphasis="yes"><i>Threatened Species Conservation
+Act 1995</i></name></legref>. Assented to 22.12.1995.</txt>
+<txt break.before="1">Date of commencement of Sch 6, 1.1.1996, sec 2 (1) and
+GG No 158 of 22.12.1995, p 8802.</txt></block></entry></row>
+
+
+<row guid="_3ddf762e-2636-4033-8557-5127cbc72914" id="ed-tbl-tblr-oc.5">
+<entry colname="1" guid="_fbd45e4c-f6de-47df-9440-2077a5d54297"
+id="ed-tbl-tblr-oc.5-tble1"><txt break.before="1"><b>1999</b></txt></entry>
+<entry colname="2" guid="_8af4d16e-0db4-44e1-9ad4-08d90dc14236"
+id="ed-tbl-tblr-oc.5-tble2"><txt break.before="1">No 85</txt></entry>
+<entry colname="3" guid="_75dbb9e0-45d4-412c-a4b0-be3833d67b37"
+id="ed-tbl-tblr-oc.5-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-1999-085"><name emphasis="yes"><i>Statute Law (Miscellaneous
+Provisions) Act (No 2) 1999</i></name></legref>. Assented to 3.12.1999.</txt>
+<txt break.before="1">Date of commencement of Sch 4, assent, sec 2
+(1).</txt></block></entry></row>
+
+
+<row guid="_736d1f5c-c7a0-463b-8999-99529102f448" id="ed-tbl-tblr-oc.6">
+<entry colname="1" guid="_fa0c76d9-92d8-431f-a2a7-d435e14baf87"
+id="ed-tbl-tblr-oc.6-tble1"><txt break.before="1"><b>2002</b></txt></entry>
+<entry colname="2" guid="_7a682ebe-e7be-40c6-a65a-89907c084bfa"
+id="ed-tbl-tblr-oc.6-tble2"><txt break.before="1">No 83</txt></entry>
+<entry colname="3" guid="_692ff065-3e16-46c7-8f4f-693a61cddecb"
+id="ed-tbl-tblr-oc.6-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-2002-083"><name emphasis="yes"><i>Surveying Act
+2002</i></name></legref>. Assented to 29.10.2002.</txt>
+<txt break.before="1">Date of commencement, 25.6.2003, sec 2 and GG No 103 of
+25.6.2003, p 5903.</txt></block></entry></row>
+
+
+<row guid="_36693321-e4e7-4bc4-9b5b-bf4fcae282f0" id="ed-tbl-tblr-oc.7">
+<entry colname="1" guid="_9febced0-e21f-4fba-b73b-979b45326585"
+id="ed-tbl-tblr-oc.7-tble1"><txt break.before="1"><b>2005</b></txt></entry>
+<entry colname="2" guid="_4bb78d01-734c-48ed-915c-9aa139b4c75a"
+id="ed-tbl-tblr-oc.7-tble2"><txt break.before="1">No 28</txt></entry>
+<entry colname="3" guid="_a7265f2a-dccb-4133-8c21-6ae08bb9c2c0"
+id="ed-tbl-tblr-oc.7-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-2005-028"><name emphasis="yes"><i>Civil Procedure Act
+2005</i></name></legref>. Assented to 1.6.2005.</txt>
+<txt break.before="1">Date of commencement of Sch 5.14, 15.8.2005, sec 2 (1)
+and GG No 100 of 10.8.2005, p 4205.</txt></block></entry></row>
+
+
+<row guid="_2d73f2d8-a2e0-4d3f-96b9-f013cc1ce54e" id="ed-tbl-tblr-oc.8">
+<entry colname="1" guid="_3b86153c-8974-44e9-a1a7-0088f783692e"
+id="ed-tbl-tblr-oc.8-tble1"><txt break.before="1"><b>2007</b></txt></entry>
+<entry colname="2" guid="_129bad1c-6205-4aa6-8c5e-0da4f0b8d8a7"
+id="ed-tbl-tblr-oc.8-tble2"><txt break.before="1">No 94</txt></entry>
+<entry colname="3" guid="_2ef18ec3-4238-42cb-b7e9-eb91ba04e8e5"
+id="ed-tbl-tblr-oc.8-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-2007-094"><name emphasis="yes"><i>Miscellaneous Acts (Local Court)
+Amendment Act 2007</i></name></legref>. Assented to 13.12.2007.</txt>
+<txt break.before="1">Date of commencement of Schs 1.31, 2 and 3, 6.7.2009,
+sec 2 and 2009 (314) LW 3.7.2009.</txt></block></entry></row>
+
+
+<row guid="_22b2c13a-30cc-4f40-a69b-9ac0bd99540c" id="ed-tbl-tblr-oc.9">
+<entry colname="1" guid="_4d1f0f25-9cce-4a16-a5a1-37d73b43920f"
+id="ed-tbl-tblr-oc.9-tble1"><txt break.before="1"><b>2008</b></txt></entry>
+<entry colname="2" guid="_3326eb14-e209-45c8-a8f8-fc62a238a191"
+id="ed-tbl-tblr-oc.9-tble2"><txt break.before="1">No 72</txt></entry>
+<entry colname="3" guid="_f3b4027b-1cf1-48d0-8213-3aa27f611796"
+id="ed-tbl-tblr-oc.9-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-2008-072"><name emphasis="yes"><i>Dividing Fences and Other
+Legislation Amendment Act 2008</i></name></legref>. Assented to
+28.10.2008.</txt>
+<txt break.before="1">Date of commencement, 1.2.2009, sec 2 and GG No 20 of
+23.1.2009, p 392.</txt></block></entry></row>
+
+
+<row guid="_2a92558f-54b0-44f7-8992-adfaaabe3242" id="ed-tbl-tblr-oc.10">
+<entry colname="1" guid="_e4ce1a98-21d1-46c6-87b2-58848ac2ea65"
+id="ed-tbl-tblr-oc.10-tble1"></entry>
+<entry colname="2" guid="_197a1fe7-304d-440e-8b46-96fb4377b431"
+id="ed-tbl-tblr-oc.10-tble2"><txt break.before="1">No 73</txt></entry>
+<entry colname="3" guid="_a25a7d8a-60fb-4934-a6fa-6d5dcc56becc"
+id="ed-tbl-tblr-oc.10-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-2008-073"><name emphasis="yes"><i>Water Management Amendment Act
+2008</i></name></legref>. Assented to 28.10.2008.</txt>
+<txt break.before="1">Date of commencement of Sch 7.1, assent, sec 2
+(1).</txt></block></entry></row>
+
+
+<row guid="_c459ed8c-aa91-49a0-8502-d18f06e9e727" id="ed-tbl-tblr-oc.11">
+<entry colname="1" guid="_ee13d413-893f-4088-8710-29a95490d4c3"
+id="ed-tbl-tblr-oc.11-tble1"><txt break.before="1"><b>2009</b></txt></entry>
+<entry colname="2" guid="_b4779289-d188-429f-830b-1988f65cd5e1"
+id="ed-tbl-tblr-oc.11-tble2"><txt break.before="1">No 9</txt></entry>
+<entry colname="3" guid="_aa335150-04cb-401c-ac45-df362eac8d02"
+id="ed-tbl-tblr-oc.11-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-2009-009"><name emphasis="yes"><i>Western Lands Amendment Act
+2009</i></name></legref>. Assented to 7.4.2009.</txt>
+<txt break.before="1">Date of commencement of Sch 3, assent, sec 2
+(1).</txt></block></entry></row>
+
+
+<row guid="_c0559e87-8e60-44c5-ae4e-51040852b994" id="ed-tbl-tblr-oc.12">
+<entry colname="1" guid="_b869552c-4c87-4b38-8c76-a53ac3fc3bb4"
+id="ed-tbl-tblr-oc.12-tble1"></entry>
+<entry colname="2" guid="_c3b01ae2-07be-4e5d-80b8-2f865c6966fb"
+id="ed-tbl-tblr-oc.12-tble2"><txt break.before="1">No 119</txt></entry>
+<entry colname="3" guid="_7a934374-7a9d-460c-b48a-41d8c6464181"
+id="ed-tbl-tblr-oc.12-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-2009-119"><name emphasis="yes"><i>Surveying Amendment Act
+2009</i></name></legref>. Assented to 14.12.2009.</txt>
+<txt break.before="1">Date of commencement, assent, sec
+2.</txt></block></entry></row>
+
+
+<row guid="_315daa38-c6f5-400f-a421-503193dbfe1e" id="ed-tbl-tblr-oc.13">
+<entry colname="1" guid="_bb73aff6-d428-4875-bf0e-dc7cc4dc88c6"
+id="ed-tbl-tblr-oc.13-tble1"><txt break.before="1"><b>2010</b></txt></entry>
+<entry colname="2" guid="_8fd7009a-fc97-4ac4-b02a-10a2810f1673"
+id="ed-tbl-tblr-oc.13-tble2"><txt break.before="1">No 27</txt></entry>
+<entry colname="3" guid="_b1b677d9-5176-44ac-b1e7-e2608d947bf0"
+id="ed-tbl-tblr-oc.13-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-2010-027"><name emphasis="yes"><i>Trees (Disputes Between
+Neighbours) Amendment Act 2010</i></name></legref>. Assented to
+26.5.2010.</txt>
+<txt break.before="1">Date of commencement of Sch 2, assent, sec 2
+(1).</txt></block></entry></row>
+
+
+<row guid="_8a415d00-1213-43a0-aa05-2e3cd82c0411" id="ed-tbl-tblr-oc.14">
+<entry colname="1" guid="_13e29e56-3aff-4f47-aaec-73a58258b8d0"
+id="ed-tbl-tblr-oc.14-tble1"></entry>
+<entry colname="2" guid="_ba03427f-54d5-43da-858e-7ebc0d196a07"
+id="ed-tbl-tblr-oc.14-tble2"><txt break.before="1">No 38</txt></entry>
+<entry colname="3" guid="_aac54f1a-4ee4-48ec-9d6b-6440fd407850"
+id="ed-tbl-tblr-oc.14-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-2010-038"><name emphasis="yes"><i>National Parks and Wildlife
+Amendment Act 2010</i></name></legref>. Assented to 15.6.2010.</txt>
+<txt break.before="1">Date of commencement of Sch 3.1, 2.7.2010, sec 2 and
+2010 (344) LW 2.7.2010.</txt></block></entry></row>
+
+
+<row guid="_f24a6ed4-cf6a-4019-8591-87eba2b4e068" id="ed-tbl-tblr-oc.15">
+<entry colname="1" guid="_7db01391-8904-4459-9637-286c25b22795"
+id="ed-tbl-tblr-oc.15-tble1"><txt break.before="1"><b>2013</b></txt></entry>
+<entry colname="2" guid="_e9a98c80-88d7-4b1d-af2a-b6533614c2d0"
+id="ed-tbl-tblr-oc.15-tble2"><txt break.before="1">No 95</txt></entry>
+<entry colname="3" guid="_df406d21-5bcc-438f-8b87-6c0b38d6acc5"
+id="ed-tbl-tblr-oc.15-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-2013-095"><name emphasis="yes"><i>Civil and Administrative
+Legislation (Repeal and Amendment) Act 2013</i></name></legref>. Assented to
+20.11.2013.</txt>
+<txt break.before="1">Date of commencement, 1.1.2014, sec
+2.</txt></block></entry></row>
+
+
+<row guid="_afff1bb7-26b6-4909-97e5-e03f140142c1" id="ed-tbl-tblr-oc.16">
+<entry colname="1" guid="_f575212d-c826-4f9c-ab57-0fa611ba284b"
+id="ed-tbl-tblr-oc.16-tble1"><txt break.before="1"><b>2014</b></txt></entry>
+<entry colname="2" guid="_400af909-213e-4532-95b1-91447cc9ed6c"
+id="ed-tbl-tblr-oc.16-tble2"><txt break.before="1">No 74</txt></entry>
+<entry colname="3" guid="_9ea6b54a-8f99-43c4-b3bf-ecf2322af2c4"
+id="ed-tbl-tblr-oc.16-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-2014-074"><name emphasis="yes"><i>Water NSW Act
+2014</i></name></legref>. Assented to 11.11.2014.</txt>
+<txt break.before="1">Date of commencement, 1.1.2015, sec 2 and 2014 (839) LW
+19.12.2014.</txt></block></entry></row>
+
+
+<row guid="_8a4e424d-46cf-49c1-b6a5-efa9b7d6b4c5" id="ed-tbl-tblr-oc.17">
+<entry colname="1" guid="_f4fb2b71-5e80-49cf-b956-5aedd47cdbb9"
+id="ed-tbl-tblr-oc.17-tble1"><txt break.before="1"><b>2017</b></txt></entry>
+<entry colname="2" guid="_282a8ec0-e729-4223-87ba-c97583f62a88"
+id="ed-tbl-tblr-oc.17-tble2"><txt break.before="1">No 17</txt></entry>
+<entry colname="3" guid="_7eba5993-4067-4d7d-9c93-6fe6d63b9d1f"
+id="ed-tbl-tblr-oc.17-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-2017-017"><name emphasis="yes"><i>Crown Land Legislation Amendment
+Act 2017</i></name></legref>. Assented to 17.5.2017.</txt>
+<txt break.before="1">Date of commencement of Sch 4.21, 1.7.2018, sec 2 (1)
+and 2018 (225) LW 1.6.2018.</txt></block></entry></row>
+
+
+<row guid="_efce53ab-884d-4ea0-b563-09aa498ea895" id="ed-tbl-tblr-oc.18">
+<entry colname="1" guid="_f6215744-7bac-4d1f-8cdb-22f7d27df457"
+id="ed-tbl-tblr-oc.18-tble1"><txt break.before="1"><b>2018</b></txt></entry>
+<entry colname="2" guid="_fa196aad-aa9f-464c-bd98-8ff25da25b8e"
+id="ed-tbl-tblr-oc.18-tble2"><txt break.before="1">No 25</txt></entry>
+<entry colname="3" guid="_83579349-62d8-4c45-9699-03c39ba5ab37"
+id="ed-tbl-tblr-oc.18-tble3">
+<block><txt break.before="1"><legref jurisd="NSW" type="act" check="unknown"
+refid="act-2018-025"><name emphasis="yes"><i>Statute Law (Miscellaneous
+Provisions) Act 2018</i></name></legref>. Assented to 15.6.2018.</txt>
+<txt break.before="1">Date of commencement of Sch 3, 14 days after assent, sec
+2 (1).</txt></block></entry></row>
+</tbody>
+</tgroup>
+</table>
+</block></level>
+
+
+<level type="tableamends">
+<head><heading guid="_a022d20e-6020-411d-bc2d-b9b76c741642"
+id="ed-he-oc.3"><b>Table of amendments</b></heading></head>
+<block>
+
+<table frame="none" orient="port" heading.align="left" font.size="12.pt"
+guid="_b3b26a77-10de-46d9-bebe-b15b7fb5e612" id="ed-tbl-oc.2">
+
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="1" align="left" colwidth="6pi"></colspec>
+<colspec colnum="2" colname="2" align="left" colwidth="24.5pi"></colspec>
+
+<tbody>
+
+<row guid="_2290f1f6-c67a-4c03-9b13-eaaba24c705c" id="ed-tbl-oc.2-tblr">
+<entry colname="1" guid="_b46360da-a2d1-4848-a202-7038e825cba1"
+id="ed-tbl-oc.2-tblr-tble1"><txt break.before="1">Sec 3</txt></entry>
+<entry colname="2" guid="_629b288f-fb12-449a-9b58-ffa5cde9f93e"
+id="ed-tbl-oc.2-tblr-tble2"><txt break.before="1">Am 2008 No 72, Sch 1 [1]
+[2]; 2009 No 9, Sch 3.4 [1]; 2013 No 95, Sch 8.9 [1]; 2017 No 17, Sch 4.21
+[1].</txt></entry></row>
+
+
+<row guid="_038bd3b1-39fd-4a54-abf1-adb1067843af" id="ed-tbl-oc.2-tblr-oc.2">
+<entry colname="1" guid="_cfa3092b-faf0-4f1d-be4c-2a7883d63298"
+id="ed-tbl-oc.2-tblr-oc.2-tble1"><txt break.before="1">Sec 4</txt></entry>
+<entry colname="2" guid="_393e1e68-7233-463a-947d-76d7c9000c21"
+id="ed-tbl-oc.2-tblr-oc.2-tble2"><txt break.before="1">Am 2007 No 94, Sch 1.31
+[1]; 2009 No 9, Sch 3.4 [2]; 2013 No 95, Sch 8.9 [2]; 2017 No 17, Sch 4.21
+[2].</txt></entry></row>
+
+
+<row guid="_1f51f97e-f38c-49cc-b023-6fb8f5193c7a" id="ed-tbl-oc.2-tblr-oc.3">
+<entry colname="1" guid="_02e060c8-b3c8-483f-88d1-a05b0384c51a"
+id="ed-tbl-oc.2-tblr-oc.3-tble1"><txt break.before="1">Sec 5</txt></entry>
+<entry colname="2" guid="_7121821e-6aed-404a-b708-27659ffd5868"
+id="ed-tbl-oc.2-tblr-oc.3-tble2"><txt break.before="1">Am 2007 No 94, Sch 1.31
+[1]; 2013 No 95, Sch 8.9 [3].</txt></entry></row>
+
+
+<row guid="_422e84e0-ac85-4828-a834-15da9bc8993d" id="ed-tbl-oc.2-tblr-oc.4">
+<entry colname="1" guid="_dd7c34f0-0580-4051-9439-c7b6d1da798b"
+id="ed-tbl-oc.2-tblr-oc.4-tble1"><txt break.before="1">Sec 7</txt></entry>
+<entry colname="2" guid="_eb74677d-34e0-4528-82b6-a0daf1a787cd"
+id="ed-tbl-oc.2-tblr-oc.4-tble2"><txt break.before="1">Am 2008 No 72, Sch 1
+[3].</txt></entry></row>
+
+
+<row guid="_2df3fca0-1116-4189-930f-c4c4018a91ff" id="ed-tbl-oc.2-tblr-oc.5">
+<entry colname="1" guid="_c9653721-a179-49f3-b75d-df68d4b7b160"
+id="ed-tbl-oc.2-tblr-oc.5-tble1"><txt break.before="1">Sec 9</txt></entry>
+<entry colname="2" guid="_2e6a677b-ba82-4c24-b1dc-8f40ac57b8ae"
+id="ed-tbl-oc.2-tblr-oc.5-tble2"><txt break.before="1">Am 2007 No 94, Sch 1.31
+[1]; 2013 No 95, Sch 8.9 [4].</txt></entry></row>
+
+
+<row guid="_a51f80ed-dd27-46af-8ab8-2fc73dc7733a" id="ed-tbl-oc.2-tblr-oc.6">
+<entry colname="1" guid="_9c925de2-dbd6-4a15-83cf-d044e6ba6735"
+id="ed-tbl-oc.2-tblr-oc.6-tble1"><txt break.before="1">Sec 11</txt></entry>
+<entry colname="2" guid="_af67bf2b-4790-4c30-b4b1-1b0c10fa4ef4"
+id="ed-tbl-oc.2-tblr-oc.6-tble2"><txt break.before="1">Am 2007 No 94, Sch 1.31
+[1]; 2013 No 95, Sch 8.9 [5].</txt></entry></row>
+
+
+<row guid="_30dcc5a1-4c45-4166-836c-3aa1e587c8fc" id="ed-tbl-oc.2-tblr-oc.7">
+<entry colname="1" guid="_bf843c27-0440-472a-ac0f-4d9f31a82285"
+id="ed-tbl-oc.2-tblr-oc.7-tble1"><txt break.before="1">Sec 12</txt></entry>
+<entry colname="2" guid="_70c4e9cd-1c97-4b8f-8179-60bcba30dea4"
+id="ed-tbl-oc.2-tblr-oc.7-tble2"><txt break.before="1">Am 2007 No 94, Sch 2;
+2013 No 95, Sch 8.9 [6].</txt></entry></row>
+
+
+<row guid="_7f752b3c-460d-4668-af4a-331a6fefa58b" id="ed-tbl-oc.2-tblr-oc.8">
+<entry colname="1" guid="_5fe81064-bf31-42d9-988e-aa4a9259779f"
+id="ed-tbl-oc.2-tblr-oc.8-tble1"><txt break.before="1">Sec 13</txt></entry>
+<entry colname="2" guid="_2f3586c0-e77e-4772-8b12-2aed96d4839b"
+id="ed-tbl-oc.2-tblr-oc.8-tble2"><txt break.before="1">Am 1994 No 32, Sch 1;
+2005 No 28, Sch 5.14; 2007 No 94, Schs 1.31 [1] [2], 2, 3; 2009 No 9, Sch 3.4
+[3]; 2013 No 95, Sch 8.9 [7]&#8211;[9]; 2017 No 17, Sch 4.21
+[3].</txt></entry></row>
+
+
+<row guid="_8e45e3c6-fff7-44f4-9d99-86ca3dea7edd" id="ed-tbl-oc.2-tblr-oc.9">
+<entry colname="1" guid="_33224af1-454d-4888-9cd9-a0814d9a801e"
+id="ed-tbl-oc.2-tblr-oc.9-tble1"><txt break.before="1">Sec 13A</txt></entry>
+<entry colname="2" guid="_21111510-1c62-4a0f-9f41-5447caa2fec0"
+id="ed-tbl-oc.2-tblr-oc.9-tble2"><txt break.before="1">Ins 2010 No 27, Sch
+2.1. Am 2013 No 95, Sch 8.9 [10].</txt></entry></row>
+
+
+<row guid="_7ed39886-ed45-44f9-a06d-4c072121ab63"
+id="ed-tbl-oc.2-tblr-oc.10">
+<entry colname="1" guid="_cef9c543-36db-4712-b2f1-bf1b2bad75a9"
+id="ed-tbl-oc.2-tblr-oc.10-tble1"><txt break.before="1">Sec 14</txt></entry>
+<entry colname="2" guid="_1f415bca-6eea-430f-9092-a8e44c8b61fd"
+id="ed-tbl-oc.2-tblr-oc.10-tble2"><txt break.before="1">Am 1995 No 101, Sch 6;
+2007 No 94, Sch 1.31 [2]; 2008 No 72, Sch 1 [4]; 2013 No 95, Sch 8.9 [11];
+2018 No 25, Sch 3.5.</txt></entry></row>
+
+
+<row guid="_3bd3332d-b2ad-4490-a220-f560ce6c64de"
+id="ed-tbl-oc.2-tblr-oc.11">
+<entry colname="1" guid="_0a77ba24-59fd-4883-9831-e015cb149302"
+id="ed-tbl-oc.2-tblr-oc.11-tble1"><txt break.before="1">Sec 15</txt></entry>
+<entry colname="2" guid="_d142d965-c96d-45a2-abf4-86c9e62bf296"
+id="ed-tbl-oc.2-tblr-oc.11-tble2"><txt break.before="1">Am 2007 No 94, Sch
+1.31 [1]; 2013 No 95, Sch 8.9 [12].</txt></entry></row>
+
+
+<row guid="_298fd7ab-a82e-408f-8507-2d77953e8955"
+id="ed-tbl-oc.2-tblr-oc.12">
+<entry colname="1" guid="_7eae1ecd-70e6-498a-8718-47afae025c27"
+id="ed-tbl-oc.2-tblr-oc.12-tble1"><txt break.before="1">Sec 17</txt></entry>
+<entry colname="2" guid="_22aa49ae-cfe2-48d3-b0bd-c22d127156ac"
+id="ed-tbl-oc.2-tblr-oc.12-tble2"><txt break.before="1">Am 2007 No 94, Sch
+1.31 [1]; 2013 No 95, Sch 8.9 [13] [14].</txt></entry></row>
+
+
+<row guid="_9077a757-ebd8-42eb-8483-aa4a3bb2170d"
+id="ed-tbl-oc.2-tblr-oc.13">
+<entry colname="1" guid="_743af88a-bfae-43cd-8143-5bb613382c45"
+id="ed-tbl-oc.2-tblr-oc.13-tble1"><txt break.before="1">Sec 18</txt></entry>
+<entry colname="2" guid="_1392047f-3fe6-4071-8f37-34a3cb59feb0"
+id="ed-tbl-oc.2-tblr-oc.13-tble2"><txt break.before="1">Am 2002 No 83, Sch
+2.6; 2009 No 119, Sch 2.8.</txt></entry></row>
+
+
+<row guid="_94f2334b-a2c6-43fd-94f6-3543fec7a3e0"
+id="ed-tbl-oc.2-tblr-oc.14">
+<entry colname="1" guid="_93eb1efd-e087-4aa8-9251-a09735e07d67"
+id="ed-tbl-oc.2-tblr-oc.14-tble1"><txt break.before="1">Sec 19</txt></entry>
+<entry colname="2" guid="_b703a9bd-cb1f-49b1-8556-d36ca3350f92"
+id="ed-tbl-oc.2-tblr-oc.14-tble2"><txt break.before="1">Am 2007 No 94, Schs
+1.31 [1], 2. Rep 2013 No 95, Sch 8.9 [15].</txt></entry></row>
+
+
+<row guid="_3c4b9a2b-c486-445d-99fe-0181428a2beb"
+id="ed-tbl-oc.2-tblr-oc.15">
+<entry colname="1" guid="_ea3da2b1-3ed5-4886-b1f7-9c92e10b2b93"
+id="ed-tbl-oc.2-tblr-oc.15-tble1"><txt break.before="1">Sec 22</txt></entry>
+<entry colname="2" guid="_36139eef-96e9-402c-8c04-0066df3a7ad6"
+id="ed-tbl-oc.2-tblr-oc.15-tble2"><txt break.before="1">Am 2007 No 94, Sch
+1.31 [2]; 2013 No 95, Sch 8.9 [16] [17].</txt></entry></row>
+
+
+<row guid="_26dd57b0-47df-43bb-9269-02c6ae3f5a69"
+id="ed-tbl-oc.2-tblr-oc.16">
+<entry colname="1" guid="_e6e93721-da42-4960-93b5-ef528029cbcf"
+id="ed-tbl-oc.2-tblr-oc.16-tble1"><txt break.before="1">Sec 23</txt></entry>
+<entry colname="2" guid="_a0e7d29a-9021-426e-9a58-353e82a78a93"
+id="ed-tbl-oc.2-tblr-oc.16-tble2"><txt break.before="1">Am 2007 No 94, Sch
+1.31 [1]; 2013 No 95, Sch 8.9 [18].</txt></entry></row>
+
+
+<row guid="_56c23114-51df-4c50-a162-c4dc76799ddb"
+id="ed-tbl-oc.2-tblr-oc.17">
+<entry colname="1" guid="_7d015dc0-5737-4361-99d8-de900304a21e"
+id="ed-tbl-oc.2-tblr-oc.17-tble1"><txt break.before="1">Sec 24</txt></entry>
+<entry colname="2" guid="_b9a0bdf9-ca60-4d85-bee3-b2935d20d60e"
+id="ed-tbl-oc.2-tblr-oc.17-tble2"><txt break.before="1">Am 2008 No 72, Sch 1
+[5]; 2013 No 95, Sch 8.9 [19]&#8211;[21].</txt></entry></row>
+
+
+<row guid="_553f699a-b480-4d29-9c3f-d0ab08ce726e"
+id="ed-tbl-oc.2-tblr-oc.18">
+<entry colname="1" guid="_2b3bfc20-6fff-4d22-b26b-69f12c21e6ce"
+id="ed-tbl-oc.2-tblr-oc.18-tble1"><txt break.before="1">Sec 25</txt></entry>
+<entry colname="2" guid="_3b422516-faaf-40a3-975e-9170a15f3caf"
+id="ed-tbl-oc.2-tblr-oc.18-tble2"><txt break.before="1">Am 1993 No 33, Sch 1;
+1994 No 41, Sch 3; 2008 No 73, Sch 7.1; 2010 No 38, Sch 3.1; 2014 No 74, Sch
+3.6.</txt></entry></row>
+
+
+<row guid="_64503db5-4f8f-431d-b822-19ad21e22b22"
+id="ed-tbl-oc.2-tblr-oc.19">
+<entry colname="1" guid="_22e566c7-e25e-498b-ba32-f6bc575939dd"
+id="ed-tbl-oc.2-tblr-oc.19-tble1"><txt break.before="1">Sec 26</txt></entry>
+<entry colname="2" guid="_9a183a04-a31b-45fd-b630-4c7f5fd6917d"
+id="ed-tbl-oc.2-tblr-oc.19-tble2"><txt break.before="1">Am 2008 No 72, Sch 1
+[6].</txt></entry></row>
+
+
+<row guid="_ec0ec794-881b-4813-8cee-023aa0b8c4ce"
+id="ed-tbl-oc.2-tblr-oc.20">
+<entry colname="1" guid="_3ef17bee-eb0d-4f49-a35d-dcab9c3b2bb1"
+id="ed-tbl-oc.2-tblr-oc.20-tble1"><txt break.before="1">Sec 30</txt></entry>
+<entry colname="2" guid="_3af9232e-0328-41a4-86d6-5deffc93980b"
+id="ed-tbl-oc.2-tblr-oc.20-tble2"><txt break.before="1">Rep 1999 No 85, Sch
+4.</txt></entry></row>
+
+
+<row guid="_7aa17117-c3ab-4c87-b13d-aa3c72643494"
+id="ed-tbl-oc.2-tblr-oc.21">
+<entry colname="1" guid="_bad4d30b-6c9f-41de-9fb6-d2bcfbf3a903"
+id="ed-tbl-oc.2-tblr-oc.21-tble1"><txt break.before="1">Sch 1</txt></entry>
+<entry colname="2" guid="_2e8b9436-6098-44ba-9f76-34dfd08db2bc"
+id="ed-tbl-oc.2-tblr-oc.21-tble2"><txt break.before="1">Am 2008 No 72, Sch 1
+[7] [8].</txt></entry></row>
+
+
+<row guid="_62ea157a-251e-47f3-9f9b-4d664470f793"
+id="ed-tbl-oc.2-tblr-oc.22">
+<entry colname="1" guid="_680eca39-2db8-41d0-a03f-4af3b6860837"
+id="ed-tbl-oc.2-tblr-oc.22-tble1"><txt break.before="1">Sch 2</txt></entry>
+<entry colname="2" guid="_ab3f1e97-4598-4b3a-9b1d-dcf42a6bbd0f"
+id="ed-tbl-oc.2-tblr-oc.22-tble2"><txt break.before="1">Rep 1999 No 85, Sch
+4.</txt></entry></row>
+</tbody>
+</tgroup>
+</table>
+</block></level>
+</level>
+</content>
+</exdoc>

@@ -80,6 +80,7 @@ public class Main {
 		XMLInputFactory xmlInputFactory = XMLInputFactory.newInstance();
 		XMLEventReader reader = xmlInputFactory.createXMLEventReader(new FileInputStream(outputFile));
 
+
 		String contentType = "";
 		String level = "";
 		String id = "";

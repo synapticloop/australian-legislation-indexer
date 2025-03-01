@@ -13,5 +13,10 @@
 		"xml_url": "https://legislation.nsw.gov.au/export/xml/2025-03-01/act-2015-051",
 		"type": "NSW Legislation",
 		"name": "Strata Schemes Development Act"
+	},
+	{
+		"xml_url": "https://legislation.nsw.gov.au/export/xml/2025-03-02/act-1991-072",
+		"type": "NSW Legislation",
+		"name": "Dividing Fences Act"
 	}
 ]
