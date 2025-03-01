@@ -1,0 +1,2797 @@
+<?xml version="1.0"?>
+<!DOCTYPE exdoc PUBLIC "-//NSWPCO//DTD Ldds Exchange XML//EN" "exchangeXML.dtd">
+
+
+<exdoc
+id="act-1995-068"
+title="Uncollected Goods Act 1995"
+year="1995"
+number="68"
+enact.or.made.date="1995-12-12"
+first.valid.date="2024-05-31"
+source="NSW Parliamentary Counsel"
+doc.class="other"
+source.dtd="-//NSWPCO//DTD Ldds Act//EN"
+>
+
+<metadata class="act">
+<metacontent class="year.passed">1995</metacontent>
+<metacontent class="year.assent">1995</metacontent>
+<metacontent class="publication.date">2024-11-20</metacontent>
+<metacontent class="type">act</metacontent>
+<metacontent class="act.type">publicgeneral</metacontent>
+<metacontent class="print.type">act.reprint</metacontent>
+<metacontent class="last.consol.amend.id">act-2024-025</metacontent>
+<metacontent class="in.force">allinforce</metacontent>
+<metacontent class="id">act-1995-068</metacontent>
+<metacontent
+class="version.desc.id">5791c8e2-7895-421a-9818-386869677e84</metacontent>
+<metacontent
+class="version.series.id">164fbd45-7f33-46e0-9a85-3d27edc4e8a0</metacontent>
+<metacontent class="amending">none</metacontent></metadata>
+
+<parentattributes>
+<attrib name="title" value="Uncollected Goods Act 1995"></attrib>
+<attrib name="year.passed" value="1995"></attrib>
+<attrib name="year.assent" value="1995"></attrib>
+<attrib name="no" value="68"></attrib>
+<attrib name="publication.date" value="2024-11-20"></attrib>
+<attrib name="type" value="act"></attrib>
+<attrib name="act.type" value="publicgeneral"></attrib>
+<attrib name="print.type" value="act.reprint"></attrib>
+<attrib name="last.consol.amend.id" value="act-2024-025"></attrib>
+<attrib name="first.valid.date" value="2024-05-31"></attrib>
+<attrib name="in.force" value="allinforce"></attrib>
+<attrib name="assent.date" value="1995-12-12"></attrib>
+<attrib name="id" value="act-1995-068"></attrib>
+<attrib name="version.desc.id"
+value="5791c8e2-7895-421a-9818-386869677e84"></attrib>
+<attrib name="version.series.id"
+value="164fbd45-7f33-46e0-9a85-3d27edc4e8a0"></attrib>
+<attrib name="amending" value="none"></attrib></parentattributes>
+
+
+<content type="coverdata">
+
+<tier type="statusrecord" id="cd-status">
+<parentattributes>
+<attrib name="guid" value="_135032c6-2ea3-4797-a0b9-ab2fd0c4f03c"></attrib>
+<attrib name="id" value="cd-status"></attrib></parentattributes>
+
+<head><heading guid="_52d42dd4-8915-47a9-be65-dc251158ed7e"
+id="cd-status-he"><b>See also&#8212;</b></heading></head>
+<block><txt break.before="1"><legref type="bill" jurisd="NSW"
+check="unknown"><name emphasis="yes"><i>Strata Schemes Legislation Amendment
+Bill 2024</i></name></legref></txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>whole Act (except sch
+1):</b> Am 2018 No 79, Sch 3.1[1] (&#8220;bailor&#8221;, &#8220;bailee&#8221;
+and &#8220;bailee&#8217;s&#8221; omitted wherever occurring,
+&#8220;depositor&#8221;, &#8220;receiver&#8221; and
+&#8220;receiver&#8217;s&#8221; inserted instead,
+respectively).</txt></content>
+</content>
+
+
+<content type="front">
+
+<tier type="longtitle" id="frnt-lt">
+<parentattributes>
+<attrib name="guid" value="_59c1cae1-2328-4bb3-97e5-a146eee8516e"></attrib>
+<attrib name="id" value="frnt-lt"></attrib></parentattributes>
+
+<block><txt break.before="1">An Act to provide for the disposal of uncollected
+goods; and to repeal the <legref type="act" jurisd="NSW" check="unknown"><name
+emphasis="yes"><i>Disposal of Uncollected Goods Act
+1966</i></name></legref>.</txt></block></tier>
+</content>
+
+
+<content type="body">
+
+<level type="part" id="pt.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="guid" value="_453d70be-a746-4f2a-ba46-50984860f7cb"></attrib>
+<attrib name="id" value="pt.1"></attrib></parentattributes>
+
+<head>
+<no><b>Part 1</b></no><heading guid="_d078c727-16d8-4dbc-b384-d78628c917d2"
+id="pt.1-he"><b>Preliminary</b></heading></head>
+
+<level type="clause" id="sec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_f14d7817-0adf-4e7a-b635-14952c1fa76c"></attrib>
+<attrib name="id" value="sec.1"></attrib></parentattributes>
+
+<head>
+<no>1</no><heading guid="_406e833f-3b9d-440c-869e-fccdd16a1619"
+id="sec.1-he"><b>Name of Act</b></heading></head>
+<block><txt break.before="1">This Act is the <legref type="act" jurisd="NSW"
+check="unknown" refid="act-1995-068"><name emphasis="yes"><i>Uncollected Goods
+Act 1995</i></name></legref>.</txt></block></level>
+
+
+<level type="clause" id="sec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_81bf538a-34f0-4780-a727-cf48f19d6695"></attrib>
+<attrib name="id" value="sec.2"></attrib></parentattributes>
+
+<head>
+<no>2</no><heading guid="_b248fb9f-a12b-481a-af45-63983c79379a"
+id="sec.2-he"><b>Commencement</b></heading></head>
+<block><txt break.before="1">This Act commences on a day to be appointed by
+proclamation.</txt></block></level>
+
+
+<level type="clause" id="sec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_4893894d-4211-4396-8d77-6777988adfc7"></attrib>
+<attrib name="id" value="sec.3"></attrib></parentattributes>
+
+<head>
+<no>3</no><heading guid="_d258012c-11f5-4765-a098-4f32f7f80233"
+id="sec.3-he"><b>Definitions</b></heading></head>
+<block><txt break.before="1">In this Act&#8212;</txt>
+<deflist>
+<block><txt break.before="1"><defterm type="definition"
+guid="_98b57e32-1c1c-4f36-b041-8dc83f87857e" id="def.bailedgoods"><b><i>bailed
+goods</i></b></defterm> means goods subject to bailment, and includes goods
+held by the Sheriff following their seizure under a writ of
+execution.</txt></block>
+<block><txt break.before="1"><defterm type="definition"
+guid="_221c9512-02f9-4d1a-a6cb-7212a0d46465"
+id="def.bailment"><b><i>bailment</i></b></defterm> includes bailment for
+reward, bailment in the course of business, gratuitous bailment, involuntary
+bailment or any sub-bailment, but does not include anything excluded from this
+definition by the regulations.</txt></block>
+<block><txt break.before="1"><defterm type="definition"
+guid="_2cd0c87a-afa0-4234-a08a-aa545603c02f"
+id="def.depositor"><b><i>depositor</i></b></defterm> means the person who
+gives possession of goods (whether or not the person is the owner of the
+goods), and includes a bailor.</txt></block>
+<block><txt break.before="1"><defterm type="definition"
+guid="_1ff99a14-77f1-4858-94e0-22511ad46e29" id="def.disposeof"><b><i>dispose
+of</i></b></defterm> includes sell or destroy.</txt></block>
+<block><txt break.before="1"><defterm type="definition"
+guid="_c9702f8a-59b5-441f-956c-cae0bf1fe460"
+id="def.goods"><b><i>goods</i></b></defterm> means all chattels personal,
+other than things excluded from this definition by the
+regulations.</txt></block>
+<block><txt break.before="1"><defterm type="definition"
+guid="_868122f4-1525-4b0c-a5af-93cf5760e8b3"
+id="def.publiclyregisteredinterest"><b><i>publicly registered
+interest</i></b></defterm>, in relation to goods, means&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_8d67cbee-fb40-4e2f-8179-ff26477431fb" id="sec.3-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">in the case of a motor vehicle or a boat or
+vessel&#8212;a security interest in the motor vehicle or the boat or vessel
+recorded in the Personal Property Securities Register under the <legref
+type="act" jurisd="CTH" check="unknown"><name emphasis="yes"><i>Personal
+Property Securities Act 2009</i></name></legref> of the Commonwealth,
+or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_d51082a6-cafb-4493-8d99-5675fbd9d943" id="sec.3-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">in the case of any other goods&#8212;an interest
+in the goods recorded in a register (whether of the Commonwealth or the State)
+that is prescribed by the regulations.</txt></block></li></list>
+</block>
+<block><txt break.before="1"><defterm type="definition"
+guid="_9bb650b1-3fe1-4e58-bf00-b016fe459ce4"
+id="def.receiver"><b><i>receiver</i></b></defterm> means the person who takes
+possession of goods, and includes a bailee.</txt></block>
+<block><txt break.before="1"><defterm type="definition"
+guid="_b39df8c9-b4b5-4f4d-8ac1-1672ea01ec53"
+id="def.relevantcharges"><b><i>relevant charges</i></b></defterm>&#8212;see
+section 28.</txt></block>
+<block><txt break.before="1"><defterm type="definition"
+guid="_acb6ec79-4d09-4793-a8bb-372e18914abd"
+id="def.Tribunal"><b><i>Tribunal</i></b></defterm> means the Civil and
+Administrative Tribunal.</txt></block>
+<block><txt break.before="1"><defterm type="definition"
+guid="_c9361509-32d4-43f1-9925-6711eaaa52eb"
+id="def.uncollectedgoods"><b><i>uncollected goods</i></b></defterm> means
+goods that are uncollected as referred to in section
+5.</txt></block></deflist>
+</block>
+
+<content type="historynote"><txt break.before="1"><b>s 3:</b> Am 1997 No 141,
+Sch 1.13 [1]; 2010 No 57, Sch 1.24 [1]; 2018 No 79, Sch 3.1[2]
+[3].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.4" status="repealed">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_8533dce0-03a6-4827-afb2-94b10f8062be"></attrib>
+<attrib name="id" value="sec.4"></attrib>
+<attrib name="status" value="repealed"></attrib></parentattributes>
+
+<head>
+<no>4</no></head>
+<repealed><repealedtxt></repealedtxt></repealed>
+
+
+<content type="historynote"><txt break.before="1"><b>s 4:</b> Rep 2018 No 79,
+Sch 3.1[4].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.5">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_d575dfa4-569c-4afc-84ed-045add864234"></attrib>
+<attrib name="id" value="sec.5"></attrib></parentattributes>
+
+<head>
+<no>5</no><heading guid="_d62151ad-3ba2-4022-b52c-31e5e30f889d"
+id="sec.5-he"><b>When goods uncollected for purposes of
+Act</b></heading></head>
+
+<tier type="subclause" id="sec.5-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_d717d070-f22d-422a-b2de-3a550186c98a"></attrib>
+<attrib name="id" value="sec.5-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">Bailed goods are uncollected for the purposes of
+this Act if&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_9c4fafd7-3015-406d-90f4-e74b3575dada" id="sec.5-ssec.1-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">the goods are ready for delivery to the depositor
+in accordance with the terms of the bailment, but the depositor has failed to
+take delivery of the goods or, if those terms so provide, to give directions
+as to their delivery, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_b6bb10e5-98cb-48fc-afa5-41fa5138927c" id="sec.5-ssec.1-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">the receiver is required to give notice to the
+depositor before the goods are so ready for delivery, but is unable to trace
+or communicate with the depositor, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_5fac59ef-9872-4141-8b4e-da278f5dfa08" id="sec.5-ssec.1-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">the receiver can reasonably expect to be relieved
+of any duty to safeguard the goods on giving notice to the depositor, but is
+unable to trace or communicate with the depositor.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.5-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_428b9207-fc2f-4bdd-880e-d613136fde28"></attrib>
+<attrib name="id" value="sec.5-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">Goods are also uncollected goods if&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_dff6cc36-374d-42c8-a1a8-9b502f4a23fa" id="sec.5-ssec.2-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">a park owner reasonably believes the goods have
+been abandoned or left by the occupant on the site when an occupation
+agreement is terminated (within the meaning of the <legref type="act"
+jurisd="NSW" check="unknown" refid="act-2002-088"><name
+emphasis="yes"><i>Holiday Parks (Long-term Casual Occupation) Act
+2002</i></name></legref>), or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_448018a4-7a64-4640-93bd-09ed648066a8" id="sec.5-ssec.2-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">an operator reasonably believes the goods have
+been abandoned or left behind on residential premises when an agreement is
+terminated or on common property in the community (within the meaning of the
+<legref type="act" jurisd="NSW" check="unknown" refid="act-2013-097"><name
+emphasis="yes"><i>Residential (Land Lease) Communities Act
+2013</i></name></legref>), or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_9e4f4490-9b6b-4982-b2b0-b0f65df72cfa" id="sec.5-ssec.2-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">a landlord reasonably believes the goods have
+been abandoned or left behind by the tenant or an occupant of the premises
+after vacant possession of the premises is obtained or the premises are
+abandoned (within the meaning of the <legref type="act" jurisd="NSW"
+check="unknown" refid="act-2010-042"><name emphasis="yes"><i>Residential
+Tenancies Act 2010</i></name></legref>), or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_4839d96a-9161-4bc8-9e28-c202978cf40a" id="sec.5-ssec.2-para1.d">
+<no>(d)</no>
+<block><txt break.before="1">an operator reasonably believes the goods have
+been abandoned or left behind on residential premises when a residence
+contract is terminated or on common property within the retirement village
+(within the meaning of the <legref type="act" jurisd="NSW" check="unknown"
+refid="act-1999-081"><name emphasis="yes"><i>Retirement Villages Act
+1999</i></name></legref>), or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_5d232696-492d-4123-bed8-5f16962aa3ec" id="sec.5-ssec.2-para1.e">
+<no>(e)</no>
+<block><txt break.before="1">an owners corporation reasonably believes the
+goods have been abandoned or left behind on common property of a strata scheme
+(within the meaning of the <legref type="act" jurisd="NSW" check="unknown"
+refid="act-2015-050"><name emphasis="yes"><i>Strata Schemes Management Act
+2015</i></name></legref>), or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_5cb56492-182f-4bfc-80ca-19bdfae9773e" id="sec.5-ssec.2-para1.f">
+<no>(f)</no>
+<block><txt break.before="1">the goods are of a kind prescribed by the
+regulations.</txt></block></li></list>
+</block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 5:</b> Am 2018 No 79,
+Sch 3.1[5].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.6">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_dc8b8c10-145e-4965-a281-1e04ad0f0681"></attrib>
+<attrib name="id" value="sec.6"></attrib></parentattributes>
+
+<head>
+<no>6</no><heading guid="_e6b8827a-d296-45d1-a13f-44c6fb392b81"
+id="sec.6-he"><b>When Act available for disposal of uncollected
+goods</b></heading></head>
+
+<tier type="subclause" id="sec.6-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_68f63833-3a80-477a-a3da-964e1fc162ff"></attrib>
+<attrib name="id" value="sec.6-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">This Act is available for the disposal of
+uncollected goods where there is no agreement between the parties on the means
+of their disposal. If there is such an agreement, this Act applies to any
+aspect of the disposal of those goods that is not dealt with in the
+agreement.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.6-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_9709328b-1521-4b94-95f5-b1d3b12e1fb7"></attrib>
+<attrib name="id" value="sec.6-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">This Act is also available as an alternative to
+other statutory means of disposal of particular uncollected goods. However, it
+is not available as an alternative to the following&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_120d03a7-4c01-449c-b5fe-53267bbfd6b4" id="sec.6-ssec.2-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">the <legref type="act" jurisd="NSW"
+check="unknown" refid="act-1990-039"><name emphasis="yes"><i>Passenger
+Transport Act 1990</i></name></legref>,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_730b231e-10e4-46fc-8df3-3e70a62b991c" id="sec.6-ssec.2-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">the <legref type="act" jurisd="NSW"
+check="unknown" refid="act-2014-046"><name emphasis="yes"><i>Passenger
+Transport Act 2014</i></name></legref>,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_7ddca390-943c-4116-91f4-be0a1f386d29" id="sec.6-ssec.2-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">the <legref type="act" jurisd="NSW"
+check="unknown" refid="act-1996-013"><name emphasis="yes"><i>Pawnbrokers and
+Second-hand Dealers Act 1996</i></name></legref>,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_a40f2b74-c778-408c-a296-c998be3601aa" id="sec.6-ssec.2-para1.d">
+<no>(d)</no>
+<block><txt break.before="1">the <legref type="act" jurisd="NSW"
+check="unknown" refid="act-1935-019"><name emphasis="yes"><i>Storage Liens Act
+1935</i></name></legref>,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_7fcb007b-f08c-4c8b-a436-096ebf189de4" id="sec.6-ssec.2-para1.e">
+<no>(e)</no>
+<block><txt break.before="1">the <legref type="act" jurisd="NSW"
+check="unknown" refid="act-1988-109"><name emphasis="yes"><i>Transport
+Administration Act 1988</i></name></legref>,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_f189e2ca-15a2-48b7-bf75-93aa490d3b63" id="sec.6-ssec.2-para1.f">
+<no>(f)</no>
+<block><txt break.before="1">the <legref type="act" jurisd="NSW"
+check="unknown" refid="act-1995-075"><name emphasis="yes"><i>Unclaimed Money
+Act 1995</i></name></legref>,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_8030c2f0-7679-440d-9993-d6e1388b91b0" id="sec.6-ssec.2-para1.g">
+<no>(g)</no>
+<block><txt break.before="1">any other Act or instrument prescribed by the
+regulations.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.6-ssec.3" status="repealed">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_82629111-ebf3-49ec-bc6a-658f5bc76177"></attrib>
+<attrib name="id" value="sec.6-ssec.3"></attrib>
+<attrib name="status" value="repealed"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<repealed><repealedtxt></repealedtxt></repealed>
+</tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 6:</b> Am 1996 No 13,
+Sch 1.3; 2001 No 56, Sch 2.46; 2018 No 79, Sch 3.1[6].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.7">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_a089d025-0a34-4f54-83c9-cced9e9feed9"></attrib>
+<attrib name="id" value="sec.7"></attrib></parentattributes>
+
+<head>
+<no>7</no><heading guid="_1e9922e1-6711-4d5d-88b8-890ea0bf2348"
+id="sec.7-he"><b>No liability for due disposal of uncollected
+goods</b></heading></head>
+<block><txt break.before="1">A person does not incur any liability in respect
+of the disposal of uncollected goods in accordance with this Act or in
+accordance with an order of the Tribunal.</txt></block>
+
+<content type="historynote"><txt break.before="1"><b>s 7:</b> Subst 2018 No
+79, Sch 3.1[7].</txt></content>
+</level>
+</level>
+
+
+<level type="part" id="pt.2" status="repealed">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="guid" value="_ae0838d3-a449-4b73-a5ba-af5eb3e71fc8"></attrib>
+<attrib name="id" value="pt.2"></attrib>
+<attrib name="status" value="repealed"></attrib></parentattributes>
+
+<head>
+<no><b>Part 2</b></no></head>
+<repealed>
+<repinfo
+type="clause">8&#8211;18<repealedtxt></repealedtxt></repinfo></repealed>
+
+
+<content type="historynote"><txt break.before="1"><b>pt 2:</b> Rep 2018 No 79,
+Sch 3.1[8].</txt></content>
+
+
+<content type="historynote"><txt break.before="1"><b>s 8:</b> Am 2007 No 94,
+Sch 2; 2010 No 57, Sch 1.24 [2]. Rep 2018 No 79, Sch 3.1[8].</txt></content>
+
+
+<content type="historynote"><txt break.before="1"><b>s 9:</b> Am 2007 No 94,
+Sch 3. Rep 2018 No 79, Sch 3.1[8].</txt></content>
+
+
+<content type="historynote"><txt break.before="1"><b>s 10:</b> Rep 2018 No 79,
+Sch 3.1[8].</txt></content>
+
+
+<content type="historynote"><txt break.before="1"><b>s 11:</b> Am 2007 No 94,
+Sch 3. Rep 2018 No 79, Sch 3.1[8].</txt></content>
+
+
+<content type="historynote"><txt break.before="1"><b>s 12:</b> Rep 2018 No 79,
+Sch 3.1[8].</txt></content>
+
+
+<content type="historynote"><txt break.before="1"><b>s 13:</b> Rep 2018 No 79,
+Sch 3.1[8].</txt></content>
+
+
+<content type="historynote"><txt break.before="1"><b>s 14:</b> Am 2001 No 56,
+Sch 2.46. Rep 2018 No 79, Sch 3.1[8].</txt></content>
+
+
+<content type="historynote"><txt break.before="1"><b>s 15:</b> Rep 2018 No 79,
+Sch 3.1[8].</txt></content>
+
+
+<content type="historynote"><txt break.before="1"><b>s 16:</b> Am 2007 No 94,
+Sch 1.98 [1]. Rep 2018 No 79, Sch 3.1[8].</txt></content>
+
+
+<content type="historynote"><txt break.before="1"><b>s 17:</b> Am 2006 No 120,
+Sch 2.106; 2007 No 94, Schs 1.98 [2], 3. Rep 2018 No 79, Sch
+3.1[8].</txt></content>
+
+
+<content type="historynote"><txt break.before="1"><b>s 18:</b> Am 1997 No 141,
+Sch 1.13 [2]&#8211;[5]; 2007 No 94, Sch 2. Rep 2018 No 79, Sch
+3.1[8].</txt></content>
+</level>
+
+
+<level type="part" id="pt.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="guid" value="_2254b13e-4a4d-41f0-8a30-5b207488e03a"></attrib>
+<attrib name="id" value="pt.3"></attrib></parentattributes>
+
+<head>
+<no><b>Part 3</b></no><heading guid="_5e071c2d-d115-4f51-8472-42d5d0644590"
+id="pt.3-he"><b>Disposal of uncollected goods after due notice to
+depositor</b></heading></head>
+
+<level type="clause" id="sec.19">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_5b47839c-84bc-435b-b4a0-5e55db072353"></attrib>
+<attrib name="id" value="sec.19"></attrib></parentattributes>
+
+<head>
+<no>19</no><heading guid="_f19041f3-1f5a-44be-b30a-e4ab6342ad58"
+id="sec.19-he"><b>Application of Part</b></heading></head>
+<block><txt break.before="1">This Part applies to uncollected goods, other
+than bailed goods in respect of which a dispute exists between the depositor
+and the receiver as to&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_68258267-d461-436d-b5f5-7a74cb058b68" id="sec.19-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">the amount of any charge made by the receiver for
+the carriage or storage of the goods or for repairs or other work done in
+connection with the goods, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_a17a092a-7ed6-4d19-91e3-caa5043595d2" id="sec.19-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">the condition of the goods or the nature or
+quality of any repairs or other work done in connection with the
+goods.</txt></block></li></list>
+</block>
+
+<content type="historynote"><txt break.before="1"><b>ss 19&#8211;21:</b> Subst
+2018 No 79, Sch 3.1[9].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.20">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_10593a6a-9512-44a7-8906-1450ec7c26c4"></attrib>
+<attrib name="id" value="sec.20"></attrib></parentattributes>
+
+<head>
+<no>20</no><heading guid="_d0bd9dd4-3568-4dbd-9aa5-617cfe703281"
+id="sec.20-he"><b>Low value uncollected goods</b></heading></head>
+
+<tier type="subclause" id="sec.20-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_598793f4-ff48-4e90-9c47-21773e0b3c56"></attrib>
+<attrib name="id" value="sec.20-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">This section applies to uncollected goods with a
+value of less than $1,000 (<defterm type="definition"
+guid="_2497b560-c521-4c0a-973a-44f6904bae36"
+id="sec.20-def.lowvalueuncollectedgoods"><b><i>low value uncollected
+goods</i></b></defterm>).</txt></block></tier>
+
+
+<tier type="subclause" id="sec.20-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_a674fc89-27a2-4c8a-8e64-21ef37cc832e"></attrib>
+<attrib name="id" value="sec.20-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">A receiver may dispose of low value uncollected
+goods in an appropriate manner if the depositor&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_8441e120-2d89-40ab-bf64-888b6bacbce5" id="sec.20-ssec.2-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">has been given oral or written notice of the
+receiver&#8217;s intention to dispose of the goods, and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_c0e77ce9-3107-4114-a61e-e66eec8d8192" id="sec.20-ssec.2-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">has been given at least 14 days, from the date
+when notice was given, within which to collect the
+goods.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.20-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_ecb1df23-05d9-4621-a2df-f9e4d48d6cc1"></attrib>
+<attrib name="id" value="sec.20-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">The receiver may move or store low value
+uncollected goods in an appropriate manner.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>ss 19&#8211;21:</b> Subst
+2018 No 79, Sch 3.1[9].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.21">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_cf8d0824-d119-4013-9b1a-130b868c69f5"></attrib>
+<attrib name="id" value="sec.21"></attrib></parentattributes>
+
+<head>
+<no>21</no><heading guid="_17cda2d0-53e4-4b74-84d8-17ddf1e074b0"
+id="sec.21-he"><b>Medium value uncollected goods</b></heading></head>
+
+<tier type="subclause" id="sec.21-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_f40e53cd-4e21-416d-a11d-a8735a765017"></attrib>
+<attrib name="id" value="sec.21-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">This section applies to uncollected goods with a
+value equal to or more than $1,000 but less than $20,000 (<defterm
+type="definition" guid="_32aa56b1-b088-4df1-9a92-299cb4eb5ce2"
+id="sec.21-def.mediumvalueuncollectedgoods"><b><i>medium value uncollected
+goods</i></b></defterm>).</txt></block></tier>
+
+
+<tier type="subclause" id="sec.21-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_67bd5acf-f7c6-4314-ad19-4cda290ec8ce"></attrib>
+<attrib name="id" value="sec.21-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">A receiver may dispose of medium value
+uncollected goods by way of public auction or by private sale for a fair value
+if the depositor&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_2f38d852-05a6-40cd-bc70-38ce2dcf0070" id="sec.21-ssec.2-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">has been given written notice of the
+receiver&#8217;s intention to dispose of the goods, and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_46d355f1-0533-4e7c-9ce3-004348542a2b" id="sec.21-ssec.2-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">has been given at least 28 days, from the date
+when notice was given, within which to collect the
+goods.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.21-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_8a47bf57-c4f3-4f47-90da-fee77c455cd0"></attrib>
+<attrib name="id" value="sec.21-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">The receiver may move or store medium value
+uncollected goods in an appropriate manner.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>ss 19&#8211;21:</b> Subst
+2018 No 79, Sch 3.1[9].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.22">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_9d944d4b-ef5b-49c8-b8f2-ff54a40e9b99"></attrib>
+<attrib name="id" value="sec.22"></attrib></parentattributes>
+
+<head>
+<no>22</no><heading guid="_88e8f0a6-18fd-4ece-a5a6-1534060cd4b9"
+id="sec.22-he"><b>High value uncollected goods</b></heading></head>
+
+<pre type="auto-inserted">
+
+<tier type="subclause" id="sec.22-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_bd211839-b1c5-4cda-8dc9-bfff44af9dd7"></attrib>
+<attrib name="id" value="sec.22-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">This section applies to uncollected goods with a
+value of at least $20,000 (<defterm type="definition"
+guid="_abf8daff-6b3c-45bf-bb95-1597e49089c2"
+id="sec.22-def.highvalueuncollectedgoods"><b><i>high value uncollected
+goods</i></b></defterm>).</txt></block></tier>
+</pre>
+
+
+<tier type="subclause" id="sec.22-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_6b308469-9405-4de4-8fd6-42a6ddcc0d7a"></attrib>
+<attrib name="id" value="sec.22-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">A receiver must not dispose of high value
+uncollected goods otherwise than in accordance with an order of the
+Tribunal.</txt></block>
+
+<tier type="penalty" id="sec.22-ssec.2-pen">
+<parentattributes>
+<attrib name="guid" value="_d382f98a-ae4c-4d0e-8657-2c2b7c40e1a5"></attrib>
+<attrib name="id" value="sec.22-ssec.2-pen"></attrib></parentattributes>
+
+<block><txt break.before="1">Maximum penalty&#8212;200 penalty
+units.</txt></block></tier>
+</tier>
+
+
+<tier type="subclause" id="sec.22-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_3a94fbca-024d-4a20-94f1-4ff72b52ea54"></attrib>
+<attrib name="id" value="sec.22-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">A receiver may apply to the Tribunal for an order
+specifying the way in which the uncollected goods are to be disposed
+of.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.22-ssec.4">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_0a06ccb6-4973-4ec3-bf83-db81a716e35e"></attrib>
+<attrib name="id" value="sec.22-ssec.4"></attrib></parentattributes>
+
+<head>
+<no>(4)</no></head>
+<block><txt break.before="1">The receiver may move or store high value
+uncollected goods in an appropriate manner.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 22:</b> Am 2017 No 25,
+Sch 3.4. Subst 2018 No 79, Sch 3.1[9].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.22A">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_cf122aea-64e5-4a85-ac83-e678ae1cff5c"></attrib>
+<attrib name="id" value="sec.22A"></attrib></parentattributes>
+
+<head>
+<no>22A</no><heading guid="_189fff64-c7da-4983-845a-b9dd7366244e"
+id="sec.22A-he"><b>Personal documents</b></heading></head>
+
+<pre type="auto-inserted">
+
+<tier type="subclause" id="sec.22A-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_b5b38a44-2008-4ee8-b683-8bb9d1fab7b3"></attrib>
+<attrib name="id" value="sec.22A-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">This section applies to personal documents that
+are uncollected goods.</txt></block></tier>
+</pre>
+
+
+<tier type="subclause" id="sec.22A-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_68b27963-ef99-4673-9213-8f55eb294853"></attrib>
+<attrib name="id" value="sec.22A-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">A receiver may dispose of personal documents if
+the depositor&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_83cce72f-d832-489d-8e7f-555cd95ffbcc" id="sec.22A-ssec.2-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">has been given written notice of the
+receiver&#8217;s intention to dispose of the documents,
+and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_612e1df0-1da4-4587-a9a3-b69386176561" id="sec.22A-ssec.2-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">has been given at least 28 days, from the date
+when notice was given, within which to collect the
+documents.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.22A-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_6c1c26a5-5951-4cdd-8023-87dbe4d5069b"></attrib>
+<attrib name="id" value="sec.22A-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">Personal documents must be disposed of by way of
+a secure destruction method or by returning the documents to their
+author.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.22A-ssec.4">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_23f0be91-437e-4730-9a86-ce106532e73b"></attrib>
+<attrib name="id" value="sec.22A-ssec.4"></attrib></parentattributes>
+
+<head>
+<no>(4)</no></head>
+<block><txt break.before="1">In this section&#8212;</txt>
+<deflist>
+<block><txt break.before="1"><defterm type="definition"
+guid="_e6bdbbe9-1176-4766-9e42-6336c4c8cf40"
+id="sec.22A-def.personaldocument"><b><i>personal document</i></b></defterm>
+means&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_bb2f6d62-c174-4198-aec0-22ede2c765b7" id="sec.22A-ssec.4-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">a birth certificate, passport or other identity
+document, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_1a2fe151-a48b-4dd5-bf49-50510d3494b1" id="sec.22A-ssec.4-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">bank books or other financial statements or
+documents, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_026cd8a7-6e22-4251-83b1-613449bc5cef" id="sec.22A-ssec.4-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">photographs and other personal memorabilia,
+or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_863d50f6-6ae9-46b2-830e-4e77baa73b18" id="sec.22A-ssec.4-para1.d">
+<no>(d)</no>
+<block><txt break.before="1">licences or other documents conferring
+authorities, rights or qualifications, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_2313de42-5dee-42e0-9a3c-5fa80ab6e4d5" id="sec.22A-ssec.4-para1.e">
+<no>(e)</no>
+<block><txt break.before="1">any other record, or class of record, prescribed
+by the regulations for the purposes of this
+definition.</txt></block></li></list>
+</block></deflist>
+</block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 22A:</b> Ins 2018 No
+79, Sch 3.1[9].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.23">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_a99ab73f-74c7-4128-a0c4-6fedde670d41"></attrib>
+<attrib name="id" value="sec.23"></attrib></parentattributes>
+
+<head>
+<no>23</no><heading guid="_dc1687fb-83b1-49f4-aea8-2a5536fc3ce5"
+id="sec.23-he"><b>Sections 19&#8211;22&#8212;variation of monetary
+limits</b></heading></head>
+<block><txt break.before="1">The regulations may vary the monetary limits
+referred to in sections 19&#8211;22.</txt></block></level>
+
+
+<level type="clause" id="sec.24">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_45268ce0-ee69-472a-9186-f007ef982fd9"></attrib>
+<attrib name="id" value="sec.24"></attrib></parentattributes>
+
+<head>
+<no>24</no><heading guid="_deec2b66-744e-49ec-b080-64b82a13582f"
+id="sec.24-he"><b>Perishable goods and rubbish</b></heading></head>
+
+<tier type="subclause" id="sec.24-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_2cb96b7a-a5c8-4925-b651-64ec6c421516"></attrib>
+<attrib name="id" value="sec.24-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">Nothing in this Part prevents a receiver from
+disposing of rubbish or perishable uncollected goods.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.24-ssec.1A">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_a5d713c4-afc8-42a4-aded-8003d283ed17"></attrib>
+<attrib name="id" value="sec.24-ssec.1A"></attrib></parentattributes>
+
+<head>
+<no>(1A)</no></head>
+<block><txt break.before="1">A receiver is not required to give a depositor
+notice of the receiver&#8217;s intention to dispose of the
+goods.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.24-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_40c7e0f1-8d6d-40cf-8319-d602133e612d"></attrib>
+<attrib name="id" value="sec.24-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">Goods may be disposed of under this section in
+such manner as the receiver considers appropriate.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 24:</b> Am 2018 No 79,
+Sch 3.1[10].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.25">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_cadb7b99-b649-46a8-aa53-6a4dcd2e5708"></attrib>
+<attrib name="id" value="sec.25"></attrib></parentattributes>
+
+<head>
+<no>25</no><heading guid="_88e7660a-9de6-42c1-8e61-4e30943b56a8"
+id="sec.25-he"><b>Persons to whom notices not required to be
+given</b></heading></head>
+<block><txt break.before="1">Nothing in this Part requires notice to be given
+to a person (other than the depositor and any person who has a publicly
+registered interest in the goods) if the receiver&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_bacd3d53-287b-435e-8d3e-8c9962fa01c1" id="sec.25-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">is unaware of the fact that the person has or
+claims an interest in the goods, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_f7aa9545-49cf-4ef3-970d-1572da49f965" id="sec.25-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">cannot trace or communicate with the
+person.</txt></block></li></list>
+</block></level>
+
+
+<level type="clause" id="sec.26">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_d85f163d-0a25-4e6e-baef-852c6784d085"></attrib>
+<attrib name="id" value="sec.26"></attrib></parentattributes>
+
+<head>
+<no>26</no><heading guid="_9c624904-2190-4f23-9bac-3291210ab744"
+id="sec.26-he"><b>Form of notices</b></heading></head>
+<block><txt break.before="1">Notice under this Part must include&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_535ae575-5491-4139-be59-9706f62d74b5" id="sec.26-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">the receiver&#8217;s name,
+and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_dacd3676-0b0e-467c-b1ac-0c1e4b6e6b81" id="sec.26-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">a description of the goods,
+and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_221f0123-e763-4c2d-845c-9ba50e18ec6b" id="sec.26-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">an address where the goods may be collected,
+and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_19d368e5-2fd6-4961-9b8a-036c02c90c45" id="sec.26-para1.d">
+<no>(d)</no>
+<block><txt break.before="1">a statement of the relevant charges due to the
+receiver in respect of the goods, and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_3aec7690-7b36-4d7f-af68-04b858dfb841" id="sec.26-para1.e">
+<no>(e)</no>
+<block><txt break.before="1">a statement to the effect that, on or after a
+specified date, the goods will be disposed of unless they are first collected
+and the relevant charges are paid, and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_cdaf5b2a-9d3a-4d5f-b54c-2400a0853214" id="sec.26-para1.f">
+<no>(f)</no>
+<block><txt break.before="1">if applicable, a statement to the effect that the
+person will retain, out of the proceeds of sale of the goods, an amount not
+exceeding the relevant charges.</txt></block></li></list>
+</block></level>
+
+
+<level type="clause" id="sec.27">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_c5b4e34f-2660-4fc5-9929-e6dfaae5dc17"></attrib>
+<attrib name="id" value="sec.27"></attrib></parentattributes>
+
+<head>
+<no>27</no><heading guid="_7498e123-982d-448c-9d8c-e99ad4a43516"
+id="sec.27-he"><b>Service of documents</b></heading></head>
+
+<tier type="subclause" id="sec.27-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_b257a6b8-e7d0-4615-8a16-f08858a1815e"></attrib>
+<attrib name="id" value="sec.27-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">A document that is authorised or required by this
+Act or the regulations to be served on a person may be served by the following
+methods&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_4cc455c2-9891-4930-b533-671dc5f351d6" id="sec.27-ssec.1-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">for an individual&#8212;by personal delivery to
+the person,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_953266e0-218c-4ddb-9ea7-c4664c2480bd" id="sec.27-ssec.1-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">by post to the address specified by the person
+for the service of documents of that kind,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_a9a0b689-e6ed-4c72-aa34-a5653a35e14d" id="sec.27-ssec.1-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">for an individual who has not specified an
+address for service by post&#8212;by post to the residential or business
+address of the person last known to the person serving the
+document,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_db8beba6-9a47-4275-8c8e-c49ecbdd63d2" id="sec.27-ssec.1-para1.d">
+<no>(d)</no>
+<block><txt break.before="1">for a corporation&#8212;by post to the registered
+or other office of the corporation or by leaving the document at the office
+with a person apparently over the age of 16 years,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_e15d709f-b953-46a3-8558-e468b94c1dd3" id="sec.27-ssec.1-para1.e">
+<no>(e)</no>
+<block><txt break.before="1">by email to an email address specified by the
+person for the service of documents of that kind,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_a73e1425-5a57-4c51-9551-aafae269e6b6" id="sec.27-ssec.1-para1.f">
+<no>(f)</no>
+<block><txt break.before="1">by other electronic means to an address or
+location specified by the person for the service of documents of that
+kind,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_bddb026a-2b82-4b21-85e2-8c872b332d67" id="sec.27-ssec.1-para1.g">
+<no>(g)</no>
+<block><txt break.before="1">by another method authorised by the regulations
+for the service of documents of that kind.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.27-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_40e18136-c9ae-4bac-a94c-578799fad3d6"></attrib>
+<attrib name="id" value="sec.27-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">Nothing in this section affects the operation of
+a provision of a law or of the rules of a court authorising a document to be
+served on a person by another method.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.27-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_0db84d8c-d273-4b58-9f6a-1a31d76e2787"></attrib>
+<attrib name="id" value="sec.27-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">In this section&#8212;</txt>
+<deflist>
+<block><txt break.before="1"><defterm type="definition"
+guid="_07c72103-69de-4892-bedb-e1f0575212ed"
+id="sec.27-def.serve"><b><i>serve</i></b></defterm> includes give or
+send.</txt></block></deflist>
+</block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 27:</b> Subst 2017 No
+25, Sch 1.38; 2024 No 25, Sch 6.21.</txt></content>
+</level>
+
+
+<level type="clause" id="sec.28">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_646fc14a-4960-4c39-89ef-c0625085a862"></attrib>
+<attrib name="id" value="sec.28"></attrib></parentattributes>
+
+<head>
+<no>28</no><heading guid="_e691fee9-1a30-48d5-8227-75aa8db5eaa1"
+id="sec.28-he"><b>Relevant charges due to receiver</b></heading></head>
+
+<tier type="subclause" id="sec.28-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_a56dfc7b-3a39-4206-9812-dc2e19234d20"></attrib>
+<attrib name="id" value="sec.28-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">For the purposes of this Part, the amount of the
+<b>relevant charges</b> due to a receiver in respect of uncollected goods is
+the sum of the following amounts&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_6825750f-fc18-4199-aaff-94af98652713" id="sec.28-ssec.1-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">the amount agreed on between the depositor and
+the receiver (or, in the absence of such an agreement, such amount as is
+reasonable) as the charges due to the receiver for any carriage or storage of
+the goods or for any repairs or other work done in connection with the
+goods,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_7ddeec3e-14f6-4919-ace9-87dd0a39a19e" id="sec.28-ssec.1-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">the amount of the costs incurred by the receiver
+(in respect of the period beginning with the date when the notice about the
+disposal of the goods was given to the depositor and ending with the date when
+the goods are disposed of) for any carriage, storage, maintenance or insurance
+of the goods,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_e699a8a2-77e9-4836-8fe7-094745aaf458" id="sec.28-ssec.1-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">the amount of the costs incurred by the receiver
+for the disposal of the goods in accordance with this
+Part.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.28-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_49f3d328-2439-411f-8c05-9117eafdee31"></attrib>
+<attrib name="id" value="sec.28-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">This section does not apply to personal
+documents.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 28:</b> Am 2018 No 79,
+Sch 3.1[11]; 2022 No 59, Sch 1.36.</txt></content>
+</level>
+
+
+<level type="clause" id="sec.29">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_2000de77-4f7b-4f93-9fcd-7463b89021b2"></attrib>
+<attrib name="id" value="sec.29"></attrib></parentattributes>
+
+<head>
+<no>29</no><heading guid="_8d216d6c-9823-4665-b55b-757cef5613d2"
+id="sec.29-he"><b>Proceeds of sale</b></heading></head>
+
+<tier type="subclause" id="sec.29-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_83c93a4a-a4ff-4f18-9655-7926a514b571"></attrib>
+<attrib name="id" value="sec.29-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">From the proceeds of sale of goods under this
+Part, the receiver is entitled to retain the relevant charges due to the
+receiver in respect of the goods.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.29-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_a7a0f60c-455d-4dbe-bd76-261248c49ee4"></attrib>
+<attrib name="id" value="sec.29-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">The balance (if any) of the proceeds of sale are
+to be dealt with as if the receiver were a business and the money were
+unclaimed money for the purposes of the <legref type="act" jurisd="NSW"
+check="unknown" refid="act-1995-075"><name emphasis="yes"><i>Unclaimed Money
+Act 1995</i></name></legref>.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.29-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_7bab473c-0595-487e-b674-53052b84938a"></attrib>
+<attrib name="id" value="sec.29-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">If the proceeds of sale are insufficient to pay
+the relevant charges due to the receiver in respect of the goods, the receiver
+may recover the amount of the deficiency from the depositor, as a debt, in any
+court of competent jurisdiction.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 29:</b> Am 2001 No 56,
+Sch 2.46.</txt></content>
+</level>
+
+
+<level type="clause" id="sec.30">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_353a18e0-30c5-43b5-a00c-b28034d2d82c"></attrib>
+<attrib name="id" value="sec.30"></attrib></parentattributes>
+
+<head>
+<no>30</no><heading guid="_dcbe3b1b-a223-471b-ae8e-9e2a27644397"
+id="sec.30-he"><b>Records</b></heading></head>
+
+<pre type="auto-inserted">
+
+<tier type="subclause" id="sec.30-ssec.1A">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_5df6ce08-6ffb-4630-b346-07c5557f57ef"></attrib>
+<attrib name="id" value="sec.30-ssec.1A"></attrib></parentattributes>
+
+<head>
+<no>(1A)</no></head>
+<block><txt break.before="1">This section applies to low value uncollected
+goods, medium value uncollected goods, high value uncollected goods and
+personal documents.</txt></block></tier>
+</pre>
+
+
+<tier type="subclause" id="sec.30-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_54881bff-20fd-4a09-8c51-3fee2d23c50f"></attrib>
+<attrib name="id" value="sec.30-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">Within 7 days after disposing of goods in
+accordance with this Part, a receiver must prepare a record of the following
+particulars&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_516737e4-ec44-4260-a2ff-e910633c5150" id="sec.30-ssec.1-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">a description of the goods disposed
+of,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_a1da9879-6903-47f4-b3cc-a6801b207b6e" id="sec.30-ssec.1-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">the date on which the goods were disposed
+of,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_f4dbde74-f441-461f-a932-5be127e0e2b6" id="sec.30-ssec.1-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">the manner in which the goods were disposed
+of,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_d2cd1a1e-c939-43b0-a636-57785a471605" id="sec.30-ssec.1-para1.d">
+<no>(d)</no>
+<block><txt break.before="1">in the case of goods that have been
+sold&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_a7f5cdec-ea7e-4afe-8938-f0a708685b2d"
+id="sec.30-ssec.1-para1.d-para2">
+<no>&#8226;</no>
+<block><txt break.before="1">the name and address of the person to whom they
+were sold, and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_c4474340-38a0-44ce-a99a-e87c385ccdcb"
+id="sec.30-ssec.1-para1.d-para2-oc.2">
+<no>&#8226;</no>
+<block><txt break.before="1">the amount of the proceeds of the sale,
+and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_ccd2e997-dc43-4dd7-bdff-bf88147ef813"
+id="sec.30-ssec.1-para1.d-para2-oc.3">
+<no>&#8226;</no>
+<block><txt break.before="1">the amount retained by the receiver to cover the
+relevant charges due to the receiver in respect of the
+goods,</txt></block></li></list>
+</block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_ba5235f7-6f9b-4eb5-a4aa-b5ea48d29d01" id="sec.30-ssec.1-para1.e">
+<no>(e)</no>
+<block><txt break.before="1">in the case of goods sold by public
+auction&#8212;the name, and the address of the principal place of business, of
+the auctioneer by whom the goods were sold.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.30-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_8b012568-c289-4fe3-8049-e5c7da93b239"></attrib>
+<attrib name="id" value="sec.30-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">A record prepared under this section
+must&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_cb672c19-518c-4dc5-80e7-9868c75d15fb" id="sec.30-ssec.2-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">be kept by the receiver for at least the
+following period from the date on which the goods were disposed
+of&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_919e21af-5d6b-49b5-b4a1-95a20d386955"
+id="sec.30-ssec.2-para1.a-para2.i">
+<no>(i)</no>
+<block><txt break.before="1">in relation to low value uncollected
+goods&#8212;12 months,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_747aa9a7-5d90-405d-891c-36ce2f7ac8b5"
+id="sec.30-ssec.2-para1.a-para2.ii">
+<no>(ii)</no>
+<block><txt break.before="1">in any other case&#8212;6 years,
+and</txt></block></li></list>
+</block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_dc4b40d5-7960-4e9e-a03c-1a4d15648a64" id="sec.30-ssec.2-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">be made available by the receiver, on request,
+for inspection by the depositor or by any other person claiming an interest in
+the goods.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="penalty" id="sec.30-pen">
+<parentattributes>
+<attrib name="guid" value="_e2cef9cf-235b-49f4-ba3f-e38d515a3a27"></attrib>
+<attrib name="id" value="sec.30-pen"></attrib></parentattributes>
+
+<block><txt break.before="1">Maximum penalty&#8212;5 penalty
+units.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 30:</b> Am 2018 No 79,
+Sch 3.1[12] [13].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.31">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_3ee35543-c7ea-4a15-bcd6-6dec471823cd"></attrib>
+<attrib name="id" value="sec.31"></attrib></parentattributes>
+
+<head>
+<no>31</no><heading guid="_9d1fc083-472d-4b50-9bc3-024e46ac00f2"
+id="sec.31-he"><b>Sale of uncollected motor vehicles</b></heading></head>
+
+<tier type="subclause" id="sec.31-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_7f8389b4-0b46-46bb-9c4e-c64154ccf78e"></attrib>
+<attrib name="id" value="sec.31-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">A person must not sell a motor vehicle under this
+Part unless the Commissioner of Police has issued the person with a
+certificate to the effect that the motor vehicle is not for the time being
+recorded as being stolen and the person has obtained a written search result
+(within the meaning of section 174 of the <legref type="act" jurisd="CTH"
+check="unknown"><name emphasis="yes"><i>Personal Property Securities Act
+2009</i></name></legref> of the Commonwealth) in relation to the
+vehicle.</txt></block>
+
+<tier type="penalty" id="sec.31-ssec.1-pen">
+<parentattributes>
+<attrib name="guid" value="_bc99bd47-8418-483e-9ba4-8cc98936fa28"></attrib>
+<attrib name="id" value="sec.31-ssec.1-pen"></attrib></parentattributes>
+
+<block><txt break.before="1">Maximum penalty&#8212;5 penalty
+units.</txt></block></tier>
+</tier>
+
+
+<tier type="subclause" id="sec.31-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_bf5b93c5-c1df-4f33-833a-94cce91a4600"></attrib>
+<attrib name="id" value="sec.31-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">An application for such a
+certificate&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_e340e008-d0e9-4754-bbf5-e61f52828f03" id="sec.31-ssec.2-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">must specify the make, model, type, colour,
+registration number (if any), chassis number (if any) and engine number (if
+any) of the motor vehicle, and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_102883df-0baf-4089-a272-74e534ed9fec" id="sec.31-ssec.2-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">must be served on the Commissioner of Police at
+least 28 days before the motor vehicle is to be
+sold.</txt></block></li></list>
+</block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>s 31:</b> Am 2018 No 79,
+Sch 3.1[14].</txt></content>
+</level>
+</level>
+
+
+<level type="part" id="pt.3A">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="guid" value="_b5fc2bb6-8cae-4b35-bda8-532203b69442"></attrib>
+<attrib name="id" value="pt.3A"></attrib></parentattributes>
+
+<head>
+<no><b>Part 3A</b></no><heading guid="_6c0f7285-6abd-4677-ac34-30fc08fdf390"
+id="pt.3A-he"><b>Disposal of uncollected goods by way of Tribunal
+order</b></heading></head>
+
+<content type="historynote"><txt break.before="1"><b>pt 3A (ss 31A, 31B):</b>
+Ins 2018 No 79, Sch 3.1[15].</txt></content>
+
+
+<content type="auto-inserted">
+
+<level type="clause" id="sec.31A">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_1695d891-ec72-4e70-ad9a-b4c8a847494c"></attrib>
+<attrib name="id" value="sec.31A"></attrib></parentattributes>
+
+<head>
+<no>31A</no><heading guid="_f361a361-840e-4b4f-a255-98c055cc81dd"
+id="sec.31A-he"><b>Receiver may seek Tribunal direction</b></heading></head>
+
+<tier type="subclause" id="sec.31A-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_0929e02c-b72c-4edd-af11-ac30d47c55a5"></attrib>
+<attrib name="id" value="sec.31A-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">The Tribunal may, on application by a receiver,
+make any one or more of the following orders&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_2133e836-621a-458f-957f-789ec5a52cd0" id="sec.31A-ssec.1-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">an order authorising the removal or other
+disposal of uncollected goods,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_fca19266-df9d-4055-a63e-cb26dc47aeb9" id="sec.31A-ssec.1-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">an order directing that notice of any action or
+proposed action in relation to uncollected goods be given to the depositor,
+the legal personal representative of a depositor or any other
+person,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_1479ee49-bbcc-48a9-b66a-e686935f329c" id="sec.31A-ssec.1-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">an order authorising the sale of uncollected
+goods,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_a7ea682e-af53-4afd-a6f2-dc15cfda9c49" id="sec.31A-ssec.1-para1.d">
+<no>(d)</no>
+<block><txt break.before="1">an order as to the manner of sale of uncollected
+goods,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_7857e221-df8e-4f57-ae57-1ef0bd60dd1d" id="sec.31A-ssec.1-para1.e">
+<no>(e)</no>
+<block><txt break.before="1">an order as to the payment of the proceeds of
+sale of uncollected goods,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_202c5f4e-7906-486b-b866-473668d1af56" id="sec.31A-ssec.1-para1.f">
+<no>(f)</no>
+<block><txt break.before="1">any ancillary order that the Tribunal, in the
+circumstances, thinks appropriate.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.31A-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_2257cb32-ebb1-4b52-b2bf-011723bf4178"></attrib>
+<attrib name="id" value="sec.31A-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">A receiver must deal with goods in accordance
+with an order of the Tribunal under this section and not in accordance with
+the other provisions of this Act relating to disposal of
+goods.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.31A-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_6c85a6fe-4ed9-468e-9366-42c7553c2a96"></attrib>
+<attrib name="id" value="sec.31A-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">This section does not apply to perishable
+goods.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>pt 3A (ss 31A, 31B):</b>
+Ins 2018 No 79, Sch 3.1[15].</txt></content>
+</level>
+</content>
+
+
+<content type="auto-inserted">
+
+<level type="clause" id="sec.31B">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_44095fe4-22ff-407d-b947-5ce255abdcf2"></attrib>
+<attrib name="id" value="sec.31B"></attrib></parentattributes>
+
+<head>
+<no>31B</no><heading guid="_552b8a0e-a211-41e5-a415-2b8f0ea352bf"
+id="sec.31B-he"><b>Orders by Tribunal relating to uncollected
+goods</b></heading></head>
+
+<tier type="subclause" id="sec.31B-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_f370b57c-c681-48e1-926d-7942a2111e67"></attrib>
+<attrib name="id" value="sec.31B-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">The Tribunal may, on application by a depositor
+or a person who has an interest in uncollected goods, make any of the
+following orders&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_1890942c-f224-480a-bfdc-5e5840f87ff8" id="sec.31B-ssec.1-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">an order requiring the receiver to pay
+compensation for uncollected goods disposed of by the receiver otherwise than
+in accordance with this Act,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_0a5612a7-c12a-42fd-bc69-87e9ad61e91d" id="sec.31B-ssec.1-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">an order requiring the receiver to pay
+compensation for uncollected goods damaged after being left in the possession
+of the receiver and before being claimed by the person entitled to
+them,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_34cb8321-3cbf-482d-9084-781005d4907b" id="sec.31B-ssec.1-para1.c">
+<no>(c)</no>
+<block><txt break.before="1">an order that the receiver deliver uncollected
+goods into the depositor&#8217;s or other person&#8217;s
+possession,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_b3d9b677-7db6-499b-9f9b-040f174324b5" id="sec.31B-ssec.1-para1.d">
+<no>(d)</no>
+<block><txt break.before="1">an order requiring the receiver to pay the
+proceeds of sale, or an amount equivalent to the value of the uncollected
+goods, to the depositor or person,</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_10b2abd5-589b-4a28-80bf-aeefea26aba3" id="sec.31B-ssec.1-para1.e">
+<no>(e)</no>
+<block><txt break.before="1">any ancillary order that the Tribunal, in the
+circumstances, thinks appropriate.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.31B-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_7c2b1437-6d70-436c-be62-3a6f91e8a0b5"></attrib>
+<attrib name="id" value="sec.31B-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">An application for an order under this section
+must be made within the period prescribed by the
+regulations.</txt></block></tier>
+
+
+<content type="historynote"><txt break.before="1"><b>pt 3A (ss 31A, 31B):</b>
+Ins 2018 No 79, Sch 3.1[15].</txt></content>
+</level>
+</content>
+</level>
+
+
+<level type="part" id="pt.4">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="guid" value="_09e73432-e85e-4572-959c-6f8a57c99a20"></attrib>
+<attrib name="id" value="pt.4"></attrib></parentattributes>
+
+<head>
+<no><b>Part 4</b></no><heading guid="_c1f2e23c-eaa9-4e0f-9439-69f18ae8bf4a"
+id="pt.4-he"><b>Miscellaneous</b></heading></head>
+
+<level type="clause" id="sec.32" status="repealed">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_920acb49-ca98-4317-a396-e9ba4a67f7e5"></attrib>
+<attrib name="id" value="sec.32"></attrib>
+<attrib name="status" value="repealed"></attrib></parentattributes>
+
+<head>
+<no>32</no></head>
+<repealed><repealedtxt></repealedtxt></repealed>
+
+
+<content type="historynote"><txt break.before="1"><b>s 32:</b> Rep 2018 No 79,
+Sch 3.1[16].</txt></content>
+</level>
+
+
+<level type="clause" id="sec.33">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_1403ddca-ce55-4c46-a4bc-fa15589ca52b"></attrib>
+<attrib name="id" value="sec.33"></attrib></parentattributes>
+
+<head>
+<no>33</no><heading guid="_b2501c16-eca5-402e-a473-c216aab4d4f7"
+id="sec.33-he"><b>Common law</b></heading></head>
+<block><txt break.before="1">The common law relating to the bailment of goods
+remains in force to the extent to which it is not affected by this Act and a
+person is entitled to exercise any rights that the person may have at common
+law in relation to the recovery of goods or compensation for the loss of or
+damage to goods except to the extent to which this Act otherwise provides (for
+example, section 7).</txt></block></level>
+
+
+<level type="clause" id="sec.34">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_d2cd8393-dc08-4dfd-9a76-732a986e856d"></attrib>
+<attrib name="id" value="sec.34"></attrib></parentattributes>
+
+<head>
+<no>34</no><heading guid="_f16ee71b-821c-416d-9883-e358744d670d"
+id="sec.34-he"><b>Purchasers acquire good title</b></heading></head>
+<block><txt break.before="1">The purchaser of any goods sold under this Act
+acquires a good title to the goods, free from any interest that may have
+existed in the goods in favour of some other person before the goods were
+sold, if the purchaser buys them&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_1cb5f55e-fb6e-4437-9b8e-1241112eaf20" id="sec.34-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">without notice of any failure by the receiver to
+comply with the provisions of this Act, and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_68d85429-82ab-4ce9-91c7-690dcfe69837" id="sec.34-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">without notice of any defect or want of title in
+the depositor.</txt></block></li></list>
+</block></level>
+
+
+<level type="clause" id="sec.35">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_c8644836-269d-44f0-af40-b200b6d2d811"></attrib>
+<attrib name="id" value="sec.35"></attrib></parentattributes>
+
+<head>
+<no>35</no><heading guid="_3857860f-85e3-498f-91de-e6f777f87973"
+id="sec.35-he"><b>Burden of proof</b></heading></head>
+<block><txt break.before="1">In any proceedings by or against a person in
+respect of goods that the person claims have been disposed of in accordance
+with the provisions of this Act, the burden of proving that the goods have
+been so disposed of rests on that person.</txt></block></level>
+
+
+<level type="clause" id="sec.36">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_ad843e37-3a01-4a05-a374-c06c05df79bf"></attrib>
+<attrib name="id" value="sec.36"></attrib></parentattributes>
+
+<head>
+<no>36</no><heading guid="_413058df-5765-43b8-8076-26df5efde1d8"
+id="sec.36-he"><b>Act binds Crown</b></heading></head>
+<block><txt break.before="1">This Act binds the Crown in right of New South
+Wales and, in so far as the legislative power of Parliament permits, the Crown
+in all its other capacities.</txt></block></level>
+
+
+<level type="clause" id="sec.37">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_c66c93c7-ad50-484c-a877-5147d1f5ff72"></attrib>
+<attrib name="id" value="sec.37"></attrib></parentattributes>
+
+<head>
+<no>37</no><heading guid="_fcb0c0d1-e152-462b-814f-439f3a507e70"
+id="sec.37-he"><b>Proceedings for offences</b></heading></head>
+<block><txt break.before="1">Proceedings for an offence against this Act or
+the regulations are to be dealt with summarily before the Local
+Court.</txt></block>
+
+<content type="historynote"><txt break.before="1"><b>s 37:</b> Am 2007 No 94,
+Sch 4.</txt></content>
+</level>
+
+
+<level type="clause" id="sec.38">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_ea84dd46-407b-4857-b140-db1d0b5bac56"></attrib>
+<attrib name="id" value="sec.38"></attrib></parentattributes>
+
+<head>
+<no>38</no><heading guid="_fa415ff0-cc66-4e2e-ba55-9e45a372c3af"
+id="sec.38-he"><b>Regulations</b></heading></head>
+
+<tier type="subclause" id="sec.38-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_f106f4eb-6632-482f-b142-15fd7f335ada"></attrib>
+<attrib name="id" value="sec.38-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">The Governor may make regulations, not
+inconsistent with this Act, for or with respect to any matter that by this Act
+is required or permitted to be prescribed or that is necessary or convenient
+to be prescribed for carrying out or giving effect to this
+Act.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.38-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_8a3ba40e-4510-4c79-8319-956d8fb0efbc"></attrib>
+<attrib name="id" value="sec.38-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">In particular, the regulations may make provision
+for or with respect to&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_ca8d9bc7-b70a-48a5-953e-23eb75b9c8ff" id="sec.38-ssec.2-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">the keeping of records under this Act,
+and</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_429ddd88-81a4-48ad-b7a3-bbdf553dd9c3" id="sec.38-ssec.2-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">the valuation of goods for the purposes of this
+Act.</txt></block></li></list>
+</block></tier>
+
+
+<tier type="subclause" id="sec.38-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_ed36d9a8-c32d-4636-8816-a2ead328fba0"></attrib>
+<attrib name="id" value="sec.38-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">The regulations may create offences punishable by
+a penalty not exceeding 10 penalty units.</txt></block></tier>
+</level>
+
+
+<level type="clause" id="sec.39">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_f6e051d7-2d18-41ae-bc01-72a436f9989d"></attrib>
+<attrib name="id" value="sec.39"></attrib></parentattributes>
+
+<head>
+<no>39</no><heading guid="_984929d6-f415-4939-bcba-1f35c7e6414a"
+id="sec.39-he"><b>Repeal of <legref type="act" jurisd="NSW"
+check="unknown"><name emphasis="yes"><i>Disposal of Uncollected Goods Act
+1966</i></name> No 57</legref></b></heading></head>
+<block><txt break.before="1">The <legref type="act" jurisd="NSW"
+check="unknown"><name emphasis="yes"><i>Disposal of Uncollected Goods Act
+1966</i></name></legref> is repealed.</txt></block></level>
+
+
+<level type="clause" id="sec.40">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_eaf53988-4bb7-413d-ad54-0fff6951dad6"></attrib>
+<attrib name="id" value="sec.40"></attrib></parentattributes>
+
+<head>
+<no>40</no><heading guid="_b8789329-f7df-4db8-97cd-dff2273f48dc"
+id="sec.40-he"><b>Savings, transitional and other
+provisions</b></heading></head>
+<block><txt break.before="1">Schedule 1 has effect.</txt></block></level>
+
+
+<level type="clause" id="sec.41">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_6838f5a7-25b2-4843-bab6-308a2724047c"></attrib>
+<attrib name="id" value="sec.41"></attrib></parentattributes>
+
+<head>
+<no>41</no><heading guid="_dced872c-bbfa-4120-ac9c-c052da25ef92"
+id="sec.41-he"><b>Review of Act</b></heading></head>
+
+<tier type="subclause" id="sec.41-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_21ef519a-a197-4ae0-9976-126a733f6b3e"></attrib>
+<attrib name="id" value="sec.41-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">The Minister is to review this Act to determine
+whether the policy objectives of the Act remain valid and whether the terms of
+the Act remain appropriate for securing those
+objectives.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.41-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_f034e948-d0b1-4b9b-8101-3aadc09ef9ad"></attrib>
+<attrib name="id" value="sec.41-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">The review is to be undertaken as soon as
+possible after the period of 5 years from the date of assent to this
+Act.</txt></block></tier>
+
+
+<tier type="subclause" id="sec.41-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_6707aff7-f755-4111-a4a0-065c2fe666c9"></attrib>
+<attrib name="id" value="sec.41-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">A report of the outcome of the review is to be
+tabled in each House of Parliament within 12 months after the end of the
+period of 5 years.</txt></block></tier>
+</level>
+</level>
+</content>
+
+
+<content type="schedules">
+
+<level type="schedule" id="sch.1">
+<parentattributes>
+<attrib name="type" value="schedule"></attrib>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_5a795906-c663-4fa8-a6c6-de9f8de49c69"></attrib>
+<attrib name="id" value="sch.1"></attrib></parentattributes>
+
+<head>
+<no><b>Schedule 1</b></no><heading
+guid="_788dad52-30a5-4f12-bf41-cedeb8aba38a" id="sch.1-he"><b>Savings,
+transitional and other provisions</b></heading></head>
+<block align="right" type="sourceref"><txt>(Section 40)</txt></block>
+
+<level type="part" id="sch.1-pt.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="guid" value="_1d7a570f-9528-42ae-b028-5139783b274a"></attrib>
+<attrib name="id" value="sch.1-pt.1"></attrib></parentattributes>
+
+<head>
+<no><b>Part 1</b></no><heading guid="_d40d417b-e725-48e8-87d3-6f7253b309c3"
+id="sch.1-pt.1-he"><b>General</b></heading></head>
+
+<level type="clause" id="sch.1-sec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_98bf5c04-e89f-40e5-9305-0efa9c3c0d24"></attrib>
+<attrib name="id" value="sch.1-sec.1"></attrib></parentattributes>
+
+<head>
+<no>1</no><heading guid="_ac7b2414-b038-4db7-8c0a-9d2425b65330"
+id="sch.1-sec.1-he"><b>Regulations</b></heading></head>
+
+<tier type="subclause" id="sch.1-sec.1-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_23213ea7-feca-4294-b1f1-7f106d30afb9"></attrib>
+<attrib name="id" value="sch.1-sec.1-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">The regulations may contain provisions of a
+savings or transitional nature consequent on the enactment of this
+Act.</txt></block></tier>
+
+
+<tier type="subclause" id="sch.1-sec.1-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_cfd859d8-c15f-4aac-9a68-a5e5bfbedc89"></attrib>
+<attrib name="id" value="sch.1-sec.1-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">Any such provision may, if the regulations so
+provide, take effect from the date of assent to this Act or a later
+date.</txt></block></tier>
+
+
+<tier type="subclause" id="sch.1-sec.1-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_0eceee23-5a5e-479b-8504-fe23b0638fc5"></attrib>
+<attrib name="id" value="sch.1-sec.1-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">To the extent to which any such provision takes
+effect from a date that is earlier than its date of publication in the
+Gazette, the provision does not operate so as&#8212;</txt>
+<list number.type="default" unnumbered.indent="0">
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_ae4cae3e-7f28-4f84-8569-24e06942fc3d" id="sch.1-sec.1-ssec.3-para1.a">
+<no>(a)</no>
+<block><txt break.before="1">to affect, in a manner prejudicial to any person
+(other than the State or an authority of the State), the rights of that person
+existing before the date of its publication, or</txt></block></li>
+<li provision.type="other" affected.by.uncommenced="0"
+guid="_b7b51856-8323-4aad-b48e-4d6433681dbb" id="sch.1-sec.1-ssec.3-para1.b">
+<no>(b)</no>
+<block><txt break.before="1">to impose liabilities on any person (other than
+the State or an authority of the State) in respect of anything done or omitted
+to be done before the date of its publication.</txt></block></li></list>
+</block></tier>
+</level>
+</level>
+
+
+<level type="part" id="sch.1-pt.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="guid" value="_032f2954-b050-4115-9fb8-76354a8728cd"></attrib>
+<attrib name="id" value="sch.1-pt.2"></attrib></parentattributes>
+
+<head>
+<no><b>Part 2</b></no><heading guid="_98ee10ff-1e98-4625-a6df-a371cd25a3cc"
+id="sch.1-pt.2-he"><b>Provisions consequent on the enactment of this
+Act</b></heading></head>
+
+<level type="clause" id="sch.1-sec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_6cae8d36-b5cf-4ded-9aa5-6255f1841d6b"></attrib>
+<attrib name="id" value="sch.1-sec.2"></attrib></parentattributes>
+
+<head>
+<no>2</no><heading guid="_b14d50df-c0fb-49d2-a9fa-a754f0bc1400"
+id="sch.1-sec.2-he"><b>Definitions</b></heading></head>
+<block><txt break.before="1">In this Part&#8212;</txt>
+<deflist>
+<block><txt break.before="1"><defterm type="definition"
+guid="_a6498c57-1bd1-424c-a05f-9f1b1b15a56e"
+id="sch.1-def.appointedday"><b><i>appointed day</i></b></defterm> means the
+day appointed under section 2 for the commencement of this Act.</txt></block>
+<block><txt break.before="1"><defterm type="definition"
+guid="_75dddc57-905c-430e-a444-f9a9452176dd"
+id="sch.1-def.repealedAct"><b><i>repealed Act</i></b></defterm> means the
+<legref type="act" jurisd="NSW" check="unknown"><name
+emphasis="yes"><i>Disposal of Uncollected Goods Act
+1966</i></name></legref>.</txt></block></deflist>
+</block></level>
+
+
+<level type="clause" id="sch.1-sec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_6fa88fd9-bbc5-4efb-a1e7-33ffa866fd31"></attrib>
+<attrib name="id" value="sch.1-sec.3"></attrib></parentattributes>
+
+<head>
+<no>3</no><heading guid="_7cb27a74-0018-48e2-a201-9a6ce0ca72d7"
+id="sch.1-sec.3-he"><b>Act extends to existing bailments</b></heading></head>
+<block><txt break.before="1">This Act extends to bailments in existence on the
+appointed day, except as otherwise provided by this
+Schedule.</txt></block></level>
+
+
+<level type="clause" id="sch.1-sec.4">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_bb0b514f-dda8-473a-b517-605fdfda5c38"></attrib>
+<attrib name="id" value="sch.1-sec.4"></attrib></parentattributes>
+
+<head>
+<no>4</no><heading guid="_ea6b407d-9ea7-405e-806e-921045f52a3f"
+id="sch.1-sec.4-he"><b>Disposal of uncollected goods without court
+order</b></heading></head>
+
+<tier type="subclause" id="sch.1-sec.4-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_7567ebc5-6879-4b35-97ff-e264af1c7810"></attrib>
+<attrib name="id" value="sch.1-sec.4-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">Part 2 of the repealed Act continues to apply to
+goods in respect of which the bailee had, before the appointed day, given
+notice of intention to sell the goods in accordance with section 6 (1) (c) of
+that Act.</txt></block></tier>
+
+
+<tier type="subclause" id="sch.1-sec.4-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_e0f0a6d0-58fd-417e-aebd-f68ecdadbdcb"></attrib>
+<attrib name="id" value="sch.1-sec.4-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">Sections 29 and 30 of this Act apply to goods
+sold pursuant to Part 2 of the repealed Act (as continued by subclause (1)) as
+if those goods had been sold pursuant to Part 3 of this
+Act.</txt></block></tier>
+
+
+<tier type="subclause" id="sch.1-sec.4-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_4057cc63-d883-45cd-a67c-27353b4a7ccf"></attrib>
+<attrib name="id" value="sch.1-sec.4-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">Any records kept under section 7 of the repealed
+Act are taken to be records kept under section 30 of this
+Act.</txt></block></tier>
+</level>
+
+
+<level type="clause" id="sch.1-sec.5">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_65b6152c-3afe-431f-ad1a-61d55f88bdbd"></attrib>
+<attrib name="id" value="sch.1-sec.5"></attrib></parentattributes>
+
+<head>
+<no>5</no><heading guid="_3c92cb4f-6a36-4f1b-8c3c-78e7cfe26bb7"
+id="sch.1-sec.5-he"><b>Disputes</b></heading></head>
+<block><txt break.before="1">Section 6 (4) of the repealed Act continues to
+apply to an application for an order under that subsection that had been made,
+but not determined, before the appointed day.</txt></block></level>
+
+
+<level type="clause" id="sch.1-sec.6">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_d215b86b-809f-4253-bca9-73950b86518d"></attrib>
+<attrib name="id" value="sch.1-sec.6"></attrib></parentattributes>
+
+<head>
+<no>6</no><heading guid="_ecb8e604-6ca5-4756-8d02-2c8e1ddbfd63"
+id="sch.1-sec.6-he"><b>Disposal of goods with court
+order</b></heading></head>
+
+<tier type="subclause" id="sch.1-sec.6-ssec.1">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_9202f52a-65cd-4941-86f0-ad59abde3e6d"></attrib>
+<attrib name="id" value="sch.1-sec.6-ssec.1"></attrib></parentattributes>
+
+<head>
+<no>(1)</no></head>
+<block><txt break.before="1">Part 3 of the repealed Act continues to apply to
+goods in respect of which an application under section 12 of that Act had been
+made, but not determined, before the appointed day.</txt></block></tier>
+
+
+<tier type="subclause" id="sch.1-sec.6-ssec.2">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_679aff4c-b862-47ee-8171-e43924677bde"></attrib>
+<attrib name="id" value="sch.1-sec.6-ssec.2"></attrib></parentattributes>
+
+<head>
+<no>(2)</no></head>
+<block><txt break.before="1">Sections 14 and 15 of this Act apply to goods
+sold pursuant to Part 3 of the repealed Act (as continued by subclause (1)) as
+if those goods had been sold pursuant to Part 2 of this
+Act.</txt></block></tier>
+
+
+<tier type="subclause" id="sch.1-sec.6-ssec.3">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_dd560f8c-d3a1-4c5c-8323-c599de521c7a"></attrib>
+<attrib name="id" value="sch.1-sec.6-ssec.3"></attrib></parentattributes>
+
+<head>
+<no>(3)</no></head>
+<block><txt break.before="1">Any records kept under section 13 of the repealed
+Act are taken to be records kept under section 15 of this
+Act.</txt></block></tier>
+</level>
+
+
+<level type="clause" id="sch.1-sec.7">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_23b639c7-e22a-4b9a-a07a-25d6eeff8d84"></attrib>
+<attrib name="id" value="sch.1-sec.7"></attrib></parentattributes>
+
+<head>
+<no>7</no><heading guid="_2f385d18-fed0-4149-a61f-ee78f9502347"
+id="sch.1-sec.7-he"><b>Minimum period for disposal by certain commercial
+bailees</b></heading></head>
+<block><txt break.before="1">Section 32 of this Act does not apply to
+uncollected goods of a kind to which that section applies if the goods were
+bailed before the day on which that section was applied to goods of that
+kind.</txt></block></level>
+
+
+<level type="clause" id="sch.1-sec.8">
+<parentattributes>
+<attrib name="affected.by.uncommenced" value="0"></attrib>
+<attrib name="spent.amends" value="0"></attrib>
+<attrib name="provision.type" value="other"></attrib>
+<attrib name="guid" value="_38613312-c8d0-489d-a955-946c487a024e"></attrib>
+<attrib name="id" value="sch.1-sec.8"></attrib></parentattributes>
+
+<head>
+<no>8</no><heading guid="_6a6e21b5-efbd-43a3-863e-df8c8d81436d"
+id="sch.1-sec.8-he"><b>Purchasers acquire good title etc</b></heading></head>
+<block><txt break.before="1">Sections 34 and 35 of this Act apply to goods
+disposed of under the repealed Act (whether by virtue of this Schedule or
+otherwise) as if those goods had been disposed of under this
+Act.</txt></block></level>
+</level>
+</level>
+</content>
+
+
+<content type="editorial">
+
+<level type="historicalnotes">
+<head><heading guid="_c15009a7-aa8d-45e7-b211-99ba429913c6"
+id="ed-he"><b>Historical notes</b></heading></head>
+
+<level type="tableleg">
+<head><heading guid="_b31afcc9-1fb5-418c-8a4c-447f1bb3fbb8"
+id="ed-he-oc.2"><b>Table of amending instruments</b></heading></head>
+<block><txt break.before="1"><legref type="act" jurisd="NSW" check="unknown"
+refid="act-1995-068"><name emphasis="yes"><i>Uncollected Goods Act
+1995</i></name> No 68</legref>. Assented to 12.12.1995. Date of commencement,
+15.3.1996, sec 2 and GG No 33 of 15.3.1996, p 1083. This Act has been amended
+as follows&#8212;</txt>
+
+<table frame="none" orient="port" heading.align="left" font.size="12.pt"
+guid="_8c4cfb9a-af4c-464b-befd-f369cbd5cde6" id="ed-tbl">
+
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec colnum="1" colname="1" align="left" colwidth="2pi"></colspec>
+<colspec colnum="2" colname="2" align="left" colwidth="3.5pi"></colspec>
+<colspec colnum="3" colname="3" align="left" colwidth="24.5pi"></colspec>
+
+<tbody>
+
+<row guid="_dfe9a703-d849-426a-aa12-763200203d81" id="ed-tbl-tblr">
+<entry colname="1" guid="_007fae2d-8ea7-48c5-a638-98f13be8489d"
+id="ed-tbl-tblr-tble1"><txt break.before="1"><b>1996</b></txt></entry>
+<entry colname="2" guid="_caa8a64c-8dbf-45de-9d56-1821eddc161b"
+id="ed-tbl-tblr-tble2"><txt break.before="1">No 13</txt></entry>
+<entry colname="3" guid="_0ab5b61b-7ee3-418d-872b-45a5b731a872"
+id="ed-tbl-tblr-tble3">
+<block><txt break.before="1"><legref type="act" jurisd="NSW" check="unknown"
+refid="act-1996-013"><name emphasis="yes"><i>Pawnbrokers and Second-hand
+Dealers Act 1996</i></name></legref>. Assented to 5.6.1996.</txt>
+<txt break.before="1">Date of commencement, 30.4.1997, sec 2 and GG No 43 of
+24.4.1997, p 2172.</txt></block></entry></row>
+
+
+<row guid="_a84cacf9-15b7-4107-8662-3d4fd813e01a" id="ed-tbl-tblr-oc.2">
+<entry colname="1" guid="_53fbf512-b2e6-48d6-8981-8e25ca430a1a"
+id="ed-tbl-tblr-oc.2-tble1"><txt break.before="1"><b>1997</b></txt></entry>
+<entry colname="2" guid="_909601e6-04d6-43dd-b201-ecb4e9f5b8c3"
+id="ed-tbl-tblr-oc.2-tble2"><txt break.before="1">No 141</txt></entry>
+<entry colname="3" guid="_13c9c057-d02e-405e-9b30-9eba150edae9"
+id="ed-tbl-tblr-oc.2-tble3">
+<block><txt break.before="1"><legref type="act" jurisd="NSW"
+check="unknown"><name emphasis="yes"><i>Courts Legislation Further Amendment
+Act 1997</i></name></legref>. Assented to 17.12.1997.</txt>
+<txt break.before="1">Date of commencement of Sch 1.13, 2.2.1998, sec 2 and GG
+No 16 of 30.1.1998, p 432.</txt></block></entry></row>
+
+
+<row guid="_976df9ce-360b-4806-aa7e-59d934275eb5" id="ed-tbl-tblr-oc.3">
+<entry colname="1" guid="_f47a9d20-edf0-4569-b84a-9bd0d94db2b2"
+id="ed-tbl-tblr-oc.3-tble1"><txt break.before="1"><b>2001</b></txt></entry>
+<entry colname="2" guid="_84eddf06-f3de-4e54-af3c-fb81f097ecaf"
+id="ed-tbl-tblr-oc.3-tble2"><txt break.before="1">No 56</txt></entry>
+<entry colname="3" guid="_34ebad73-4e36-42d8-9e84-2cc3a06b6a6c"
+id="ed-tbl-tblr-oc.3-tble3">
+<block><txt break.before="1"><legref type="act" jurisd="NSW" check="unknown"
+refid="act-2001-056"><name emphasis="yes"><i>Statute Law (Miscellaneous
+Provisions) Act 2001</i></name></legref>. Assented to 17.7.2001.</txt>
+<txt break.before="1">Date of commencement of Sch 2.46, assent, sec 2
+(2).</txt></block></entry></row>
+
+
+<row guid="_5c490c2a-253c-4bdb-abad-8261e8aeb29d" id="ed-tbl-tblr-oc.4">
+<entry colname="1" guid="_cc1ba584-59a8-4ef7-bf5d-d3043199a834"
+id="ed-tbl-tblr-oc.4-tble1"><txt break.before="1"><b>2006</b></txt></entry>
+<entry colname="2" guid="_dc829bdd-aa0d-4a57-a933-420718ca48b1"
+id="ed-tbl-tblr-oc.4-tble2"><txt break.before="1">No 120</txt></entry>
+<entry colname="3" guid="_c9fb1f26-5a9a-40ef-b849-fda2b1f7d598"
+id="ed-tbl-tblr-oc.4-tble3">
+<block><txt break.before="1"><legref type="act" jurisd="NSW" check="unknown"
+refid="act-2006-120"><name emphasis="yes"><i>Statute Law (Miscellaneous
+Provisions) Act (No 2) 2006</i></name></legref>. Assented to 4.12.2006.</txt>
+<txt break.before="1">Date of commencement of Sch 2, assent, sec 2
+(2).</txt></block></entry></row>
+
+
+<row guid="_d7930553-8174-4e59-b89f-18e9eedb426f" id="ed-tbl-tblr-oc.5">
+<entry colname="1" guid="_fc267172-b72f-47bb-8559-0d51daf460ff"
+id="ed-tbl-tblr-oc.5-tble1"><txt break.before="1"><b>2007</b></txt></entry>
+<entry colname="2" guid="_ad169d47-bff2-4774-9547-ed59871b6674"
+id="ed-tbl-tblr-oc.5-tble2"><txt break.before="1">No 94</txt></entry>
+<entry colname="3" guid="_b304e089-4e32-4d24-9ea5-a08b382f76a5"
+id="ed-tbl-tblr-oc.5-tble3">
+<block><txt break.before="1"><legref type="act" jurisd="NSW" check="unknown"
+refid="act-2007-094"><name emphasis="yes"><i>Miscellaneous Acts (Local Court)
+Amendment Act 2007</i></name></legref>. Assented to 13.12.2007.</txt>
+<txt break.before="1">Date of commencement of Schs 1.98 and 2&#8211;4,
+6.7.2009, sec 2 and 2009 (314) LW 3.7.2009.</txt></block></entry></row>
+
+
+<row guid="_2dcd9ba3-0f58-4263-9133-191923ab8865" id="ed-tbl-tblr-oc.6">
+<entry colname="1" guid="_a02a4bd4-36b9-4676-b7b9-ef7ac40c1f12"
+id="ed-tbl-tblr-oc.6-tble1"><txt break.before="1"><b>2010</b></txt></entry>
+<entry colname="2" guid="_8d22a3de-de75-43f8-b76f-e5ea3c756d10"
+id="ed-tbl-tblr-oc.6-tble2"><txt break.before="1">No 57</txt></entry>
+<entry colname="3" guid="_9e8f9976-53c6-4d58-b9a2-671d6b0b22fc"
+id="ed-tbl-tblr-oc.6-tble3">
+<block><txt break.before="1"><legref type="act" jurisd="NSW" check="unknown"
+refid="act-2010-057"><name emphasis="yes"><i>Personal Property Securities
+Legislation Amendment Act 2010</i></name></legref>. Assented to
+28.6.2010.</txt>
+<txt break.before="1">Date of commencement of Sch 1.24, 30.1.2012, sec 2 and
+2011 (661) LW 16.12.2011.</txt></block></entry></row>
+
+
+<row guid="_8fb8015a-4f27-484a-8563-21785f263a71" id="ed-tbl-tblr-oc.7">
+<entry colname="1" guid="_2931dad8-a574-402c-a56e-b68bc2d0580c"
+id="ed-tbl-tblr-oc.7-tble1"><txt break.before="1"><b>2017</b></txt></entry>
+<entry colname="2" guid="_6598a12c-7d2d-478e-b5a5-7da4b0f1e21f"
+id="ed-tbl-tblr-oc.7-tble2"><txt break.before="1">No 25</txt></entry>
+<entry colname="3" guid="_e5e318a2-11d2-4c02-867f-e534fea7abad"
+id="ed-tbl-tblr-oc.7-tble3">
+<block><txt break.before="1"><legref type="act" jurisd="NSW" check="unknown"
+refid="act-2017-025"><name emphasis="yes"><i>Electronic Transactions
+Legislation Amendment (Government Transactions) Act 2017</i></name></legref>.
+Assented to 27.6.2017.</txt>
+<txt break.before="1">Date of commencement, assent, sec
+2.</txt></block></entry></row>
+
+
+<row guid="_9b330f3a-102c-4feb-a3c0-a42f1a5db10a" id="ed-tbl-tblr-oc.8">
+<entry colname="1" guid="_42c53b1c-c480-443f-a67f-3f1bcdbd7abd"
+id="ed-tbl-tblr-oc.8-tble1"><txt break.before="1"><b>2018</b></txt></entry>
+<entry colname="2" guid="_bf237344-02eb-4ddd-9154-a5a23f733f31"
+id="ed-tbl-tblr-oc.8-tble2"><txt break.before="1">No 79</txt></entry>
+<entry colname="3" guid="_7ae5e3ac-68e9-435f-be26-02a170a2b9c8"
+id="ed-tbl-tblr-oc.8-tble3">
+<block><txt break.before="1"><legref type="act" jurisd="NSW" check="unknown"
+refid="act-2018-079"><name emphasis="yes"><i>Fair Trading Legislation
+Amendment (Miscellaneous) Act 2018</i></name></legref>. Assented to
+28.11.2018.</txt>
+<txt break.before="1">Date of commencement of Sch 3, 1.7.2020, sec
+2.</txt></block></entry></row>
+
+
+<row guid="_6aeaa762-0854-441b-a3bc-55ead5a8bbcf" id="ed-tbl-tblr-oc.9">
+<entry colname="1" guid="_2f60449b-0e74-4b12-a7fa-4afd52848ff4"
+id="ed-tbl-tblr-oc.9-tble1"><txt break.before="1"><b>2022</b></txt></entry>
+<entry colname="2" guid="_2d62adf5-f0e5-4420-85a6-a76ad1de378b"
+id="ed-tbl-tblr-oc.9-tble2"><txt break.before="1">No 59</txt></entry>
+<entry colname="3" guid="_597e0697-1de1-4bc5-8fc3-37428b8139c5"
+id="ed-tbl-tblr-oc.9-tble3">
+<block><txt break.before="1"><legref type="act" jurisd="NSW" check="unknown"
+refid="act-2022-059"><name emphasis="yes"><i>Statute Law (Miscellaneous
+Provisions) Act (No 2) 2022</i></name></legref>. Assented to
+26.10.2022.</txt>
+<txt break.before="1">Date of commencement, 13.1.2023, sec
+2.</txt></block></entry></row>
+
+
+<row guid="_8e478156-e9e0-4f97-993c-312bbbabe87a" id="ed-tbl-tblr-oc.10">
+<entry colname="1" guid="_e57fa61b-9666-478e-a9ef-05a3c47818e9"
+id="ed-tbl-tblr-oc.10-tble1"><txt break.before="1"><b>2024</b></txt></entry>
+<entry colname="2" guid="_1edb8545-38bc-4b70-9b94-377d34937225"
+id="ed-tbl-tblr-oc.10-tble2"><txt break.before="1">No 25</txt></entry>
+<entry colname="3" guid="_7963fa7b-dead-4b07-b2c1-45e59c3ca56c"
+id="ed-tbl-tblr-oc.10-tble3">
+<block><txt break.before="1"><legref type="act" jurisd="NSW"
+check="unknown"><name emphasis="yes"><i>Better Regulation, Fair Trading and
+Other Legislation Amendment Act 2024</i></name></legref>. Assented to
+31.5.2024.</txt>
+<txt break.before="1">Date of commencement, assent, sec
+2.</txt></block></entry></row>
+</tbody>
+</tgroup>
+</table>
+</block></level>
+
+
+<level type="tableamends">
+<head><heading guid="_dead0639-7663-4f35-a46c-f07fe4129c1a"
+id="ed-he-oc.3"><b>Table of amendments</b></heading></head>
+<block>
+
+<table frame="none" orient="port" heading.align="left" font.size="12.pt"
+guid="_59dd3870-7fc6-4391-a6f4-2d9131da0e60" id="ed-tbl-oc.2">
+
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="1" align="left" colwidth="6pi"></colspec>
+<colspec colnum="2" colname="2" align="left" colwidth="24.5pi"></colspec>
+
+<tbody>
+
+<row guid="_edbcb7cf-545b-4bc8-ab70-3d2d0b7ae0b8" id="ed-tbl-oc.2-tblr">
+<entry colname="1" guid="_30b1211b-77a3-4754-9dd2-7a210d3c590f"
+id="ed-tbl-oc.2-tblr-tble1"><txt break.before="1">Sec 3</txt></entry>
+<entry colname="2" guid="_a4c206ef-7f9f-4145-9654-df1f9bbb25de"
+id="ed-tbl-oc.2-tblr-tble2"><txt break.before="1">Am 1997 No 141, Sch 1.13
+[1]; 2010 No 57, Sch 1.24 [1]; 2018 No 79, Sch 3.1[2]
+[3].</txt></entry></row>
+
+
+<row guid="_a8663e91-76bb-4763-945b-7439539f7c53" id="ed-tbl-oc.2-tblr-oc.2">
+<entry colname="1" guid="_8f25dbb6-1878-41f2-824e-fd7cb7318c32"
+id="ed-tbl-oc.2-tblr-oc.2-tble1"><txt break.before="1">Sec 4</txt></entry>
+<entry colname="2" guid="_141557d7-581a-4887-bc03-0af4fd019162"
+id="ed-tbl-oc.2-tblr-oc.2-tble2"><txt break.before="1">Rep 2018 No 79, Sch
+3.1[4].</txt></entry></row>
+
+
+<row guid="_1f6470e2-e4b5-4aa5-8bce-12f112604d60" id="ed-tbl-oc.2-tblr-oc.3">
+<entry colname="1" guid="_446feeed-f505-49db-b4d8-4c6c16cc18b9"
+id="ed-tbl-oc.2-tblr-oc.3-tble1"><txt break.before="1">Sec 5</txt></entry>
+<entry colname="2" guid="_809c9f10-a689-4d12-aa76-91b96d93f19e"
+id="ed-tbl-oc.2-tblr-oc.3-tble2"><txt break.before="1">Am 2018 No 79, Sch
+3.1[5].</txt></entry></row>
+
+
+<row guid="_698b3771-985e-4a25-a168-8e3f9630acd8" id="ed-tbl-oc.2-tblr-oc.4">
+<entry colname="1" guid="_7a7d6058-b603-42a8-b6d0-0c03c543e641"
+id="ed-tbl-oc.2-tblr-oc.4-tble1"><txt break.before="1">Sec 6</txt></entry>
+<entry colname="2" guid="_f414c7cc-4fd5-4be1-b4cb-4d38dbe39717"
+id="ed-tbl-oc.2-tblr-oc.4-tble2"><txt break.before="1">Am 1996 No 13, Sch 1.3;
+2001 No 56, Sch 2.46; 2018 No 79, Sch 3.1[6].</txt></entry></row>
+
+
+<row guid="_50b3cc00-d806-456f-9501-6ca857ebe6dc" id="ed-tbl-oc.2-tblr-oc.5">
+<entry colname="1" guid="_4cca588c-34dc-4dde-b058-8ba2c57d0368"
+id="ed-tbl-oc.2-tblr-oc.5-tble1"><txt break.before="1">Sec 7</txt></entry>
+<entry colname="2" guid="_78a79203-3971-470f-8bd3-0588d17b12f9"
+id="ed-tbl-oc.2-tblr-oc.5-tble2"><txt break.before="1">Subst 2018 No 79, Sch
+3.1[7].</txt></entry></row>
+
+
+<row guid="_e1595244-4830-417b-bf43-ce65c27d4706" id="ed-tbl-oc.2-tblr-oc.6">
+<entry colname="1" guid="_9ec5a9ac-2744-413a-afa1-3a9ce1eb59a2"
+id="ed-tbl-oc.2-tblr-oc.6-tble1"><txt break.before="1">Part 2</txt></entry>
+<entry colname="2" guid="_a2bd4e76-e680-4e78-b2fd-2a5038874e77"
+id="ed-tbl-oc.2-tblr-oc.6-tble2"><txt break.before="1">Rep 2018 No 79, Sch
+3.1[8].</txt></entry></row>
+
+
+<row guid="_0a8f0335-27d6-4c16-84a7-1477cc0e4462" id="ed-tbl-oc.2-tblr-oc.7">
+<entry colname="1" guid="_8897b11e-a344-4c26-97cf-b9bbf045fc60"
+id="ed-tbl-oc.2-tblr-oc.7-tble1"><txt break.before="1">Sec 8</txt></entry>
+<entry colname="2" guid="_d10aea90-44a2-4233-8319-bc8e3384d4ab"
+id="ed-tbl-oc.2-tblr-oc.7-tble2"><txt break.before="1">Am 2007 No 94, Sch 2;
+2010 No 57, Sch 1.24 [2]. Rep 2018 No 79, Sch 3.1[8].</txt></entry></row>
+
+
+<row guid="_9b76da34-2111-44fd-858e-12c29d220724" id="ed-tbl-oc.2-tblr-oc.8">
+<entry colname="1" guid="_0e153225-71a5-4734-974e-f11fce91d468"
+id="ed-tbl-oc.2-tblr-oc.8-tble1"><txt break.before="1">Sec 9</txt></entry>
+<entry colname="2" guid="_6613694d-c815-4058-bbf3-3e5ae5e9afb5"
+id="ed-tbl-oc.2-tblr-oc.8-tble2"><txt break.before="1">Am 2007 No 94, Sch 3.
+Rep 2018 No 79, Sch 3.1[8].</txt></entry></row>
+
+
+<row guid="_e0beaa31-375b-4360-8092-15b5430a41ff" id="ed-tbl-oc.2-tblr-oc.9">
+<entry colname="1" guid="_31dfcad4-1eaa-4ffe-b0fc-5e79455c384d"
+id="ed-tbl-oc.2-tblr-oc.9-tble1"><txt break.before="1">Sec 10</txt></entry>
+<entry colname="2" guid="_a74a4dc2-6fd8-4beb-984e-a013eb0541ee"
+id="ed-tbl-oc.2-tblr-oc.9-tble2"><txt break.before="1">Rep 2018 No 79, Sch
+3.1[8].</txt></entry></row>
+
+
+<row guid="_fc4c587c-4cac-4a55-b031-1220a75544cb"
+id="ed-tbl-oc.2-tblr-oc.10">
+<entry colname="1" guid="_add8bfe4-da33-44cb-9f3e-c96510c0dda9"
+id="ed-tbl-oc.2-tblr-oc.10-tble1"><txt break.before="1">Sec 11</txt></entry>
+<entry colname="2" guid="_052b960b-4476-4b7e-a194-273284a3a980"
+id="ed-tbl-oc.2-tblr-oc.10-tble2"><txt break.before="1">Am 2007 No 94, Sch 3.
+Rep 2018 No 79, Sch 3.1[8].</txt></entry></row>
+
+
+<row guid="_c6a3d328-cd48-4a23-8604-584e19706b51"
+id="ed-tbl-oc.2-tblr-oc.11">
+<entry colname="1" guid="_1247d95d-de7f-4948-b88b-ee94d3a99c99"
+id="ed-tbl-oc.2-tblr-oc.11-tble1"><txt break.before="1">Secs 12,
+13</txt></entry>
+<entry colname="2" guid="_8ae942db-f391-4a1b-8f35-73aefe27266e"
+id="ed-tbl-oc.2-tblr-oc.11-tble2"><txt break.before="1">Rep 2018 No 79, Sch
+3.1[8].</txt></entry></row>
+
+
+<row guid="_fe041b36-0592-4d6b-8a57-b7d431e4e66b"
+id="ed-tbl-oc.2-tblr-oc.12">
+<entry colname="1" guid="_f4fb3398-2f6b-4d38-93bc-4d6486355452"
+id="ed-tbl-oc.2-tblr-oc.12-tble1"><txt break.before="1">Sec 14</txt></entry>
+<entry colname="2" guid="_04cb6717-812f-41f2-b7eb-e7ed3ddc4c3e"
+id="ed-tbl-oc.2-tblr-oc.12-tble2"><txt break.before="1">Am 2001 No 56, Sch
+2.46. Rep 2018 No 79, Sch 3.1[8].</txt></entry></row>
+
+
+<row guid="_b6d79dd4-de72-4ea5-b6b1-54e2abdec28d"
+id="ed-tbl-oc.2-tblr-oc.13">
+<entry colname="1" guid="_f9ec6d38-0f78-4e23-adac-9e35f13a4a6f"
+id="ed-tbl-oc.2-tblr-oc.13-tble1"><txt break.before="1">Sec 15</txt></entry>
+<entry colname="2" guid="_08442f3d-8472-47e1-ab40-27c6e6aa560f"
+id="ed-tbl-oc.2-tblr-oc.13-tble2"><txt break.before="1">Rep 2018 No 79, Sch
+3.1[8].</txt></entry></row>
+
+
+<row guid="_22cc9f87-a8a2-449c-828a-6fc2bf2508b9"
+id="ed-tbl-oc.2-tblr-oc.14">
+<entry colname="1" guid="_2e2159a9-1708-43a0-8942-3f0ee9e228c5"
+id="ed-tbl-oc.2-tblr-oc.14-tble1"><txt break.before="1">Sec 16</txt></entry>
+<entry colname="2" guid="_81b75c96-f303-48f0-8981-d6fffbe4dad5"
+id="ed-tbl-oc.2-tblr-oc.14-tble2"><txt break.before="1">Am 2007 No 94, Sch
+1.98 [1]. Rep 2018 No 79, Sch 3.1[8].</txt></entry></row>
+
+
+<row guid="_b245c95d-e79b-4d94-ba61-900df502e34d"
+id="ed-tbl-oc.2-tblr-oc.15">
+<entry colname="1" guid="_a3cf622f-48ea-486a-8aa3-7d24b4b76886"
+id="ed-tbl-oc.2-tblr-oc.15-tble1"><txt break.before="1">Sec 17</txt></entry>
+<entry colname="2" guid="_68739c9c-4670-4ef9-9824-1e17487e652d"
+id="ed-tbl-oc.2-tblr-oc.15-tble2"><txt break.before="1">Am 2006 No 120, Sch
+2.106; 2007 No 94, Schs 1.98 [2], 3. Rep 2018 No 79, Sch
+3.1[8].</txt></entry></row>
+
+
+<row guid="_b89e2241-a910-42ac-ab2f-91f1d5eaab24"
+id="ed-tbl-oc.2-tblr-oc.16">
+<entry colname="1" guid="_0e2a79e3-ad22-437f-9402-ef0cf0ea51d3"
+id="ed-tbl-oc.2-tblr-oc.16-tble1"><txt break.before="1">Sec 18</txt></entry>
+<entry colname="2" guid="_d807d5f8-e971-496b-83c2-02c788f99c45"
+id="ed-tbl-oc.2-tblr-oc.16-tble2"><txt break.before="1">Am 1997 No 141, Sch
+1.13 [2]&#8211;[5]; 2007 No 94, Sch 2. Rep 2018 No 79, Sch
+3.1[8].</txt></entry></row>
+
+
+<row guid="_586318a3-2344-4146-b056-bc2286dabe58"
+id="ed-tbl-oc.2-tblr-oc.17">
+<entry colname="1" guid="_db27c6aa-712b-4777-9785-ef82556bce9e"
+id="ed-tbl-oc.2-tblr-oc.17-tble1"><txt break.before="1">Secs
+19&#8211;21</txt></entry>
+<entry colname="2" guid="_61239f0a-dc28-42e2-92f3-e3a2c2c81016"
+id="ed-tbl-oc.2-tblr-oc.17-tble2"><txt break.before="1">Subst 2018 No 79, Sch
+3.1[9].</txt></entry></row>
+
+
+<row guid="_d01561c2-343c-4f92-bce2-d49a5024ed1d"
+id="ed-tbl-oc.2-tblr-oc.18">
+<entry colname="1" guid="_b0bf294b-281a-4925-940b-e3930bf370ec"
+id="ed-tbl-oc.2-tblr-oc.18-tble1"><txt break.before="1">Sec 22</txt></entry>
+<entry colname="2" guid="_0b7d2009-4ec7-44e0-bb48-b81b0be29ac6"
+id="ed-tbl-oc.2-tblr-oc.18-tble2"><txt break.before="1">Am 2017 No 25, Sch
+3.4. Subst 2018 No 79, Sch 3.1[9].</txt></entry></row>
+
+
+<row guid="_3df675a8-bb43-442a-b1fb-313a0fff9eef"
+id="ed-tbl-oc.2-tblr-oc.19">
+<entry colname="1" guid="_81bfcf25-439d-4835-841c-7f4dfd4e88f5"
+id="ed-tbl-oc.2-tblr-oc.19-tble1"><txt break.before="1">Sec 22A</txt></entry>
+<entry colname="2" guid="_00210250-ae45-4bea-ac00-29d18fc04b51"
+id="ed-tbl-oc.2-tblr-oc.19-tble2"><txt break.before="1">Ins 2018 No 79, Sch
+3.1[9].</txt></entry></row>
+
+
+<row guid="_ad7f7933-1298-441b-8d37-820400660abb"
+id="ed-tbl-oc.2-tblr-oc.20">
+<entry colname="1" guid="_c88d0126-5f76-4fa6-8bf2-d45c9450cf73"
+id="ed-tbl-oc.2-tblr-oc.20-tble1"><txt break.before="1">Sec 24</txt></entry>
+<entry colname="2" guid="_aa57d4db-3e9c-4020-8f86-bb01ef5dd612"
+id="ed-tbl-oc.2-tblr-oc.20-tble2"><txt break.before="1">Am 2018 No 79, Sch
+3.1[10].</txt></entry></row>
+
+
+<row guid="_76520a38-43af-4d0d-98c8-4ddbb414d699"
+id="ed-tbl-oc.2-tblr-oc.21">
+<entry colname="1" guid="_6d8b979a-3098-4794-a8cf-0506caad79e0"
+id="ed-tbl-oc.2-tblr-oc.21-tble1"><txt break.before="1">Sec 27</txt></entry>
+<entry colname="2" guid="_9ce8b68d-6f27-482e-a430-1dedef7207ce"
+id="ed-tbl-oc.2-tblr-oc.21-tble2"><txt break.before="1">Subst 2017 No 25, Sch
+1.38; 2024 No 25, Sch 6.21.</txt></entry></row>
+
+
+<row guid="_61d5cb7a-0ee4-48dc-be47-8eddbfede4f8"
+id="ed-tbl-oc.2-tblr-oc.22">
+<entry colname="1" guid="_cacd767e-0346-471a-9347-fb28a74014d7"
+id="ed-tbl-oc.2-tblr-oc.22-tble1"><txt break.before="1">Sec 28</txt></entry>
+<entry colname="2" guid="_269c54b2-32de-4882-8a8d-4c4352c6afb8"
+id="ed-tbl-oc.2-tblr-oc.22-tble2"><txt break.before="1">Am 2018 No 79, Sch
+3.1[11]; 2022 No 59, Sch 1.36.</txt></entry></row>
+
+
+<row guid="_95b00ed9-0c9d-4452-833b-c192cbca8576"
+id="ed-tbl-oc.2-tblr-oc.23">
+<entry colname="1" guid="_4fae01b2-af50-4852-8a5a-6a49a29a87e7"
+id="ed-tbl-oc.2-tblr-oc.23-tble1"><txt break.before="1">Sec 29</txt></entry>
+<entry colname="2" guid="_49084590-2428-48db-a4d0-979794e7db53"
+id="ed-tbl-oc.2-tblr-oc.23-tble2"><txt break.before="1">Am 2001 No 56, Sch
+2.46.</txt></entry></row>
+
+
+<row guid="_d049e653-af43-4f73-a668-1b056758a9a2"
+id="ed-tbl-oc.2-tblr-oc.24">
+<entry colname="1" guid="_e2a271e1-73a2-4485-87ea-1406b4273d82"
+id="ed-tbl-oc.2-tblr-oc.24-tble1"><txt break.before="1">Sec 30</txt></entry>
+<entry colname="2" guid="_db40bf1b-1d47-48b9-a21f-a8ce4186a2ef"
+id="ed-tbl-oc.2-tblr-oc.24-tble2"><txt break.before="1">Am 2018 No 79, Sch
+3.1[12] [13].</txt></entry></row>
+
+
+<row guid="_0bc02b45-0165-4946-86e8-5f4389acdf2a"
+id="ed-tbl-oc.2-tblr-oc.25">
+<entry colname="1" guid="_e7533cc0-dbec-4f32-8e1c-1c8e8e714485"
+id="ed-tbl-oc.2-tblr-oc.25-tble1"><txt break.before="1">Sec 31</txt></entry>
+<entry colname="2" guid="_6971336b-bc1e-45fd-b8b0-3553de0e7700"
+id="ed-tbl-oc.2-tblr-oc.25-tble2"><txt break.before="1">Am 2018 No 79, Sch
+3.1[14].</txt></entry></row>
+
+
+<row guid="_74576beb-0a96-41fb-9b09-d1c8ddd87ae9"
+id="ed-tbl-oc.2-tblr-oc.26">
+<entry colname="1" guid="_3a4be9d6-1c73-4ef9-9f29-eeb0704a04e1"
+id="ed-tbl-oc.2-tblr-oc.26-tble1"><txt break.before="1">Part 3A (secs 31A,
+31B)</txt></entry>
+<entry colname="2" guid="_96118d00-24dd-4952-bd2f-d3de2e41e049"
+id="ed-tbl-oc.2-tblr-oc.26-tble2"><txt break.before="1">Ins 2018 No 79, Sch
+3.1[15].</txt></entry></row>
+
+
+<row guid="_b3a30749-bd8d-4e79-b284-90c4d1a62da7"
+id="ed-tbl-oc.2-tblr-oc.27">
+<entry colname="1" guid="_ca68c389-9a27-4aeb-8cc3-5e7778c9fd10"
+id="ed-tbl-oc.2-tblr-oc.27-tble1"><txt break.before="1">Sec 32</txt></entry>
+<entry colname="2" guid="_665dc6b2-7cb1-4437-8e59-cdd2938142bd"
+id="ed-tbl-oc.2-tblr-oc.27-tble2"><txt break.before="1">Rep 2018 No 79, Sch
+3.1[16].</txt></entry></row>
+
+
+<row guid="_e4e1c1da-b0d4-440c-8bdd-99974e96cac9"
+id="ed-tbl-oc.2-tblr-oc.28">
+<entry colname="1" guid="_36553e4b-9b4d-406d-9a66-f157d5ae7303"
+id="ed-tbl-oc.2-tblr-oc.28-tble1"><txt break.before="1">Sec 37</txt></entry>
+<entry colname="2" guid="_9fc86f82-1d96-45c5-a924-afd3cc7731ed"
+id="ed-tbl-oc.2-tblr-oc.28-tble2"><txt break.before="1">Am 2007 No 94, Sch
+4.</txt></entry></row>
+
+
+<row guid="_664b9f02-0209-4bc3-adfe-bc5bda16249c"
+id="ed-tbl-oc.2-tblr-oc.29">
+<entry colname="1" guid="_b5e85813-a9f8-4dd8-8623-d3d61b89776e"
+id="ed-tbl-oc.2-tblr-oc.29-tble1"><txt break.before="1">The whole Act (except
+Sch 1)</txt></entry>
+<entry colname="2" guid="_79d58a5e-c890-46a2-b3d0-ba043e4de9a9"
+id="ed-tbl-oc.2-tblr-oc.29-tble2"><txt break.before="1">Am 2018 No 79, Sch
+3.1[1] (&#8220;bailor&#8221;, &#8220;bailee&#8221; and
+&#8220;bailee&#8217;s&#8221; omitted wherever occurring,
+&#8220;depositor&#8221;, &#8220;receiver&#8221; and
+&#8220;receiver&#8217;s&#8221; inserted instead,
+respectively).</txt></entry></row>
+</tbody>
+</tgroup>
+</table>
+</block></level>
+</level>
+</content>
+</exdoc>
