@@ -6,6 +6,9 @@ import org.apache.commons.io.IOUtils;
 import org.apache.solr.client.solrj.impl.CloudHttp2SolrClient;
 import org.apache.solr.client.solrj.impl.CloudSolrClient;
 import org.apache.solr.common.SolrInputDocument;
+import org.dom4j.DocumentHelper;
+import org.dom4j.io.OutputFormat;
+import org.dom4j.io.XMLWriter;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.xml.sax.InputSource;
@@ -24,10 +27,7 @@ import javax.xml.stream.events.Characters;
 import javax.xml.stream.events.EndElement;
 import javax.xml.stream.events.StartElement;
 import javax.xml.stream.events.XMLEvent;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
+import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
@@ -62,7 +62,12 @@ public class Main {
 		File outputFile = new File("./cached/" + act + ".xml");
 
 		if (!outputFile.exists()) {
+
 			FileUtils.copyURLToFile(new URL(xmlUrl), outputFile);
+			String xml = FileUtils.readFileToString(outputFile, StandardCharsets.UTF_8);
+
+			FileUtils.writeStringToFile(outputFile, prettyPrintByDom4j(xml, 2, true), StandardCharsets.UTF_8);
+			;
 		} else {
 			System.out.println("Already downloaded - ignoring");
 		}
@@ -84,14 +89,18 @@ public class Main {
 		String contentType = "";
 		String level = "";
 		String id = "";
-		String heading = "";
-		String content = "";
 
-		StringBuilder text = new StringBuilder();
+		StringBuilder heading = new StringBuilder();
+		StringBuilder content = new StringBuilder();
+		boolean isHeading = false;
+		boolean isContent = false;
+		boolean isList = false;
 
 		while (reader.hasNext()) {
 			boolean shouldIndex = (contentType.equals("body") || contentType.equals("schedules"));
+
 			XMLEvent nextEvent = reader.nextEvent();
+
 			if (nextEvent.isStartElement()) {
 				StartElement startElement = nextEvent.asStartElement();
 				String element = startElement.getName().getLocalPart();
@@ -100,30 +109,95 @@ public class Main {
 						contentType = startElement.getAttributeByName(new QName("type")).getValue();
 						System.out.println("found contentType of '" + contentType + "'");
 						break;
-					case "level":
+					case "level", "tier":
 						if (shouldIndex) {
 							level = startElement.getAttributeByName(new QName("type")).getValue();
 							id = startElement.getAttributeByName(new QName("id")).getValue();
-							System.out.println(text);
 							System.out.println("found level of '" + level + "', with id of '" + id + "'");
-							text.setLength(0);
 						}
 						break;
+					case "head":
+						isHeading = true;
+						isContent = false;
+						break;
+					case "block":
+						isContent = true;
+						isHeading = false;
+						break;
+					case "list", "deflist":
+						isList = true;
+						break;
+
 				}
 			}
 
-			if(nextEvent.isCharacters()) {
-				if(shouldIndex) {
+			if (nextEvent.isCharacters()) {
+				if (shouldIndex) {
 					Characters characters = nextEvent.asCharacters();
-					String data = characters.getData();
-					if(!data.isEmpty()) {
-						text.append(data.trim() + " ");
+					String data = characters.getData().replaceAll("\\n", " ").trim();
+					if (isHeading) {
+						if (!data.isBlank()) {
+							heading.append(data)
+									.append(" ");
+						}
 					}
+					if (isContent) {
+						if(isList) {
+							content.append("\n");
+							isList = false;
+						}
+
+						if (!data.isBlank()) {
+							content.append(data)
+									.append(" ");
+						}
+					}
+				}
+			}
+
+			if (nextEvent.isEndElement()) {
+				EndElement endElement = nextEvent.asEndElement();
+				String element = endElement.getName().getLocalPart();
+				switch (element) {
+					case "head":
+						String trim = heading.toString().trim();
+						if (!trim.isBlank()) {
+							System.out.println("[HEADING] " + trim);
+						}
+						heading.setLength(0);
+						break;
+					case "block":
+						String contentTrim = content.toString().trim();
+						if (!contentTrim.isBlank()) {
+							System.out.println("[CONTENT] " + contentTrim);
+						}
+						content.setLength(0);
+						break;
+					case "list", "deflist":
+						isList = false;
+						break;
 				}
 			}
 		}
 		//				SolrInputDocument doc = new SolrInputDocument();
 		//		doc.addField();
 
+	}
+
+	public static String prettyPrintByDom4j(String xmlString, int indent, boolean skipDeclaration) {
+		try {
+			OutputFormat format = OutputFormat.createPrettyPrint();
+			format.setIndentSize(indent);
+			format.setSuppressDeclaration(skipDeclaration);
+			format.setEncoding("UTF-8");
+
+			org.dom4j.Document document = DocumentHelper.parseText(xmlString);
+			StringWriter sw = new StringWriter();
+			XMLWriter writer = new XMLWriter(sw, format);
+			writer.write(document);
+			return sw.toString();
+		} catch (Exception e) {
+			throw new RuntimeException("Error occurs when pretty-printing xml:\n" + xmlString, e);
+		}
 	}
 }
