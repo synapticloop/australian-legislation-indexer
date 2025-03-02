@@ -53,6 +53,11 @@ public class Main {
 			String type = jsonObject.getString("type");
 			String xmlUrl = jsonObject.getString("xml_url");
 			downloadAndParse(name, type, xmlUrl);
+			for (ContentBean contentBean : contentBeans) {
+				System.out.println("------------------------");
+				System.out.println(contentBean);
+			}
+			return;
 		}
 	}
 
@@ -77,6 +82,7 @@ public class Main {
 		// now we are going to parse it
 
 		indexFile(name, type, outputFile);
+		// indexToSolr
 	}
 
 	private static void indexFile(String name, String type, File outputFile) throws IOException, XMLStreamException, ParserConfigurationException, SAXException {
@@ -86,7 +92,6 @@ public class Main {
 		// do the XML parsing
 		XMLInputFactory xmlInputFactory = XMLInputFactory.newInstance();
 		XMLEventReader reader = xmlInputFactory.createXMLEventReader(new FileInputStream(outputFile));
-
 
 		String contentType = "";
 		String level = "";
@@ -117,9 +122,13 @@ public class Main {
 							level = startElement.getAttributeByName(new QName("type")).getValue();
 							id = startElement.getAttributeByName(new QName("id")).getValue();
 							System.out.println("found level of '" + level + "', with id of '" + id + "'");
+
+							currentContentBean.setId(id);
+							currentContentBean.setType(level);
 						}
 						break;
 					case "head":
+						currentContentBean = new ContentBean();
 						isHeading = true;
 						isContent = false;
 						break;
@@ -167,6 +176,7 @@ public class Main {
 						if (!trim.isBlank()) {
 							System.out.println("[HEADING] " + trim);
 						}
+						currentContentBean.setHeading(heading.toString());
 						heading.setLength(0);
 						break;
 					case "block":
@@ -174,10 +184,15 @@ public class Main {
 						if (!contentTrim.isBlank()) {
 							System.out.println("[CONTENT] " + contentTrim);
 						}
+						currentContentBean.addContent(isList, contentTrim);
 						content.setLength(0);
 						break;
 					case "list", "deflist":
 						isList = false;
+						break;
+					case "level":
+						contentBeans.add(currentContentBean);
+//						currentContentBean = new ContentBean();
 						break;
 				}
 			}
