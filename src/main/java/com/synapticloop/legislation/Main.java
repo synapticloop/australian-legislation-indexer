@@ -1,5 +1,6 @@
 package com.synapticloop.legislation;
 
+import com.synapticloop.legislation.bean.ContentBean;
 import com.synapticloop.legislation.handle.LegislationHandler;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.IOUtils;
@@ -31,10 +32,12 @@ import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
+import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
 public class Main {
+	public static List<ContentBean> contentBeans = new ArrayList<>();
 	public static void main(String[] args) throws IOException, XMLStreamException, ParserConfigurationException, SAXException {
 		// This is where you can kick off the indexing project
 		// load the JSON file
@@ -42,14 +45,14 @@ public class Main {
 				new File("./legislation.json"),
 				StandardCharsets.UTF_8));
 
-		Iterator<Object> iterator = jsonArray.iterator();
-		while (iterator.hasNext()) {
-			JSONObject jsonObject = (JSONObject) iterator.next();
+		for (Object o : jsonArray) {
+			contentBeans.clear();
+
+			JSONObject jsonObject = (JSONObject) o;
 			String name = jsonObject.getString("name");
 			String type = jsonObject.getString("type");
 			String xmlUrl = jsonObject.getString("xml_url");
 			downloadAndParse(name, type, xmlUrl);
-			return;
 		}
 	}
 
@@ -62,12 +65,11 @@ public class Main {
 		File outputFile = new File("./cached/" + act + ".xml");
 
 		if (!outputFile.exists()) {
-
+			// we are cleaning up the XML to fix newline issues
 			FileUtils.copyURLToFile(new URL(xmlUrl), outputFile);
 			String xml = FileUtils.readFileToString(outputFile, StandardCharsets.UTF_8);
 
 			FileUtils.writeStringToFile(outputFile, prettyPrintByDom4j(xml, 2, true), StandardCharsets.UTF_8);
-			;
 		} else {
 			System.out.println("Already downloaded - ignoring");
 		}
@@ -95,6 +97,7 @@ public class Main {
 		boolean isHeading = false;
 		boolean isContent = false;
 		boolean isList = false;
+		ContentBean currentContentBean = new ContentBean();
 
 		while (reader.hasNext()) {
 			boolean shouldIndex = (contentType.equals("body") || contentType.equals("schedules"));
